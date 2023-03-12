@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="https://i.imgur.com/TbjfGoQ.png" width="250px"> <img src="https://upload.wikimedia.org/wikipedia/sr/thumb/e/ec/Chernobyl_logo.png/800px-Chernobyl_logo.png?20190601184330" width="300px"> <br/>Projeto HeadShot - Dayz StandAlone</h1>
+      <h1> <img src="https://i.imgur.com/TbjfGoQ.png" width="250px"> <br/> <img src="https://upload.wikimedia.org/wikipedia/sr/thumb/e/ec/Chernobyl_logo.png/800px-Chernobyl_logo.png?20190601184330" width="300px"> <br/>Projeto HeadShot - Dayz StandAlone</h1>
      </div>
 
 
