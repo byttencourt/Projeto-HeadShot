@@ -7,10 +7,28 @@
 Com objetivo de desenvolver um Servidor de Sobrevivência na Plataforma Dayz StandAlone foi criado o Projeto HeadShot.
 
 # Características
-Utilizando a engine enfusion e o Framework Community a base foi desenvolvida com propósito de ser mais que apenas um servidor de sobrevivência. Ambientado no mapa de Pripyat (Chernobyl) e com diversas melhorias e funções o jogo recebeu um pacote de opções na qual o sobrevivente pode utilizar a economia para fazer micro-transações compra e venda através da trader-zone, comprar itens, veículos e construir bases.  
+Com propósito de ser mais que apenas um servidor de sobrevivência o projeto foi ambientado no mapa de Pripyat (Chernobyl) recebeu com diversas melhorias e funções não disponíveis na versão do jogo base. Algumas das opções incluem o sobrevivente poder utilizar a economia para fazer micro-transações através de compras e vendas na trader-zone, itens, alimentos, armamentos, roupas e até veículos. Além de construir bases com sistema BaseBuildingPlus.  
 
-Diversas atualizações e melhorias foram aplicadas com a utilização de Soluções disponíveis pela Comunidade do Dayz utilizando Oficina para carregar de forma Gratuita.
+Diversas atualizações e melhorias foram aplicadas com a utilização de Soluções disponíveis pela Comunidade do Dayz através da Oficina.
+
+- Mapa Pripyat em Escala Real a cidade.
+- Sistema Avançado de miras e Acessórios para Armas.
+- Sistema de Patrulhas que aparecem randomicamente pelo mapa tornando a Zona de Exclusâo extremamente Hostil.
+- Sistema de Navegação Por GPS com possibilidade de marcação no mapa e Criação de grupos para patrulha.
+- Sistema de Animações Adicionais.
+- Adicionados Mods de Veículos e incluindo Aeronaves como Uh1h, LitleBird, Pick ups e Blindados Militares.
+- Criação de Áreas demarcadas como Safe-Zones e Trader-zones com Edição personalizada do Mapa.
+- Adicionados mods de Roupas modulares e Armamentos Reais.
+- Locais de Radiação com necessidade de uso de equipamentos para proteção
+- Trader e TraderPlus configurados com moeda corrente e Sistema de Banco. (Travamento do veiculo por senha)
+- Sistema de Radio que é possivel escutar músicas nos veículos e Radios e vendidos na Safe-zone.
+- Itens colecionaveis que podem ser Vendidos na Safe-zone.
+- Sistema de Airdrop.
+- possibilidade de encontrar cartões de Bunkers espalhados pelo mapa.
+
+
 # Screenshots
+ <img src= "https://i.imgur.com/2eFzPMq.png"> <img src= "https://i.imgur.com/SAY2wMi.jpeg">
  <img src="https://images-ext-1.discordapp.net/external/kRDevZkMNGeLGz1-GM7-r1XfkAXue2QxPYVQ1olgQ10/https/i.imgur.com/I11dRNl.png?width=871&height=569"> <img src="https://images-ext-2.discordapp.net/external/auNfVj-qip9KqJU_FsKOCpbJmBrm86IeU6SetWblBjk/https/i.imgur.com/eAWWazg.png"> <img src="https://images-ext-1.discordapp.net/external/PQQD9d7eBhSTLv8bcVw0xbAqKoA7a6ze0b_FZL9rW0Y/https/i.imgur.com/V0ersvr.jpg?width=871&height=490"> <img src="https://images-ext-1.discordapp.net/external/SRp8JdmXzghIHEPjfEZ1RaqX8qpteoSdj4o4Ljb3wHc/https/i.imgur.com/zRrQ5Vw.jpg?width=871&height=490">
 # Tech Used
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
