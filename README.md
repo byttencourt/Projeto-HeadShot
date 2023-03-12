@@ -22,15 +22,62 @@ Diversas atualizações e melhorias foram aplicadas com a utilização de Soluç
 Recomendado uso do Omega Manager para gerenciamento dos mods e autalizações evitando trabalho manual e facilitando processo. 
 
 ### Como Instalar:
-- Step 1: baixar Omega Manager: https://cdn.cftools.de/om/OmegaManager.exe e realizar as configurações conforme o manual do contido em https://wiki.cftools.de/display/CFTOOL/OmegaManager
+- Step 1: baixar Omega Manager: https://cdn.cftools.de/om/OmegaManager.exe.
 - Step 2: Inscrever-se nos mods abaixo e suas respectivas dependências, através da Oficina da Steam.
 
-### You can add API references
+### Mods dependentes e referencias Oficina
 | Mod | cód oficina |
 | ----------- | ----------- |
 | @Pripyat | 2929038098 |
 | @S.T.A.L.K.E.R. Area Of Decay Building | 2871588282 |
 | @CF | 1559212036 |
-    
+| @AC-Mod-Pack | 2030913708 |
+| @Advanced Weapon Scopes | 2143128974 |
+| @Community-Online-Tools | 1564026768 |
+| @Dabs Framework | 2545327648 |
+| @DayZ-Expansion-Core | 2291785308 |
+| @DayZ-Expansion-AI | 2792982069 |
+| @DayZ-Expansion-Navigation | 2792984722 |
+| @DayZ-Expansion-Book | 2572324799 |
+| @DayZ-Expansion-Groups | 2792983364 |
+| @DayZ-Expansion-Licensed | 2116157322 |
+| @DayZ-Expansion-Animations | 2793893086 |
+| @DayZ-Expansion-Weapons | 2792985069 |
+| @DayZ-Expansion-Name-Tags | 2576460232 |
+| @Free Helicopters | 2510772574 |
+| @FS | 2428595209 |
+| @GoreZ | 1648967877 |
+| @Inventory Move Sounds | 2444247391 |
+| @Modular Vest System | 1962144102 |  
+| @RadZone | 2294323732 |
+| @SNAFU Weapons | 2443122116 |
+| @VPPAdminTools | 1828439124 |
+| @IRP-Land-Rover-Defender-110 | 1912237302 |
+| @DayZ-Expansion-Spawn-Selection | 2804241648 |
+| @Trader | 1590841260 |
+| @TraderPlus | 2458896948 |
+| @DayZ Editor Loader | 2276010135 |
+| @MMG - Mightys Military Gear | 2663169692 |
+| @Dex Storage Stuff | 2442719054 |
+| @MMG Base Storage | 2789443787 |
+| @BuilderItems | 1565871491 |
+| @LIGHTS | 2822125184 |
+| @Airdrop-Upgraded | 1870524790 |
+| @Tactical Flava | 2646817942 |
+| @Bippop | 2934999934 |
+| @Code Lock | 1646187754 |
+| @BaseBuildingPlus | 1710977250 |
+| @HealthStick | 2611036502 |
+| @Radio | 2551386601 |
+| @Collectable Items | 2575183443 |
+| @Zen's 1PP PVP Mod | 2887485288 |
+| @BulletStacksPlusPlusEnhanced | 2676755750 |
+| @KillReward | 2181531192 |
+| @FlipTransport | 1832448183 |
+| @DNA Keycards | 2714183642 |
+
+
+
+
 
 
