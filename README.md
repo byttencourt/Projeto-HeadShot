@@ -11,13 +11,13 @@ Mais que apenas um servidor de sobrevivência o projeto foi ambientado no mapa d
 
 Diversas atualizações e melhorias foram aplicadas com a utilização de Soluções disponíveis pela Comunidade do Dayz através da Oficina.
 
-- Mapa Pripyat em Escala Real a cidade.
+- Mapa Pripyat recriado em escala 1:1 da Zona de Exclusão de Chernobyl.
+- Edição Personalizada através do DayzEditor Adicionando locais e Construções no mapa.
 - Sistema Avançado de miras e Acessórios para Armas.
 - Sistema de Patrulhas que aparecem randomicamente pelo mapa tornando a Zona de Exclusâo extremamente Hostil.
 - Sistema de Navegação Por GPS com possibilidade de marcação no mapa e Criação de grupos para patrulha.
 - Sistema de Animações Adicionais.
 - Adicionados Mods de Veículos e incluindo Aeronaves como Uh1h, LitleBird, Pick ups e Blindados Militares.
-- Criação de Áreas demarcadas como Safe-Zones e Trader-zones com Edição personalizada do Mapa.
 - Adicionados mods de Roupas modulares e Armamentos Reais.
 - Locais de Radiação com necessidade de uso de equipamentos para proteção
 - Trader e TraderPlus configurados com moeda corrente e Sistema de Banco. (Travamento do veiculo por senha)
