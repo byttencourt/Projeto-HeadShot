@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="https://i.imgur.com/TbjfGoQ.png" width="80px"><br/>Projeto HeadShot - Dayz StandAlone</h1>
+      <h1> <img src="https://i.imgur.com/TbjfGoQ.png" width="250px"><br/>Projeto HeadShot - Dayz StandAlone</h1>
      </div>
 
 
