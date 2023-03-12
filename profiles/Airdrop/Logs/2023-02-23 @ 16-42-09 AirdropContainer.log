@@ -1,0 +1,31 @@
+2023-02-23 @ 16-42-09:  [InitializeContainer] Winds: Vector <10.229777, 0.000000, -2.050545>, Speed 10.4333mps, Strength 0.1
+2023-02-23 @ 16-42-09:  [InitializeContainer] Parachute created on @ <13454.729492, 149.136780, 18772.595703>
+2023-02-23 @ 16-42-44:  [AirdropContainerFall] Airdrop Container Touchdown @ <13454.729492, 11.136877, 18772.595703>
+2023-02-23 @ 16-42-44:  [ADU_RemoveParachute] Parachute removed.
+2023-02-23 @ 16-42-44:  [ADU_RepositionContainer] Container repositioned.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/20/18, Flare:  10%
+2023-02-23 @ 16-42-44:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [1] TacticalBaconCan @ <13456.063477, 8.354592, 18774.968750> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [2] Mosin_Compensator @ <13454.212891, 8.447656, 18773.789063> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [3] TTSKOPants @ <13453.640625, 8.461766, 18773.996094> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [4] LargeTent @ <13453.713867, 8.259085, 18770.802734> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [5] TTSKOPants @ <13451.962891, 8.423666, 18773.435547> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [6] Mosin9130 @ <13453.374023, 8.322563, 18771.949219> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [7] M4A1 @ <13455.784180, 8.102986, 18770.220703> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [8] M4A1 @ <13456.260742, 8.193167, 18772.457031> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [9] AmmoBox_762x39_20Rnd @ <13454.116211, 8.483764, 18774.320313> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [10] MilitaryBoots_Redpunk @ <13454.415039, 8.472142, 18774.148438> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [11] Mosin_Bayonet @ <13453.874023, 8.330947, 18772.072266> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [12] AmmoBox_762x39_20Rnd @ <13456.000977, 8.270962, 18773.103516> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [13] Mosin_Bayonet @ <13453.631836, 8.391625, 18772.964844> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [14] TacticalBaconCan @ <13456.514648, 8.182322, 18772.783203> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [15] Izh18 @ <13455.294922, 8.456650, 18774.486328> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [16] Izh18 @ <13453.182617, 8.265078, 18770.541016> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [17] Mag_STANAG_30Rnd @ <13455.923828, 8.089710, 18770.291016> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [18] CombatBoots_Grey @ <13454.328125, 8.429062, 18773.515625> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [19] MilitaryBoots_Redpunk @ <13456.938477, 8.190300, 18774.359375> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  [ADU_SpawnItems] Loot Spawned [20] AKM @ <13456.375977, 8.092088, 18771.189453> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 16-42-44:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-23 @ 16-42-44:  [EOnSimulate] Airdrop Container deactivated.
+2023-02-23 @ 17-12-09:  [~AirdropContainerBase] Log file closed.
+2023-02-23 @ 17-12-09:  [~AirdropContainerBase] Container Destroyed.

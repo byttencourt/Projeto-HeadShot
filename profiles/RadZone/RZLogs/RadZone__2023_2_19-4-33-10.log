@@ -1,0 +1,110 @@
+Creation Time: 2023_2_19-4-33-10
+4-33-10 | [INFO] RZRadZoneCore - Started ! => Loading config...
+4-33-10 | [INFO] Checking if old config...
+4-33-10 | [INFO] Current config loading...
+4-33-10 | [INFO] RadZoneJsonLoader::LoadFromFile Loaded file: $profile:RadZone\RZConfig\ClothesProtectionConfigV1.json
+4-33-10 | [INFO] RadZoneJsonLoader::LoadFromFile Loaded file: $profile:RadZone\RZConfig\CrateSystemConfigV1.json
+4-33-10 | [INFO] RadZoneJsonLoader::LoadFromFile Loaded file: $profile:RadZone\RZConfig\RadiationConfigV1.json
+4-33-10 | [INFO] CrateSystem - Started !
+4-33-10 | [INFO] RZRadZoneServer - Started
+4-33-47 | [INFO] LootSpawner - Started !
+4-33-47 | [INFO] CheckCreatureStatus Started !
+4-33-47 | [INFO] Object:Creature equal to 0!
+4-33-47 | [INFO] [LOOTSYSTEM]: [CrateCleaner] !
+4-33-47 | [INFO] [LOOTSYSTEM]: CrateList equal to 0!
+4-33-47 | [INFO] NumberOfCratePerTime: 1
+4-33-47 | [INFO] Crates count:7
+4-33-47 | [INFO] Crate pos:<4623.640137, 343.319000, 9557.330078>maxloot: 10
+4-33-47 | [INFO] [LOOTSYSTEM]: A previous case has been found at that location and got deleted!
+4-33-47 | [INFO] [LOOTSYSTEM]: Spawned CrateName: Army2- Position: X:4623.64 Y:343.319 Z:9557.33
+4-33-47 | [INFO] Fal_FoldingBttstck
+4-33-47 | [INFO] Fal_OeBttstck
+4-33-47 | [INFO] ACOGOptic
+4-33-47 | [INFO] FAL + Mag_FAL_20Rnd
+4-33-47 | [INFO] AmmoBox_545x39_20Rnd
+4-33-47 | [INFO] AmmoBox_556x45_20Rnd
+4-33-47 | [INFO] AK_RailHndgrd_Black
+4-33-47 | [INFO] AK74_WoodBttstck
+4-33-47 | [INFO] SVD + Mag_SVD_10Rnd
+4-33-47 | [INFO] AK74 + Mag_AK74_30Rnd
+4-33-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+4-33-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+4-33-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+4-33-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+4-33-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+4-33-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+4-33-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+4-33-47 | [INFO] [CREATURE SYSTEM] Animal_UrsusArctos has spawned !
+4-33-47 | [INFO] NumberOfCratePerTime: 1
+4-33-47 | [INFO] Crates count:7
+4-33-47 | [INFO] Crate pos:<11860.200195, 141.061005, 12423.500000>maxloot: 10
+4-33-47 | [INFO] [LOOTSYSTEM]: A previous case has been found at that location and got deleted!
+4-33-47 | [INFO] [LOOTSYSTEM]: Spawned CrateName: Army2- Position: X:11860.2 Y:141.061 Z:12423.5
+4-33-47 | [INFO] Fal_FoldingBttstck
+4-33-47 | [INFO] Fal_OeBttstck
+4-33-47 | [INFO] ACOGOptic
+4-33-47 | [INFO] FAL + Mag_FAL_20Rnd
+4-33-47 | [INFO] AmmoBox_545x39_20Rnd
+4-33-47 | [INFO] AmmoBox_556x45_20Rnd
+4-33-47 | [INFO] AK74_WoodBttstck
+4-33-47 | [INFO] AK_Bayonet
+4-33-47 | [INFO] AK_FoldingBttstck_Black
+4-33-47 | [INFO] SVD + Mag_SVD_10Rnd
+4-33-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+4-33-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+4-33-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+4-33-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+4-33-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+4-33-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+4-33-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+4-33-47 | [INFO] [CREATURE SYSTEM] Animal_UrsusArctos has spawned !
+5-18-47 | [INFO] LootSpawner - Started !
+5-18-47 | [INFO] CheckCreatureStatus Started !
+5-18-47 | [INFO] Object:Creature deleted!
+5-18-47 | [INFO] Object:Creature deleted!
+5-18-47 | [INFO] Object:Creature deleted!
+5-18-47 | [INFO] Object:Creature deleted!
+5-18-47 | [INFO] Object:Creature deleted!
+5-18-47 | [INFO] Object:Creature deleted!
+5-18-47 | [INFO] Object:Creature deleted!
+5-18-47 | [INFO] Object:Creature deleted!
+5-18-47 | [INFO] [LOOTSYSTEM]: [CrateCleaner] !
+5-18-47 | [INFO] NumberOfCratePerTime: 1
+5-18-47 | [INFO] Crates count:7
+5-18-47 | [INFO] Crate pos:<4623.640137, 343.319000, 9557.330078>maxloot: 10
+5-18-47 | [INFO] [LOOTSYSTEM]: Spawned CrateName: Army2- Position: X:4623.64 Y:343.319 Z:9557.33
+5-18-47 | [INFO] Fal_FoldingBttstck
+5-18-47 | [INFO] Fal_OeBttstck
+5-18-47 | [INFO] FAL + Mag_FAL_20Rnd
+5-18-47 | [INFO] AmmoBox_545x39_20Rnd
+5-18-47 | [INFO] AmmoBox_556x45_20Rnd
+5-18-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+5-18-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+5-18-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+5-18-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+5-18-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+5-18-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+5-18-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+5-18-47 | [INFO] [CREATURE SYSTEM] Animal_UrsusArctos has spawned !
+5-18-47 | [INFO] NumberOfCratePerTime: 1
+5-18-47 | [INFO] Crates count:7
+5-18-47 | [INFO] Crate pos:<11860.200195, 141.061005, 12423.500000>maxloot: 10
+5-18-47 | [INFO] [LOOTSYSTEM]: Spawned CrateName: Army2- Position: X:11860.2 Y:141.061 Z:12423.5
+5-18-47 | [INFO] Fal_FoldingBttstck
+5-18-47 | [INFO] FAL + Mag_FAL_20Rnd
+5-18-47 | [INFO] AmmoBox_545x39_20Rnd
+5-18-47 | [INFO] AmmoBox_556x45_20Rnd
+5-18-47 | [INFO] PSO1Optic
+5-18-47 | [INFO] AK_RailHndgrd_Black
+5-18-47 | [INFO] AK_Bayonet
+5-18-47 | [INFO] AK_Suppressor
+5-18-47 | [INFO] SVD + Mag_SVD_10Rnd
+5-18-47 | [INFO] AK74 + Mag_AK74_30Rnd
+5-18-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+5-18-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+5-18-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+5-18-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+5-18-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+5-18-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+5-18-47 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+5-18-47 | [INFO] [CREATURE SYSTEM] Animal_UrsusArctos has spawned !

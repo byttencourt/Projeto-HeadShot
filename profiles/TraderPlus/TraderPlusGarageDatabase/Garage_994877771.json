@@ -1,0 +1,36 @@
+{
+    "OwnerName": "Barba_Imersivo",
+    "OwnerID": "994877771",
+    "ParkingPosition": [
+        -1.0,
+        -1.0,
+        -1.0
+    ],
+    "ParkingOrientation": [
+        -1.0,
+        -1.0,
+        -1.0
+    ],
+    "Vehicles": [
+        {
+            "VehicleName": "Interceptor",
+            "VehicleCargoId": 1677113244,
+            "VehicleID": -1,
+            "Timestamp": 0,
+            "EngineHealth": 10000.0,
+            "FuelAmmount": 72.0,
+            "CollateralMoney": 0,
+            "ItemsInCargo": []
+        },
+        {
+            "VehicleName": "EGER",
+            "VehicleCargoId": 1677116250,
+            "VehicleID": -1,
+            "Timestamp": 0,
+            "EngineHealth": 5000.0,
+            "FuelAmmount": 105.0,
+            "CollateralMoney": 0,
+            "ItemsInCargo": []
+        }
+    ]
+}

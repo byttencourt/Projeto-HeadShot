@@ -1,0 +1,29 @@
+2023-02-23 @ 19-18-34:  [InitializeContainer] Winds: Vector <9.373420, 0.000000, 9.362557>, Speed 13.2483mps, Strength 0.1
+2023-02-23 @ 19-18-34:  [InitializeContainer] Parachute created on @ <7021.781250, 148.256622, 10765.763672>
+2023-02-23 @ 19-19-08:  [AirdropContainerFall] Airdrop Container Touchdown @ <7022.068359, 10.656773, 10765.763672>
+2023-02-23 @ 19-19-08:  [ADU_RemoveParachute] Parachute removed.
+2023-02-23 @ 19-19-08:  [ADU_RepositionContainer] Container repositioned.
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/20/18, Flare:  10%
+2023-02-23 @ 19-19-08:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Loot Spawned [1] LandMineTrap @ <7023.843262, 7.880001, 10765.311523> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Loot Spawned [2] AmmoBox_762x39_20Rnd @ <7023.203613, 7.880001, 10765.841797> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Loot Spawned [3] AmmoBox_762x54_20Rnd @ <7023.147461, 7.880001, 10764.369141> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Loot Spawned [4] MilitaryBoots_Redpunk @ <7021.229980, 7.880001, 10765.031250> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Spawn failed for item [5] 'PlateCarrierComplete', does not exist in DayZ!
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Loot Spawned [6] TTSKOPants @ <7019.523438, 7.880001, 10765.756836> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Loot Spawned [7] AKM @ <7020.523438, 7.880001, 10765.984375> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Loot Spawned [8] Izh18 @ <7023.090820, 7.880001, 10767.823242> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Loot Spawned [9] MilitaryBoots_Redpunk @ <7021.974121, 7.880001, 10768.291992> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Loot Spawned [10] AmmoBox_762x39_20Rnd @ <7023.761719, 7.880001, 10764.148438> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Loot Spawned [11] LandMineTrap @ <7022.569336, 7.880001, 10766.958008> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Loot Spawned [12] TacticalBaconCan @ <7022.407227, 7.880001, 10764.244141> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Loot Spawned [13] TacticalBaconCan @ <7024.375000, 7.880001, 10765.390625> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Loot Spawned [14] AmmoBox_762x54_20Rnd @ <7022.176758, 7.880001, 10764.033203> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Spawn failed for item [15] 'PlateCarrierComplete', does not exist in DayZ!
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Spawn failed for item [16] 'PlateCarrierComplete', does not exist in DayZ!
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Spawn failed for item [17] 'PlateCarrierComplete', does not exist in DayZ!
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Loot Spawned [18] AmmoBox_762x39_20Rnd @ <7021.772461, 7.880001, 10762.992188> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Spawn failed for item [19] 'PlateCarrierComplete', does not exist in DayZ!
+2023-02-23 @ 19-19-08:  [ADU_SpawnItems] Loot Spawned [20] Mag_AKM_30Rnd @ <7019.647949, 7.880001, 10766.143555> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 19-19-08:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-23 @ 19-19-08:  [EOnSimulate] Airdrop Container deactivated.

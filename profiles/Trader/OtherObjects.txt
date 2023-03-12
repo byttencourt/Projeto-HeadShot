@@ -1,0 +1,84 @@
+// Aircraft Trader
+<Object>			Land_Radio_PanelPAS
+<ObjectPosition>	16451.560546875, 35.00257110595703, 11637.1181640625
+<ObjectOrientation>	-1.6905574798583985, -0.0, -0.0
+
+<Object>			Land_Furniture_radiostation16
+<ObjectPosition>	16449.73828125, 36.104061126708987, 11636.35546875
+<ObjectOrientation>	27.000003814697267, 0.0, 0.0
+
+<Object>			Land_Furniture_radiostation15
+<ObjectPosition>	16449.072265625, 35.948509216308597, 11636.2724609375
+<ObjectOrientation>	176.59474182128907, -0.0, -0.0
+
+<Object>			Land_Furniture_radiostation14
+<ObjectPosition>	16451.42578125, 35.455589294433597, 11637.6748046875
+<ObjectOrientation>	-89.99993133544922, 0.0, 0.0
+
+<Object>			Land_Furniture_radiostation13
+<ObjectPosition>	16449.701171875, 35.80525588989258, 11636.3291015625
+<ObjectOrientation>	88.19998168945313, 0.0, 0.0
+
+<Object>			Land_Furniture_radiostation3
+<ObjectPosition>	16451.78515625, 35.17669677734375, 11638.0263671875
+<ObjectOrientation>	0.0, -0.0, -0.0
+
+<Object>			Land_Furniture_radiostation2
+<ObjectPosition>	16448.181640625, 36.31385803222656, 11636.255859375
+<ObjectOrientation>	176.39991760253907, 0.0, -0.0
+
+<Object>			Land_Furniture_radiostation1
+<ObjectPosition>	16451.7421875, 35.375179290771487, 11638.6923828125
+<ObjectOrientation>	89.99998474121094, -0.0, -0.0
+
+<Object>			Land_Furniture_radiostation6
+<ObjectPosition>	16451.73828125, 35.28774642944336, 11639.337890625
+<ObjectOrientation>	89.99995422363281, -0.0, -0.0
+
+<Object>			Land_Furniture_radiostation8
+<ObjectPosition>	16451.5, 35.97380065917969, 11640.2001953125
+<ObjectOrientation>	-96.59988403320313, 0.0, 0.0
+
+// Sids Village Trader
+
+<Object>			Land_FuelStation_Feed
+<ObjectPosition>	8769.890625, 13.910102844238282, 2927.404541015625
+<ObjectOrientation>	-9.0, 0.0, 0.0
+
+<Object>			Land_FuelStation_Build
+<ObjectPosition>	8768.7802734375, 14.670299530029297, 2924.39990234375
+<ObjectOrientation>	168.89598083496095, 0.0, 0.0
+
+<Object>			Land_Lunapark_Shooting_Gallery
+<ObjectPosition>	8760.26953125, 14.456399917602539, 3016.449951171875
+<ObjectOrientation>	27.0, 0.0, 0.0
+
+<Object>			Land_matras_02
+<ObjectPosition>	8758.6728515625, 13.67431640625, 3008.3388671875
+<ObjectOrientation>	-135.3393096923828, -0.0, -0.0
+
+<Object>			Land_fireplace_1
+<ObjectPosition>	8757.21484375, 13.6614351272583, 3009.889892578125
+<ObjectOrientation>	-26.556610107421876, 0.0, 0.0
+
+<Object>			BarrelHoles_Red
+<ObjectPosition>	8740.58984375, 8.010820388793946, 3022.22998046875
+<ObjectOrientation>	0.0, 0.0, 0.0
+
+<Object>			Land_Furniture_box_metall_case
+<ObjectPosition>	8743.517578125, 8.878153800964356, 3019.130615234375
+<ObjectOrientation>	-27.0, 0.0, 0.0
+
+<Object>			Land_Furniture_box_dinamit
+<ObjectPosition>	8743.6845703125, 8.103124618530274, 3018.306396484375
+<ObjectOrientation>	63.0, -0.0, -0.0
+
+<Object>			Land_Furniture_box_wood1
+<ObjectPosition>	8743.58984375, 8.383047103881836, 3019.09716796875
+<ObjectOrientation>	0.0, -0.0, -0.0
+
+<Object>			Land_Furniture_box_blue
+<ObjectPosition>	8740.6484375, 8.193286895751954, 3019.06689453125
+<ObjectOrientation>	134.99990844726563, 0.0, -0.0
+
+<FileEnd>

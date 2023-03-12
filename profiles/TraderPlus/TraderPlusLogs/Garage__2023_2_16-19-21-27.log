@@ -1,0 +1,267 @@
+Creation Time: 2023_2_16-19-21-27
+19-21-27 | [INFO] GarageCore - Started !
+19-21-27 | [INFO] GarageServer - Started
+19-21-57 | [INFO] obj created: SurvivorM_Boris
+19-21-57 | [INFO] TraderPlayer created and added!: 
+19-21-57 | [INFO] obj created: SurvivorM_Boris
+19-21-57 | [INFO] TraderPlayer created and added!: 
+19-27-58 | [INFO] GarageRequestHandler
+19-27-58 | [INFO] loading time:10098
+19-27-58 | [INFO] send GarageResponse
+19-27-58 | [INFO] GarageRequest by player:Barba_Imersivo
+19-29-6 | [INFO] GarageRequestHandler
+19-29-6 | [INFO] loading time:8779
+19-29-6 | [INFO] send GarageResponse
+19-29-6 | [INFO] GarageRequest by player:Barba_Imersivo
+19-29-37 | [INFO] GarageRequestHandler
+19-29-37 | [INFO] loading time:8367
+19-29-37 | [INFO] send GarageResponse
+19-29-37 | [INFO] GarageRequest by player:Barba_Imersivo
+19-30-5 | [INFO] GarageRequestHandler
+19-30-5 | [INFO] loading time:59919
+19-30-5 | [INFO] send GarageResponse
+19-30-5 | [INFO] GarageRequest by player:Barba_Imersivo
+19-31-8 | [INFO] GarageRequestHandler
+19-31-8 | [INFO] loading time:9874
+19-31-8 | [INFO] send GarageResponse
+19-31-8 | [INFO] GarageRequest by player:Barba_Imersivo
+19-31-17 | [INFO] GarageRequestHandler
+19-31-17 | [INFO] loading time:9384
+19-31-17 | [INFO] send GarageResponse
+19-31-17 | [INFO] GarageRequest by player:Barba_Imersivo
+19-31-27 | [INFO] GarageRequestHandler
+19-31-27 | [INFO] loading time:10153
+19-31-27 | [INFO] send GarageResponse
+19-31-27 | [INFO] GarageRequest by player:Barba_Imersivo
+19-34-34 | [INFO] GarageRequestHandler
+19-34-34 | [INFO] loading time:9114
+19-34-34 | [INFO] send GarageResponse
+19-34-34 | [INFO] GarageRequest by player:Barba_Imersivo
+19-34-42 | [INFO] GarageRequestHandler
+19-34-42 | [INFO] loading time:9047
+19-34-42 | [INFO] send GarageResponse
+19-34-42 | [INFO] GarageRequest by player:Barba_Imersivo
+19-35-51 | [INFO] GarageRequestHandler
+19-35-51 | [INFO] loading time:8998
+19-35-51 | [INFO] send GarageResponse
+19-35-51 | [INFO] GarageRequest by player:Barba_Imersivo
+19-37-18 | [INFO] GarageRequestHandler
+19-37-18 | [INFO] loading time:6826
+19-37-18 | [INFO] send GarageResponse
+19-37-18 | [INFO] GarageRequest by player:Barba_Imersivo
+19-37-30 | [INFO] GarageRequestHandler
+19-37-30 | [INFO] loading time:9287
+19-37-30 | [INFO] send GarageResponse
+19-37-30 | [INFO] GarageRequest by player:Barba_Imersivo
+19-40-10 | [INFO] GarageRequestHandler
+19-40-10 | [INFO] loading time:7692
+19-40-10 | [INFO] send GarageResponse
+19-40-10 | [INFO] GarageRequest by player:Barba_Imersivo
+19-40-40 | [INFO] GarageRequestHandler
+19-40-40 | [INFO] loading time:5621
+19-40-40 | [INFO] send GarageResponse
+19-40-40 | [INFO] GarageRequest by player:Barba_Imersivo
+19-41-23 | [INFO] GarageRequestHandler
+19-41-23 | [INFO] loading time:10342
+19-41-23 | [INFO] send GarageResponse
+19-41-23 | [INFO] GarageRequest by player:Barba_Imersivo
+19-41-48 | [INFO] GarageRequestHandler
+19-41-48 | [INFO] loading time:8472
+19-41-48 | [INFO] send GarageResponse
+19-41-48 | [INFO] GarageRequest by player:Barba_Imersivo
+19-41-50 | [INFO] ParkInRequestHandler
+19-41-50 | [INFO] MustHaveLock:1 - SaveLock:0
+19-41-50 | [INFO] Vehicle DataCrSk_Land_Rover_Defender_110_Green 34660046 3500 74.9906
+19-41-50 | [INFO] ADD VEHICULE
+19-41-50 | [INFO] new VehiculeData
+19-41-50 | [INFO] ParkInRequest by player:Barba_Imersivo
+19-41-56 | [INFO] GarageRequestHandler
+19-41-56 | [INFO] loading time:9988
+19-41-56 | [INFO] send GarageResponse
+19-41-56 | [INFO] GarageRequest by player:Barba_Imersivo
+19-41-58 | [INFO] ParkOutRequestHandler
+19-41-58 | [INFO] ParkOutRequestHandler data: 994877771 0 CrSk_Land_Rover_Defender_110_Green <15132.700195, 6.680000, 3208.610107>
+19-41-58 | [INFO] distance: 0
+19-41-58 | [INFO] distance < 5
+19-41-58 | [INFO] distance: 6370.19
+19-41-58 | [INFO] garageData.Vehicles[listpos].VehicleName == carname
+19-41-58 | [INFO] CreateVehicle
+19-41-58 | [INFO] childrens.Count():15
+19-41-58 | [INFO] childrens[i]:SparkPlugi:0
+19-41-58 | [INFO] create att
+19-41-58 | [INFO] ent exist
+19-41-58 | [INFO] item exist
+19-41-58 | [INFO] childrens[i]:CarBatteryi:1
+19-41-58 | [INFO] create att
+19-41-58 | [INFO] ent exist
+19-41-58 | [INFO] item exist
+19-41-58 | [INFO] childrens[i]:CarRadiatori:2
+19-41-58 | [INFO] create att
+19-41-58 | [INFO] ent exist
+19-41-58 | [INFO] item exist
+19-41-58 | [INFO] childrens[i]:HeadlightH7i:3
+19-41-58 | [INFO] create att
+19-41-58 | [INFO] ent exist
+19-41-58 | [INFO] item exist
+19-41-58 | [INFO] childrens[i]:HeadlightH7i:4
+19-41-58 | [INFO] create att
+19-41-58 | [INFO] ent exist
+19-41-58 | [INFO] item exist
+19-41-58 | [INFO] childrens[i]:Defender110_dver_1_1_Greeni:5
+19-41-58 | [INFO] create att
+19-41-58 | [INFO] ent exist
+19-41-58 | [INFO] item exist
+19-41-58 | [INFO] childrens[i]:Defender110_dver_2_1_Greeni:6
+19-41-58 | [INFO] create att
+19-41-58 | [INFO] ent exist
+19-41-58 | [INFO] item exist
+19-41-58 | [INFO] childrens[i]:Defender110_dver_1_2_Greeni:7
+19-41-58 | [INFO] create att
+19-41-58 | [INFO] ent exist
+19-41-58 | [INFO] item exist
+19-41-58 | [INFO] childrens[i]:Defender110_dver_2_2_Greeni:8
+19-41-58 | [INFO] create att
+19-41-58 | [INFO] ent exist
+19-41-58 | [INFO] item exist
+19-41-58 | [INFO] childrens[i]:Defender110_kapot_Greeni:9
+19-41-58 | [INFO] create att
+19-41-58 | [INFO] ent exist
+19-41-58 | [INFO] item exist
+19-41-58 | [INFO] childrens[i]:Defender110_bagazhnik_Greeni:10
+19-41-58 | [INFO] create att
+19-41-58 | [INFO] ent exist
+19-41-58 | [INFO] item exist
+19-41-58 | [INFO] childrens[i]:Defender110_kolesoi:11
+19-41-58 | [INFO] create att
+19-41-58 | [INFO] ent exist
+19-41-58 | [INFO] item exist
+19-41-58 | [INFO] childrens[i]:Defender110_kolesoi:12
+19-41-58 | [INFO] create att
+19-41-58 | [INFO] ent exist
+19-41-58 | [INFO] item exist
+19-41-58 | [INFO] childrens[i]:Defender110_kolesoi:13
+19-41-58 | [INFO] create att
+19-41-58 | [INFO] ent exist
+19-41-58 | [INFO] item exist
+19-41-58 | [INFO] childrens[i]:Defender110_kolesoi:14
+19-41-58 | [INFO] create att
+19-41-58 | [INFO] ent exist
+19-41-58 | [INFO] item exist
+19-41-58 | [INFO] Set Health:3500
+19-41-58 | [INFO] Set Fuel:74.9906
+19-41-58 | [INFO] Set Lock:34660046
+19-41-58 | [INFO] vehicle orientation: 0x0000000048d234f8 {<-117.5,-0,0>}
+19-41-58 | [INFO] vehicle orientation: 0x0000000048d234f8 {<-117.5,-0,0>}
+19-41-58 | [INFO] ParkOutRequest by player:Barba_Imersivo
+19-42-3 | [INFO] ParkInRequestHandler
+19-42-3 | [INFO] MustHaveLock:1 - SaveLock:0
+19-42-3 | [INFO] Vehicle DataCrSk_Land_Rover_Defender_110_Green 34660046 3500 74.9906
+19-42-3 | [INFO] ADD VEHICULE
+19-42-3 | [INFO] new VehiculeData
+19-42-3 | [INFO] ParkInRequest by player:Barba_Imersivo
+19-42-6 | [INFO] ParkOutRequestHandler
+19-42-6 | [INFO] ParkOutRequestHandler data: 994877771 0 CrSk_Land_Rover_Defender_110_Green <15132.700195, 6.680000, 3208.610107>
+19-42-6 | [INFO] distance: 0
+19-42-6 | [INFO] distance < 5
+19-42-6 | [INFO] distance: 6370.19
+19-42-6 | [INFO] garageData.Vehicles[listpos].VehicleName == carname
+19-42-6 | [INFO] CreateVehicle
+19-42-6 | [INFO] childrens.Count():15
+19-42-6 | [INFO] childrens[i]:SparkPlugi:0
+19-42-6 | [INFO] create att
+19-42-6 | [INFO] ent exist
+19-42-6 | [INFO] item exist
+19-42-6 | [INFO] childrens[i]:CarBatteryi:1
+19-42-6 | [INFO] create att
+19-42-6 | [INFO] ent exist
+19-42-6 | [INFO] item exist
+19-42-6 | [INFO] childrens[i]:CarRadiatori:2
+19-42-6 | [INFO] create att
+19-42-6 | [INFO] ent exist
+19-42-6 | [INFO] item exist
+19-42-6 | [INFO] childrens[i]:HeadlightH7i:3
+19-42-6 | [INFO] create att
+19-42-6 | [INFO] ent exist
+19-42-6 | [INFO] item exist
+19-42-6 | [INFO] childrens[i]:HeadlightH7i:4
+19-42-6 | [INFO] create att
+19-42-6 | [INFO] ent exist
+19-42-6 | [INFO] item exist
+19-42-6 | [INFO] childrens[i]:Defender110_dver_1_1_Greeni:5
+19-42-6 | [INFO] create att
+19-42-6 | [INFO] ent exist
+19-42-6 | [INFO] item exist
+19-42-6 | [INFO] childrens[i]:Defender110_dver_2_1_Greeni:6
+19-42-6 | [INFO] create att
+19-42-6 | [INFO] ent exist
+19-42-6 | [INFO] item exist
+19-42-6 | [INFO] childrens[i]:Defender110_dver_1_2_Greeni:7
+19-42-6 | [INFO] create att
+19-42-6 | [INFO] ent exist
+19-42-6 | [INFO] item exist
+19-42-6 | [INFO] childrens[i]:Defender110_dver_2_2_Greeni:8
+19-42-6 | [INFO] create att
+19-42-6 | [INFO] ent exist
+19-42-6 | [INFO] item exist
+19-42-6 | [INFO] childrens[i]:Defender110_kapot_Greeni:9
+19-42-6 | [INFO] create att
+19-42-6 | [INFO] ent exist
+19-42-6 | [INFO] item exist
+19-42-6 | [INFO] childrens[i]:Defender110_bagazhnik_Greeni:10
+19-42-6 | [INFO] create att
+19-42-6 | [INFO] ent exist
+19-42-6 | [INFO] item exist
+19-42-6 | [INFO] childrens[i]:Defender110_kolesoi:11
+19-42-6 | [INFO] create att
+19-42-6 | [INFO] ent exist
+19-42-6 | [INFO] item exist
+19-42-6 | [INFO] childrens[i]:Defender110_kolesoi:12
+19-42-6 | [INFO] create att
+19-42-6 | [INFO] ent exist
+19-42-6 | [INFO] item exist
+19-42-6 | [INFO] childrens[i]:Defender110_kolesoi:13
+19-42-6 | [INFO] create att
+19-42-6 | [INFO] ent exist
+19-42-6 | [INFO] item exist
+19-42-6 | [INFO] childrens[i]:Defender110_kolesoi:14
+19-42-6 | [INFO] create att
+19-42-6 | [INFO] ent exist
+19-42-6 | [INFO] item exist
+19-42-6 | [INFO] Set Health:3500
+19-42-6 | [INFO] Set Fuel:74.9906
+19-42-6 | [INFO] Set Lock:34660046
+19-42-6 | [INFO] vehicle orientation: 0x0000000048d234f8 {<-117.5,-0,0>}
+19-42-6 | [INFO] vehicle orientation: 0x0000000048d234f8 {<-117.5,-0,0>}
+19-42-6 | [INFO] ParkOutRequest by player:Barba_Imersivo
+19-42-59 | [INFO] GarageRequestHandler
+19-42-59 | [INFO] loading time:8589
+19-42-59 | [INFO] send GarageResponse
+19-42-59 | [INFO] GarageRequest by player:Barba_Imersivo
+19-43-26 | [INFO] GarageRequestHandler
+19-43-26 | [INFO] loading time:6747
+19-43-26 | [INFO] send GarageResponse
+19-43-26 | [INFO] GarageRequest by player:Barba_Imersivo
+20-36-40 | [INFO] GarageRequestHandler
+20-36-40 | [INFO] loading time:9602
+20-36-40 | [INFO] send GarageResponse
+20-36-40 | [INFO] GarageRequest by player:Barba_Imersivo
+20-46-58 | [INFO] GarageRequestHandler
+20-46-58 | [INFO] loading time:13715
+20-46-58 | [INFO] send GarageResponse
+20-46-58 | [INFO] GarageRequest by player:Barba_Imersivo
+20-52-11 | [INFO] GarageRequestHandler
+20-52-11 | [INFO] loading time:9534
+20-52-11 | [INFO] send GarageResponse
+20-52-11 | [INFO] GarageRequest by player:Barba_Imersivo
+20-53-33 | [INFO] GarageRequestHandler
+20-53-33 | [INFO] loading time:5970
+20-53-33 | [INFO] send GarageResponse
+20-53-33 | [INFO] GarageRequest by player:Barba_Imersivo
+20-54-43 | [INFO] GarageRequestHandler
+20-54-43 | [INFO] loading time:12560
+20-54-43 | [INFO] send GarageResponse
+20-54-43 | [INFO] GarageRequest by player:Barba_Imersivo
+20-55-18 | [INFO] GarageRequestHandler
+20-55-18 | [INFO] loading time:17373
+20-55-18 | [INFO] send GarageResponse
+20-55-18 | [INFO] GarageRequest by player:Barba_Imersivo

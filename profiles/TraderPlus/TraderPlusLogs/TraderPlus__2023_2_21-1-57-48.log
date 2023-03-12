@@ -1,0 +1,196 @@
+Creation Time: 2023_2_21-1-57-48
+1-57-48 | [INFO] TraderPlusCore - Started !
+1-57-48 | [INFO] TraderPlus file exist ! loading...
+1-57-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+1-57-48 | [INFO] TraderPlus file exist ! loading...
+1-57-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+1-57-48 | [INFO] TraderPlus file exist ! loading...
+1-57-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+1-57-48 | [INFO] TraderPlus file exist ! loading...
+1-57-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+1-57-48 | [INFO] TraderPlus file exist ! loading...
+1-57-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+1-57-48 | [INFO] TraderPlus file exist ! loading...
+1-57-49 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+1-57-49 | [INFO] TraderPlusServer - Started
+1-57-49 | [INFO] TraderPlusBankingCore - Started !
+1-57-49 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.json
+1-57-49 | [INFO] TraderPlusBankingServer - Started
+1-57-49 | [INFO] CarLockCore - Started !
+1-57-49 | [INFO] CarLockServer - Started
+1-57-52 | [INFO] SafeZoneCore - Started !
+1-57-52 | [INFO] DEBUG MODE ENABLED
+1-58-34 | [INFO] ID_count: 5
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Licences.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Vegetables.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Packaged Food.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Meat.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Animal Parts.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Mutant Parts.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Drinks.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Medical Supplies.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Medications.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Money Exchange.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Acessorios.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Melee.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Sidearms.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Rifles.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Shotguns.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Submachine Guns.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Machine Guns.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Assault Rifles.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Sniper Rifles.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Metro Weapons.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\FS Weapons.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Weapons 1.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Weapons 2.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Magazines.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Scopes.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU HandGuards.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Stocks.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Suppressors.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Attachments.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Grips.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Ammo.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Grenades.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Ammunition.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Magazines.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Handguards.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Buttstocks.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Optics.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Supressors.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Compensators.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Bayonets.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Flashlights.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Lore.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Tools (small).json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Tools (big).json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Electronics.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Fire & Lights.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Cooking & Hunting Supplies.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Hardware Supplies.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Base Building Plus.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Base Building Letters.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Seeds & Lime.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Radiation.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MVS.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Glasses.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Armbands.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Gloves.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Hats & Caps.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Helmets.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Masks.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Shirts.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Hoodies & Sweater.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Vests.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Jackets & Coats.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Skirts & Dresses.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Pants.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Shoes & Boots.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Ghillie.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Holster & Pouches.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Belt.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Bags.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Veículos Vanilla.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Veículos Esportivos.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Pickups e Suvs.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Veículos Militares.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Motorhomes.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Peças.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Vanilla Parts.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Esportivos Parts.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Pickups e Suvs Parts.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Militares Parts.json
+1-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Motorhomes Parts.json
+1-58-34 | [INFO] SetTradersSpawner: Started
+1-58-34 | [INFO] obj created: SurvivorF_Irena
+1-58-34 | [INFO] TraderPlayer created and added!: 
+1-58-34 | [INFO] obj created: SurvivorM_Seth
+1-58-34 | [INFO] TraderPlayer created and added!: 
+1-58-34 | [INFO] obj created: SurvivorF_Keiko
+1-58-34 | [INFO] TraderPlayer created and added!: 
+1-58-34 | [INFO] obj created: SurvivorF_Frida
+1-58-34 | [INFO] TraderPlayer created and added!: 
+1-58-34 | [INFO] obj created: SurvivorM_Peter
+1-58-34 | [INFO] TraderPlayer created and added!: 
+1-58-34 | [INFO] obj created: TraderPlus_BANK_ATM
+1-58-34 | [INFO] TraderStatic created and added!: 
+1-58-34 | [INFO] obj created: TraderPlus_BANK_ATM
+1-58-34 | [INFO] TraderStatic created and added!: 
+1-58-34 | [INFO] obj created: SurvivorF_Irena
+1-58-34 | [INFO] TraderPlayer created and added!: 
+1-58-34 | [INFO] obj created: SurvivorM_Seth
+1-58-34 | [INFO] TraderPlayer created and added!: 
+1-58-34 | [INFO] obj created: SurvivorF_Keiko
+1-58-34 | [INFO] TraderPlayer created and added!: 
+1-58-34 | [INFO] obj created: SurvivorF_Frida
+1-58-34 | [INFO] TraderPlayer created and added!: 
+1-58-34 | [INFO] obj created: SurvivorM_Peter
+1-58-34 | [INFO] TraderPlayer created and added!: 
+1-58-34 | [INFO] obj created: SurvivorM_Peter
+1-58-34 | [INFO] TraderPlayer created and added!: 
+1-58-34 | [INFO] obj created: SurvivorF_Irena
+1-58-34 | [INFO] TraderPlayer created and added!: 
+1-58-34 | [INFO] obj created: SurvivorM_Seth
+1-58-34 | [INFO] TraderPlayer created and added!: 
+1-58-34 | [INFO] obj created: SurvivorF_Keiko
+1-58-34 | [INFO] TraderPlayer created and added!: 
+1-58-34 | [INFO] obj created: SurvivorF_Frida
+1-58-34 | [INFO] TraderPlayer created and added!: 
+1-58-34 | [INFO] obj created: TraderPlus_BANK_ATM
+1-58-34 | [INFO] TraderStatic created and added!: 
+1-58-34 | [INFO] obj created: TraderPlus_BANK_ATM
+1-58-34 | [INFO] TraderStatic created and added!: 
+1-58-34 | [INFO] obj created: TraderPlus_BANK_ATM
+1-58-34 | [INFO] TraderStatic created and added!: 
+1-58-34 | [INFO] obj created: TraderPlus_BANK_ATM
+1-58-34 | [INFO] TraderStatic created and added!: 
+1-58-34 | [INFO] obj created: TraderPlus_BANK_ATM
+1-58-34 | [INFO] TraderStatic created and added!: 
+1-58-34 | [INFO] obj created: TraderPlus_BANK_ATM
+1-58-34 | [INFO] TraderStatic created and added!: 
+1-58-34 | [INFO] SetTradersSpawner: Ended
+1-58-34 | [INFO] SetObjectSpawner: Started
+1-58-34 | [INFO] SetObjectSpawner: Ended
+1-58-34 | [INFO] DefaultTraderStock - Started
+1-59-3 | [INFO] RunAutoCalculation - Started !
+1-59-3 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+1-59-3 | [INFO] RunAutoCalculation - Ended !
+2-16-13 | [INFO] GetSafeStatut
+2-16-53 | [INFO] InsuranceRequestHandler
+2-16-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_994877771.json
+2-17-0 | [INFO] TraderID: 1 - Customer: Barba_Imersivo - Category: Sniper Rifles - ClassName: SVD - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 2775 - CollateralMoney: 0 - TradeMode:Sell
+2-17-0 | [INFO] Transaction Sell Succeeded:Barba_Imersivo product:SVD quantity:0 health:1 price:2775
+2-17-3 | [INFO] TraderID: 1 - Customer: Barba_Imersivo - Category: Assault Rifles - ClassName: M4A1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3400 - CollateralMoney: 0 - TradeMode:Sell
+2-17-3 | [INFO] Transaction Sell Succeeded:Barba_Imersivo product:M4A1 quantity:0 health:0 price:3400
+2-17-26 | [INFO] InsuranceRequestHandler
+2-17-26 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_994877771.json
+2-17-39 | [INFO] TraderID: 1 - Customer: Barba_Imersivo - Category: Assault Rifles - ClassName: M4A1 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3400 - CollateralMoney: 0 - TradeMode:Sell
+2-17-39 | [INFO] Transaction Sell Succeeded:Barba_Imersivo product:M4A1 quantity:0 health:0 price:3400
+2-17-42 | [INFO] TraderID: 1 - Customer: Barba_Imersivo - Category: Assault Rifles - ClassName: AKM - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3100 - CollateralMoney: 0 - TradeMode:Sell
+2-17-42 | [INFO] Transaction Sell Succeeded:Barba_Imersivo product:AKM quantity:0 health:0 price:3100
+2-17-54 | [INFO] InsuranceRequestHandler
+2-17-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_994877771.json
+2-17-59 | [INFO] TraderID: 1 - Customer: Barba_Imersivo - Category: Rifles - ClassName: Mosin9130 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 2 - Price: 800 - CollateralMoney: 0 - TradeMode:Sell
+2-17-59 | [INFO] Transaction Sell Succeeded:Barba_Imersivo product:Mosin9130 quantity:0 health:2 price:800
+2-18-4 | [INFO] TraderID: 1 - Customer: Barba_Imersivo - Category: Magazines - ClassName: Mag_STANAG_30Rnd - Quantity: 3 - Multiplier: 3 - MaxStock: -1 - Health: 0 - Price: 4350 - CollateralMoney: 0 - TradeMode:Sell
+2-18-4 | [INFO] Transaction Sell Succeeded:Barba_Imersivo product:Mag_STANAG_30Rnd quantity:9 health:0 price:4350
+2-18-7 | [INFO] TraderID: 1 - Customer: Barba_Imersivo - Category: Magazines - ClassName: Mag_AKM_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1200 - CollateralMoney: 0 - TradeMode:Sell
+2-18-7 | [INFO] Transaction Sell Succeeded:Barba_Imersivo product:Mag_AKM_30Rnd quantity:0 health:0 price:1200
+2-18-10 | [INFO] TraderID: 1 - Customer: Barba_Imersivo - Category: Ammunition - ClassName: Ammo_556x45 - Quantity: 46 - Multiplier: 46 - MaxStock: -1 - Health: 0 - Price: 230 - CollateralMoney: 0 - TradeMode:Sell
+2-18-10 | [INFO] Transaction Sell Succeeded:Barba_Imersivo product:Ammo_556x45 quantity:2116 health:0 price:230
+2-18-13 | [INFO] TraderID: 1 - Customer: Barba_Imersivo - Category: Ammunition - ClassName: Ammo_762x39 - Quantity: 30 - Multiplier: 30 - MaxStock: -1 - Health: 0 - Price: 150 - CollateralMoney: 0 - TradeMode:Sell
+2-18-13 | [INFO] Transaction Sell Succeeded:Barba_Imersivo product:Ammo_762x39 quantity:900 health:0 price:150
+2-18-33 | [INFO] TraderID: 1 - Customer: Barba_Imersivo - Category: SNAFU Ammo - ClassName: SNAFU_Ammo_300ACC - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 650 - CollateralMoney: 0 - TradeMode:Buy
+2-18-33 | [INFO] Player:Barba_Imersivo - currency amount:19742
+2-18-33 | [INFO] Transaction Buy Succeeded:Barba_Imersivo product:SNAFU_Ammo_300ACC quantity:1 health:0 price:650
+2-18-35 | [INFO] TraderID: 1 - Customer: Barba_Imersivo - Category: SNAFU Ammo - ClassName: SNAFU_Ammo_300ACC - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 650 - CollateralMoney: 0 - TradeMode:Buy
+2-18-35 | [INFO] Player:Barba_Imersivo - currency amount:19092
+2-18-35 | [INFO] Transaction Buy Succeeded:Barba_Imersivo product:SNAFU_Ammo_300ACC quantity:1 health:0 price:650
+2-19-1 | [INFO] InsuranceRequestHandler
+2-19-1 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_994877771.json
+2-19-56 | [INFO] TraderID: 1 - Customer: Barba_Imersivo - Category: SNAFU Ammo - ClassName: SNAFU_Ammo_300ACC - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 650 - CollateralMoney: 0 - TradeMode:Buy
+2-19-56 | [INFO] Player:Barba_Imersivo - currency amount:18442
+2-19-57 | [INFO] Transaction Buy Succeeded:Barba_Imersivo product:SNAFU_Ammo_300ACC quantity:1 health:0 price:650
+2-25-11 | [INFO] GetSafeStatut

@@ -1,0 +1,21 @@
+2023-02-23 @ 23-11-08:  [AirdropPlane] Aircraft created on 2023-02-23 @ 23-11-08
+2023-02-23 @ 23-11-08:  [InitializeAircraft] Aircraft Initialized: Vesna Village @ 13535/18753 (true)
+2023-02-23 @ 23-11-20:  [EOnSpawnZombies] Zombie Spawned [1] Animal_CanisLupus_White @ <13579.402344, 8.109455, 18765.078125> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 23-11-33:  [EOnSpawnZombies] Zombie Spawned [2] ZmbF_MilkMaidOld_Grey @ <13546.377930, 8.020000, 18720.902344> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 23-11-45:  [EOnSpawnZombies] Zombie Spawned [3] ZmbM_PatrolNormal_Flat @ <13564.160156, 7.954483, 18760.138672> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 23-11-58:  [EOnSpawnZombies] Zombie Spawned [4] ZmbF_MilkMaidOld_Beige @ <13543.331055, 8.049942, 18761.683594> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 23-12-11:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_HunterOld_Spring @ <13502.609375, 9.185501, 18768.707031> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 23-12-23:  [EOnSpawnZombies] Zombie Spawned [6] ZmbF_MechanicNormal_Beige @ <13546.173828, 8.035406, 18762.474609> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 23-12-36:  [EOnSpawnZombies] Zombie Spawned [7] ZmbF_SurvivorNormal_White @ <13545.203125, 8.140162, 18739.621094> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 23-12-49:  [EOnSpawnZombies] Zombie Spawned [8] ZmbM_ClerkFat_White @ <13547.458008, 8.020000, 18722.013672> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 23-13-01:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_HandymanNormal_Beige @ <13508.656250, 9.102102, 18760.845703> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 23-13-14:  [EOnSpawnZombies] Zombie Spawned [10] ZmbF_CitizenBSkinny @ <13567.836914, 7.886062, 18769.261719> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 23-13-26:  [EOnSpawnZombies] Zombie Spawned [11] ZmbM_PatrolNormal_PautRev @ <13520.963867, 8.106434, 18752.095703> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 23-13-39:  [EOnSpawnZombies] Zombie Spawned [12] Animal_CanisLupus_Grey @ <13556.948242, 8.051268, 18747.839844> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 23-13-52:  [EOnSpawnZombies] Zombie Spawned [13] ZmbM_SoldierNormal @ <13497.921875, 9.002019, 18735.857422> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 23-13-57:  [EOnBeforeDrop] The Aircraft is 1 Km from Vesna Village, from the South/East (147°). @ <14351.259766, 158.205368, 17496.152344>
+2023-02-23 @ 23-14-04:  [EOnSpawnZombies] Zombie Spawned [14] ZmbM_FirefighterNormal @ <13515.243164, 8.196159, 18752.425781> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 23-14-16:  [EOnDrop] Drop spawned with 15 infected at <13588.761719, 149.404373, 18673.267578>.
+2023-02-23 @ 23-14-16:  [EOnDrop] Supplies have been dropped near Vesna Village.
+2023-02-23 @ 23-14-59:  [EOnBeforeDelete] Aircraft despawned @ <11773.240234, 158.644379, 21476.000000>
+2023-02-23 @ 23-14-59:  [~AirdropPlane] Aircraft destroyed.

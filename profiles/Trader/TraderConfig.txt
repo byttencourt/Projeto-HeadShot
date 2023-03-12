@@ -1,0 +1,533 @@
+
+		/////////////////////////////////////////////////////////////////////////////////////////////////
+        //                                                                                             //
+        //      Need Help? The Trader Mod has its own Channel on the DayZ Modders Discord Server!      //
+        //                                                                                             //
+        //      Only Singleline Comments work. Don't use Multiline Comments!                           //
+        //      /* THIS COMMENT WILL CRASH THE SERVER! */                                              //
+        //      // THIS COMMENT WORKS!                                                                 //
+        //                                                                                             //
+        /////////////////////////////////////////////////////////////////////////////////////////////////
+
+<CurrencyName> #tm_ruble							// Currency Name (Only used for the Text in the upper right Corner of the Trader Menu)
+	<Currency> TraderPlus_Money_Ruble1_Coin, 			1					// Currency Classname, Currency Money Value
+	<Currency> TraderPlus_Money_Ruble2_Coin,			2
+	<Currency> TraderPlus_Money_Ruble5,					5
+	<Currency> TraderPlus_Money_Ruble10,				10
+	<Currency> TraderPlus_Money_Ruble50,				50
+	<Currency> TraderPlus_Money_Ruble100,				100
+	<Currency> TraderPlus_Money_Ruble500,				500
+
+// AirCraft Trader
+<Trader> Mechanic
+	<Category> Helicopters
+		Helilittle_bird_RF,						V,		50000,	25000
+		HeliSIB_UH1D,							V,		100000,	50000
+		HeliSIB_UH1D_airforce,					V,		100000,	50000
+		HeliSIB_UH1D_iron,						V,		100000,	50000
+		HeliSIB_UH1D_camo,						V,		100000,	50000
+		HeliSIB_UH1D_taxi,						V,		100000,	50000
+		HeliSIB_UH1H,							V,		100000,	50000
+		HeliSIB_UH1H2,							V,		100000,	50000
+		Helipolice_swat_SIB5,					V,		100000,	50000
+		Helipolice_SIB4,						V,		100000,	50000
+		Helipolice_urban,						V,		100000,	50000
+		Helipolice_green,						V,		100000,	50000
+		Heliblack_hawk_SIB,						V,		200000,	50000
+		Heliblack_hawk_SIB_BlueCamo,			V,		200000,	50000
+		Heliblack_hawk_SIB_camo2,				V,		200000,	50000
+		Heliblack_hawk_SIB_desert,				V,		200000,	50000
+		Helichinook_RF,							V,		500000,	100000
+		Helichinook_RF_black,					V,		500000,	100000
+		Helichinook_RF_bloody,					V,		500000,	100000
+		Helichinook_RF_civ,						V,		500000,	100000
+		Helichinook_RF_USA,						V,		500000,	100000
+		HeliSIB_Mi35,							V,		1000000, 500000
+		Heli_apache,							V,		1000000, 500000
+		Heli_apache_camo,						V,		1000000, 500000
+		
+	<Category> Helicopter Parts
+		CarRadiator,							*, 500, 250
+		SparkPlug,								*, 250, 125
+		HeadlightH7,							*, 75, 30
+		SIBblack_hawk_Door_1_1,					*, 5000, 500
+		SIBblack_hawk_Door_1_2,					*, 5000, 500
+		SIBblack_hawk_Door_2_1,					*, 5000, 500
+		SIBblack_hawk_Door_2_2,					*, 5000, 500
+		SIBblack_hawk_Door_1_1_BlueCamo,		*, 5000, 500
+		SIBblack_hawk_Door_1_2_BlueCamo,		*, 5000, 500
+		SIBblack_hawk_Door_2_1_BlueCamo,		*, 5000, 500
+		SIBblack_hawk_Door_2_2_BlueCamo,		*, 5000, 500
+		SIBblack_hawk_Door_1_1_camo2,			*, 5000, 500
+		SIBblack_hawk_Door_1_2_camo2,			*, 5000, 500
+		SIBblack_hawk_Door_2_1_camo2,			*, 5000, 500
+		SIBblack_hawk_Door_2_2_camo2,			*, 5000, 500
+		SIBblack_hawk_Door_1_1_desert,			*, 5000, 500
+		SIBblack_hawk_Door_1_2_desert,			*, 5000, 500
+		SIBblack_hawk_Door_2_1_desert,			*, 5000, 500
+		SIBblack_hawk_Door_2_2_desert,			*, 5000, 500
+		SIBblack_hawk_blade1,					*, 5000, 500
+		SIBblack_hawk_blade2,					*, 5000, 500
+		SIBblack_hawk_blade3,					*, 5000, 500
+		SIBblack_hawk_blade4,					*, 5000, 500
+		SIBblack_hawk_bladem1,					*, 5000, 500
+		SIBblack_hawk_bladem2,					*, 5000, 500
+		SIBblack_hawk_bladem3,					*, 5000, 500
+		SIBblack_hawk_bladem4,					*, 5000, 500
+		apache_Door_1_1,						*, 5000, 500
+		apache_Door_2_1,						*, 5000, 500
+		apache_Door_1_1_black,					*, 5000, 500
+		apache_Door_2_1_black,					*, 5000, 500
+		apache_Door_1_1_green,					*, 5000, 500
+		apache_Door_2_1_green,					*, 5000, 500
+		apache_Door_1_1_camo,					*, 5000, 500
+		apache_Door_2_1_camo,					*, 5000, 500
+		apache_Door_1_1_camo_desert,			*, 5000, 500
+		apache_Door_2_1_camo_desert,			*, 5000, 500
+		apache_blade1,							*, 5000, 500
+		apache_blade2,							*, 5000, 500
+		apache_blade3,							*, 5000, 500
+		apache_blade4,							*, 5000, 500
+		apache_bladem1,							*, 5000, 500
+		apache_bladem2,							*, 5000, 500
+		apache_bladem3,							*, 5000, 500
+		apache_bladem4,							*, 5000, 500
+		SIBUH1D_Door_1_1,						*, 5000, 500
+		SIBUH1D_Door_1_2,						*, 5000, 500
+		SIBUH1D_Door_2_1,						*, 5000, 500
+		SIBUH1D_Door_2_2,						*, 5000, 500
+		SIBUH1D_Door_1_1_airforce,				*, 5000, 500
+		SIBUH1D_Door_1_2_airforce,				*, 5000, 500
+		SIBUH1D_Door_2_1_airforce,				*, 5000, 500
+		SIBUH1D_Door_2_2_airforce,				*, 5000, 500
+		SIBUH1D_Door_1_1_iron,					*, 5000, 500
+		SIBUH1D_Door_1_2_iron,					*, 5000, 500
+		SIBUH1D_Door_2_1_iron,					*, 5000, 500
+		SIBUH1D_Door_2_2_iron,					*, 5000, 500
+		SIBUH1D_Door_1_1_camo,					*, 5000, 500
+		SIBUH1D_Door_1_2_camo,					*, 5000, 500
+		SIBUH1D_Door_2_1_camo,					*, 5000, 500
+		SIBUH1D_Door_2_2_camo,					*, 5000, 500
+		SIBUH1D_Door_1_2_taxi,					*, 5000, 500
+		SIBUH1D_Door_2_1_taxi,					*, 5000, 500
+		SIBUH1D_Door_2__taxi,					*, 5000, 500
+		SIBUH1D_blade1,							*, 5000, 500
+		SIBUH1D_blade2,							*, 5000, 500
+		SIBUH1D_blade3,							*, 5000, 500
+		SIBUH1D_blade4,							*, 5000, 500
+		RFlittle_bird_Door_1_1,					*, 5000, 500
+		RFlittle_bird_Door_1_2,					*, 5000, 500
+		RFlittle_bird_Door_2_1,					*, 5000, 500
+		RFlittle_bird_Door_2_2,					*, 5000, 500
+		RFlittle_bird_blade1,					*, 5000, 500
+		RFlittle_bird_blade2,					*, 5000, 500
+		RFlittle_bird_blade3,					*, 5000, 500
+		RFlittle_bird_blade4,					*, 5000, 500
+		RFlittle_bird_blade5,					*, 5000, 500
+		RFlittle_bird_bladem1,					*, 5000, 500
+		RFlittle_bird_bladem3,					*, 5000, 500
+		RFchinook_Door_1_1,						*, 5000, 500
+		RFchinook_Door_1_2,						*, 5000, 500
+		RFchinook_Door_2_2,						*, 5000, 500
+		RFchinook_Door_1_1_black,				*, 5000, 500
+		RFchinook_Door_1_2_black,				*, 5000, 500
+		RFchinook_Door_2_2_black,				*, 5000, 500
+		RFchinook_Door_1_1_bloody,				*, 5000, 500
+		RFchinook_Door_1_2_bloody,				*, 5000, 500
+		RFchinook_Door_2_2_,					*, 5000, 500
+		RFchinook_Door_1_1_civ,					*, 5000, 500
+		RFchinook_Door_1_2_civ,					*, 5000, 500
+		RFchinook_Door_2_2_,					*, 5000, 500
+		RFchinook_Door_1_1_USA,					*, 5000, 500
+		RFchinook_Door_1_2_USA,					*, 5000, 500
+		RFchinook_Door_2_2_,					*, 5000, 500
+		RFchinook_blade1,						*, 5000, 500
+		RFchinook_blade2,						*, 5000, 500
+		RFchinook_blade3,						*, 5000, 500
+		RFchinook_rear_blade1,					*, 5000, 500
+		RFchinook_rear_blade2,					*, 5000, 500
+		RFchinook_rear_blade3,					*, 5000, 500
+		SIBMi35_Door_1_1,						*, 5000, 500
+		SIBMi35_Door_1_2,						*, 5000, 500
+		SIBMi35_Door_1_2_1,						*, 5000, 500
+		SIBMi35_Door_2_1,						*, 5000, 500
+		SIBMi35_Door_2_2,						*, 5000, 500
+		SIBMi35_Door_2_2_1,						*, 5000, 500
+		
+	<Category> Keys
+		VehicleKeyDuplicate,	K,		2000,	-1
+		CarLock,	K,		20000,	5000
+
+
+// AirCraft Trader
+<Trader> Mechanic1
+	<Category> Helicopters
+		Helilittle_bird_RF,						V,		50000,	25000
+		HeliSIB_UH1D,							V,		100000,	50000
+		HeliSIB_UH1D_airforce,					V,		100000,	50000
+		HeliSIB_UH1D_iron,						V,		100000,	50000
+		HeliSIB_UH1D_camo,						V,		100000,	50000
+		HeliSIB_UH1D_taxi,						V,		100000,	50000
+		HeliSIB_UH1H,							V,		100000,	50000
+		HeliSIB_UH1H2,							V,		100000,	50000
+		Helipolice_swat_SIB5,					V,		100000,	50000
+		Helipolice_SIB4,						V,		100000,	50000
+		Helipolice_urban,						V,		100000,	50000
+		Helipolice_green,						V,		100000,	50000
+		Heliblack_hawk_SIB,						V,		200000,	50000
+		Heliblack_hawk_SIB_BlueCamo,			V,		200000,	50000
+		Heliblack_hawk_SIB_camo2,				V,		200000,	50000
+		Heliblack_hawk_SIB_desert,				V,		200000,	50000
+		Helichinook_RF,							V,		500000,	100000
+		Helichinook_RF_black,					V,		500000,	100000
+		Helichinook_RF_bloody,					V,		500000,	100000
+		Helichinook_RF_civ,						V,		500000,	100000
+		Helichinook_RF_USA,						V,		500000,	100000
+		HeliSIB_Mi35,							V,		1000000, 500000
+		Heli_apache,							V,		1000000, 500000
+		Heli_apache_camo,						V,		1000000, 500000
+		
+	<Category> Helicopter Parts
+		CarRadiator,							*, 500, 250
+		SparkPlug,								*, 250, 125
+		HeadlightH7,							*, 75, 30
+		SIBblack_hawk_Door_1_1,					*, 5000, 500
+		SIBblack_hawk_Door_1_2,					*, 5000, 500
+		SIBblack_hawk_Door_2_1,					*, 5000, 500
+		SIBblack_hawk_Door_2_2,					*, 5000, 500
+		SIBblack_hawk_Door_1_1_BlueCamo,		*, 5000, 500
+		SIBblack_hawk_Door_1_2_BlueCamo,		*, 5000, 500
+		SIBblack_hawk_Door_2_1_BlueCamo,		*, 5000, 500
+		SIBblack_hawk_Door_2_2_BlueCamo,		*, 5000, 500
+		SIBblack_hawk_Door_1_1_camo2,			*, 5000, 500
+		SIBblack_hawk_Door_1_2_camo2,			*, 5000, 500
+		SIBblack_hawk_Door_2_1_camo2,			*, 5000, 500
+		SIBblack_hawk_Door_2_2_camo2,			*, 5000, 500
+		SIBblack_hawk_Door_1_1_desert,			*, 5000, 500
+		SIBblack_hawk_Door_1_2_desert,			*, 5000, 500
+		SIBblack_hawk_Door_2_1_desert,			*, 5000, 500
+		SIBblack_hawk_Door_2_2_desert,			*, 5000, 500
+		SIBblack_hawk_blade1,					*, 5000, 500
+		SIBblack_hawk_blade2,					*, 5000, 500
+		SIBblack_hawk_blade3,					*, 5000, 500
+		SIBblack_hawk_blade4,					*, 5000, 500
+		SIBblack_hawk_bladem1,					*, 5000, 500
+		SIBblack_hawk_bladem2,					*, 5000, 500
+		SIBblack_hawk_bladem3,					*, 5000, 500
+		SIBblack_hawk_bladem4,					*, 5000, 500
+		apache_Door_1_1,						*, 5000, 500
+		apache_Door_2_1,						*, 5000, 500
+		apache_Door_1_1_black,					*, 5000, 500
+		apache_Door_2_1_black,					*, 5000, 500
+		apache_Door_1_1_green,					*, 5000, 500
+		apache_Door_2_1_green,					*, 5000, 500
+		apache_Door_1_1_camo,					*, 5000, 500
+		apache_Door_2_1_camo,					*, 5000, 500
+		apache_Door_1_1_camo_desert,			*, 5000, 500
+		apache_Door_2_1_camo_desert,			*, 5000, 500
+		apache_blade1,							*, 5000, 500
+		apache_blade2,							*, 5000, 500
+		apache_blade3,							*, 5000, 500
+		apache_blade4,							*, 5000, 500
+		apache_bladem1,							*, 5000, 500
+		apache_bladem2,							*, 5000, 500
+		apache_bladem3,							*, 5000, 500
+		apache_bladem4,							*, 5000, 500
+		SIBUH1D_Door_1_1,						*, 5000, 500
+		SIBUH1D_Door_1_2,						*, 5000, 500
+		SIBUH1D_Door_2_1,						*, 5000, 500
+		SIBUH1D_Door_2_2,						*, 5000, 500
+		SIBUH1D_Door_1_1_airforce,				*, 5000, 500
+		SIBUH1D_Door_1_2_airforce,				*, 5000, 500
+		SIBUH1D_Door_2_1_airforce,				*, 5000, 500
+		SIBUH1D_Door_2_2_airforce,				*, 5000, 500
+		SIBUH1D_Door_1_1_iron,					*, 5000, 500
+		SIBUH1D_Door_1_2_iron,					*, 5000, 500
+		SIBUH1D_Door_2_1_iron,					*, 5000, 500
+		SIBUH1D_Door_2_2_iron,					*, 5000, 500
+		SIBUH1D_Door_1_1_camo,					*, 5000, 500
+		SIBUH1D_Door_1_2_camo,					*, 5000, 500
+		SIBUH1D_Door_2_1_camo,					*, 5000, 500
+		SIBUH1D_Door_2_2_camo,					*, 5000, 500
+		SIBUH1D_Door_1_2_taxi,					*, 5000, 500
+		SIBUH1D_Door_2_1_taxi,					*, 5000, 500
+		SIBUH1D_Door_2__taxi,					*, 5000, 500
+		SIBUH1D_blade1,							*, 5000, 500
+		SIBUH1D_blade2,							*, 5000, 500
+		SIBUH1D_blade3,							*, 5000, 500
+		SIBUH1D_blade4,							*, 5000, 500
+		RFlittle_bird_Door_1_1,					*, 5000, 500
+		RFlittle_bird_Door_1_2,					*, 5000, 500
+		RFlittle_bird_Door_2_1,					*, 5000, 500
+		RFlittle_bird_Door_2_2,					*, 5000, 500
+		RFlittle_bird_blade1,					*, 5000, 500
+		RFlittle_bird_blade2,					*, 5000, 500
+		RFlittle_bird_blade3,					*, 5000, 500
+		RFlittle_bird_blade4,					*, 5000, 500
+		RFlittle_bird_blade5,					*, 5000, 500
+		RFlittle_bird_bladem1,					*, 5000, 500
+		RFlittle_bird_bladem3,					*, 5000, 500
+		RFchinook_Door_1_1,						*, 5000, 500
+		RFchinook_Door_1_2,						*, 5000, 500
+		RFchinook_Door_2_2,						*, 5000, 500
+		RFchinook_Door_1_1_black,				*, 5000, 500
+		RFchinook_Door_1_2_black,				*, 5000, 500
+		RFchinook_Door_2_2_black,				*, 5000, 500
+		RFchinook_Door_1_1_bloody,				*, 5000, 500
+		RFchinook_Door_1_2_bloody,				*, 5000, 500
+		RFchinook_Door_2_2_,					*, 5000, 500
+		RFchinook_Door_1_1_civ,					*, 5000, 500
+		RFchinook_Door_1_2_civ,					*, 5000, 500
+		RFchinook_Door_2_2_,					*, 5000, 500
+		RFchinook_Door_1_1_USA,					*, 5000, 500
+		RFchinook_Door_1_2_USA,					*, 5000, 500
+		RFchinook_Door_2_2_,					*, 5000, 500
+		RFchinook_blade1,						*, 5000, 500
+		RFchinook_blade2,						*, 5000, 500
+		RFchinook_blade3,						*, 5000, 500
+		RFchinook_rear_blade1,					*, 5000, 500
+		RFchinook_rear_blade2,					*, 5000, 500
+		RFchinook_rear_blade3,					*, 5000, 500
+		SIBMi35_Door_1_1,						*, 5000, 500
+		SIBMi35_Door_1_2,						*, 5000, 500
+		SIBMi35_Door_1_2_1,						*, 5000, 500
+		SIBMi35_Door_2_1,						*, 5000, 500
+		SIBMi35_Door_2_2,						*, 5000, 500
+		SIBMi35_Door_2_2_1,						*, 5000, 500
+		
+	<Category> Keys
+		VehicleKeyDuplicate,	K,		2000,	-1
+		CarLock,	K,		20000,	5000
+
+	// Sids Trader
+<Trader> Sidorovich
+			
+	<Category> Radios
+		YK_Radio, *, 30000, 5000
+		YK_RadioPanasonic, *, 35000, 6000
+		YK_RadioVesna, *, 40000, 9000
+		YK_RadioWalkman, *, 40000, 9000
+
+	<Category> Cassettes
+		YK_Cassette_NaZare, *, -1, 5000
+		YK_Cassette_Hentai, *, -1, 5000
+		YK_Cassette_Unravel, *, -1, 5000
+		YK_Cassette_Alert, *, -1, 5000
+		YK_Cassette_TokyoGhoul, *, -1, 5000
+		YK_Cassette_WasWollenWirTrinken, *, -1, 5000
+		YK_Cassette_WennDieSoldaten, *, -1, 5000
+		YK_Cassette_Leto, *, -1, 5000
+		YK_Cassette_Stuk, *, -1, 5000
+		YK_Cassette_Pachkasigaret, *, -1, 5000
+		YK_Cassette_Gruppakrovi, *, -1, 5000
+		YK_Cassette_Kukushka, *, -1, 5000
+		YK_Cassette_ZakroiZaMnoiDveri, *, -1, 5000
+		YK_Cassette_Sudno, *, -1, 5000
+		YK_Cassette_Discoteque, *, -1, 5000
+		YK_Cassette_Kletka, *, -1, 5000
+		YK_Cassette_Lydi, *, -1, 5000
+		YK_Cassette_Volny, *, -1, 5000
+		YK_Cassette_SmellsLikeTeenSpirit, *, -1, 5000
+		YK_Cassette_AUSL196NDER, *, -1, 5000
+		YK_Cassette_DEUTSCHLAND, *, -1, 5000
+		YK_Cassette_Duhast, *, -1, 5000
+		YK_Cassette_Feuerfrei, *, -1, 5000
+		YK_Cassette_IchWill, *, -1, 5000
+		YK_Cassette_LINKS, *, -1, 5000
+		YK_Cassette_MOSKAU, *, -1, 5000
+		YK_Cassette_WAS_ICH_LIEBE, *, -1, 5000
+		YK_Cassette_SNOLLERBOYS, *, -1, 5000
+		YK_Cassette_Adidas, *, -1, 5000
+		YK_Cassette_NasNeDogoniat, *, -1, 5000
+		YK_Cassette_Tchaikovsky_March, *, -1, 5000
+		YK_Cassette_Tchaikovsky_Overture, *, -1, 5000
+		YK_Cassette_Tchaikovsky_TheChristmasTree, *, -1, 5000
+		YK_Cassette_Tchaikovsky_WeSingToday, *, -1, 5000
+		YK_Cassette_DaiteLydamRomy, *, -1, 5000
+		YK_Cassette_DeadAnarhist, *, -1, 5000
+		YK_Cassette_DvaDruga, *, -1, 5000
+		YK_Cassette_EliMyasoMyzhiki, *, -1, 5000
+		YK_Cassette_Joker, *, -1, 5000
+		YK_Cassette_KyklaKoldyna, *, -1, 5000
+		YK_Cassette_PrignySoSkaly, *, -1, 5000
+		YK_Cassette_SevernyiFlot, *, -1, 5000
+		YK_Cassette_Dyrachok, *, -1, 5000
+		YK_Cassette_Motylek, *, -1, 5000
+		YK_Cassette_Oborona, *, -1, 5000
+		YK_Cassette_Vesna, *, -1, 5000
+		YK_Cassette_Zoopark, *, -1, 5000
+		YK_Cassette_SevenNationArmy, *, -1, 5000
+		YK_Cassette_GetLuck, *, -1, 5000
+		YK_Cassette_HarderBetterFasterStronger, *, -1, 5000
+		YK_Cassette_Heroes, *, -1, 5000
+		YK_Cassette_SpaceOddity, *, -1, 5000
+	
+	<Category> Colecionaveis
+		Collectable_Bitcoin, *, -1, 250000
+		Collectable_Intel, *, -1, 75000
+		Collectable_MemoryCard, *, -1, 50000
+		Collectable_GPU, *, -1, 50000
+		Collectable_RetroToy, *, -1, 25000
+		Collectable_SSD, *, -1, 25000
+		Collectable_SSDV2, *, -1, 25000
+		Collectable_USB, *, -1, 25000
+		Collectable_TetrisToy, *, -1, 25000
+		Collectable_CrossNecklace, *, -1, 25000
+		Collectable_PocketWatch, *, -1, 25000
+		Collectable_RAM, *, -1, 25000
+		Collectable_Polaroid_One, *, -1, 25000
+		Collectable_Polaroid_Two, *, -1, 25000
+		Collectable_Polaroid_Three, *, -1, 25000
+		Collectable_Polaroid_Four, *, -1, 25000
+		Collectable_GameBoy_DonkeyKong, *, -1, 25000
+		Collectable_GameBoy_Mario, *, -1, 25000
+		Collectable_GameBoy_Medarot, *, -1, 25000
+		Collectable_GameBoy_PokemonOne, *, -1, 25000
+		Collectable_GameBoy_PokemonTwo, *, -1, 25000
+		Collectable_GameBoy_Snakes, *, -1, 25000
+		Collectable_GameBoy_Tetris, *, -1, 25000
+		Collectable_GameBoy_Yoshi, *, -1, 25000
+		Collectable_GameBoy_Zelda, *, -1, 25000
+		Collectable_FloppyDisks_1999, *, -1, 25000
+		Collectable_FloppyDisks_April, *, -1, 25000
+		Collectable_FloppyDisks_MTV, *, -1, 25000
+		Collectable_SmartPhone_Black, *, -1, 25000
+		Collectable_SmartPhone_Blue, *, -1, 25000
+		Collectable_SmartPhone_Yellow, *, -1, 25000
+		Collectable_SmartPhone_Red, *, -1, 25000
+		Collectable_SmartPhone_Green, *, -1, 25000
+		Collectable_PokemonCard_Pikachu, *, -1, 10000
+		Collectable_PokemonCard_Eevee, *, -1, 10000
+		Collectable_PokemonCard_GrassEnergy, *, -1, 10000
+		Collectable_PokemonCard_Machamp, *, -1, 15000
+		Collectable_PokemonCard_Mew, *, -1, 35000
+		Collectable_PokemonCard_PsychicEnergy, *, -1, 10000
+		Collectable_PokemonCard_Charizard, *, -1, 30000
+		Collectable_PokemonCard_Jolteon, *, -1, 10000
+		Collectable_PokemonCard_ShinyMewtwo, *, -1, 40000
+		Collectable_PokemonCard_Volcanion, *, -1, 10000
+		Collectable_PokemonCard_Abra, *, -1, 10000
+		Collectable_PokemonCard_Alakazam, *, -1, 10000
+		Collectable_PokemonCard_Arcanine, *, -1, 10000
+		Collectable_PokemonCard_Beedrill, *, -1, 10000
+		Collectable_PokemonCard_Bill, *, -1, 10000
+		Collectable_PokemonCard_Blastoise, *, -1, 10000
+		Collectable_PokemonCard_Bulbasaur, *, -1, 10000
+		Collectable_PokemonCard_Caterpie, *, -1, 10000
+		Collectable_PokemonCard_Chansey, *, -1, 10000
+		Collectable_PokemonCard_Charmander, *, -1, 10000
+		Collectable_PokemonCard_Charmeleon, *, -1, 10000
+		Collectable_PokemonCard_Clefairy, *, -1, 10000
+		Collectable_PokemonCard_ClefairyDoll, *, -1, 10000
+		Collectable_PokemonCard_ComputerSearch, *, -1, 10000
+		Collectable_PokemonCard_Defender, *, -1, 10000
+		Collectable_PokemonCard_DevolutionSpray, *, -1, 10000
+		Collectable_PokemonCard_Dewgong, *, -1, 10000
+		Collectable_PokemonCard_Diglet, *, -1, 10000
+		Collectable_PokemonCard_Doduo, *, -1, 10000
+		Collectable_PokemonCard_DoubleColourlessEnergy, *, -1, 10000
+		Collectable_PokemonCard_Dragonair, *, -1, 10000
+		Collectable_PokemonCard_Dratini, *, -1, 10000
+		Collectable_PokemonCard_Drowzee, *, -1, 10000
+		Collectable_PokemonCard_Dugtrio, *, -1, 10000
+		Collectable_PokemonCard_Electabuzz, *, -1, 10000
+		Collectable_PokemonCard_Electrode, *, -1, 10000
+		Collectable_PokemonCard_EnergyRemoval, *, -1, 10000
+		Collectable_PokemonCard_EnergyRetrieval, *, -1, 10000
+		Collectable_PokemonCard_Farfetchd, *, -1, 10000
+		Collectable_PokemonCard_FightingEnergy, *, -1, 10000
+		Collectable_PokemonCard_FireEnergy, *, -1, 10000
+		Collectable_PokemonCard_FullHeal, *, -1, 10000
+		Collectable_PokemonCard_Gastly, *, -1, 10000
+		Collectable_PokemonCard_Growlithe, *, -1, 10000
+		Collectable_PokemonCard_GustOfWind, *, -1, 10000
+		Collectable_PokemonCard_Gyarados, *, -1, 20000
+		Collectable_PokemonCard_Haunter, *, -1, 10000
+		Collectable_PokemonCard_Hitmonchan, *, -1, 10000
+		Collectable_PokemonCard_ImposterProfessorOak, *, -1, 10000
+		Collectable_PokemonCard_ItemFinder, *, -1, 10000
+		Collectable_PokemonCard_Ivysaur, *, -1, 10000
+		Collectable_PokemonCard_Jynx, *, -1, 10000
+		Collectable_PokemonCard_Kadabra, *, -1, 10000
+		Collectable_PokemonCard_Kakuna, *, -1, 10000
+		Collectable_PokemonCard_Koffing, *, -1, 10000
+		Collectable_PokemonCard_Lass, *, -1, 10000
+		Collectable_PokemonCard_Machoke, *, -1, 10000
+		Collectable_PokemonCard_Machop, *, -1, 10000
+		Collectable_PokemonCard_Magikarp, *, -1, 10000
+		Collectable_PokemonCard_Magmar, *, -1, 10000
+		Collectable_PokemonCard_Magnemite, *, -1, 10000
+		Collectable_PokemonCard_Magneton, *, -1, 10000
+		Collectable_PokemonCard_Maintenance, *, -1, 10000
+		Collectable_PokemonCard_Metapod, *, -1, 10000
+		Collectable_PokemonCard_Mewtwo, *, -1, 25000
+		Collectable_PokemonCard_Nidoking, *, -1, 10000
+		Collectable_PokemonCard_Nidoran, *, -1, 10000
+		Collectable_PokemonCard_Nidorino, *, -1, 10000
+		Collectable_PokemonCard_Ninetales, *, -1, 10000
+		Collectable_PokemonCard_Onix, *, -1, 25000
+		Collectable_PokemonCard_Pidgeotto, *, -1, 10000
+		Collectable_PokemonCard_Pidgey, *, -1, 10000
+		Collectable_PokemonCard_PikachuBS, *, -1, 10000
+		Collectable_PokemonCard_Pluspower, *, -1, 10000
+		Collectable_PokemonCard_Pokedex, *, -1, 10000
+		Collectable_PokemonCard_Breeder, *, -1, 10000
+		Collectable_PokemonCard_Center, *, -1, 10000
+		Collectable_PokemonCard_Flute, *, -1, 10000
+		Collectable_PokemonCard_Trader, *, -1, 10000
+		Collectable_PokemonCard_Poliwag, *, -1, 10000
+		Collectable_PokemonCard_Poliwhirl, *, -1, 10000
+		Collectable_PokemonCard_Poliwrath, *, -1, 10000
+		Collectable_PokemonCard_Ponyta, *, -1, 10000
+		Collectable_PokemonCard_Porygon, *, -1, 10000
+		Collectable_PokemonCard_Potion, *, -1, 10000
+		Collectable_PokemonCard_ProfessorOakBase, *, -1, 10000
+		Collectable_PokemonCard_PsychicEnergy, *, -1, 10000
+		Collectable_PokemonCard_Raichu, *, -1, 10000
+		Collectable_PokemonCard_Raticate, *, -1, 10000
+		Collectable_PokemonCard_Rattata, *, -1, 10000
+		Collectable_PokemonCard_Revive, *, -1, 10000
+		Collectable_PokemonCard_Sandshrew, *, -1, 10000
+		Collectable_PokemonCard_ScoopUp, *, -1, 10000
+		Collectable_PokemonCard_Seel, *, -1, 10000
+		Collectable_PokemonCard_Squirtle, *, -1, 10000
+		Collectable_PokemonCard_Starmie, *, -1, 10000
+		Collectable_PokemonCard_Staryu, *, -1, 10000
+		Collectable_PokemonCard_SuperEnergy, *, -1, 10000
+		Collectable_PokemonCard_SuperPotion, *, -1, 10000
+		Collectable_PokemonCard_SwitchBase, *, -1, 10000
+		Collectable_PokemonCard_Tangela, *, -1, 10000
+		Collectable_PokemonCard_Venusaur, *, -1, 10000
+		Collectable_PokemonCard_Voltorb, *, -1, 10000
+		Collectable_PokemonCard_Vulpix, *, -1, 10000
+		Collectable_PokemonCard_Wartortle, *, -1, 10000
+		Collectable_PokemonCard_WaterEnergy, *, -1, 10000
+		Collectable_PokemonCard_Weedle, *, -1, 10000
+		Collectable_PokemonCard_Zapdos, *, -1, 10000
+		
+	<Category> KeyCard
+
+		DNA_KeyCard_Red_Inactive,					M,		-1,		50000
+		DNA_KeyCard_Purple_Inactive,				M,		-1,		40000
+		DNA_KeyCard_Blue_Inactive,					M,		-1,		30000
+		DNA_KeyCard_Green_Inactive,					M,		-1,		20000
+		DNA_KeyCard_Yellow_Inactive,				M,		-1,		10000
+		DNA_KeyCard_Error,							M,		-1,		5000
+		DNA_Solder_Kit,								M,		-1,		25000
+		DNA_HelpingHands_Kit,						M,		-1,		25000
+		DNA_Battery_40v,							M,		-1,		15000
+		DNA_Laptop,									M,		-1,		20000
+		DNA_Solder,									M,		-1,		7500
+		DNA_Flux,									M,		-1,		7500
+		DNA_Bolts,									M,		-1,		9000
+		DNA_KeyCard_BlisterPackChip_Yellow,			M,		-1,		10000
+		DNA_KeyCard_BlisterPackChip_Green,			M,		-1,		20000
+		DNA_KeyCard_BlisterPackChip_Blue,			M,		-1,		30000
+		DNA_KeyCard_BlisterPackChip_Purple,			M,		-1,		40000
+		DNA_KeyCard_BlisterPackChip_Red,			M,		-1,		50000
+		DNA_CardReader,								M,		-1,		10000
+	
+
+		
+//<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
+<FileEnd>												// This has to be on the End of this File and is very importand!

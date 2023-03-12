@@ -1,0 +1,114 @@
+Creation Time: 2023_2_17-15-8-22
+15-8-22 | [INFO] GarageCore - Started !
+15-8-22 | [INFO] GarageServer - Started
+15-9-0 | [INFO] obj created: SurvivorM_Boris
+15-9-0 | [INFO] TraderPlayer created and added!: 
+15-9-0 | [INFO] obj created: SurvivorM_Boris
+15-9-0 | [INFO] TraderPlayer created and added!: 
+15-13-57 | [INFO] GarageRequestHandler
+15-13-57 | [INFO] loading time:10328
+15-13-57 | [INFO] send GarageResponse
+15-13-57 | [INFO] GarageRequest by player:Barba_Imersivo
+15-14-8 | [INFO] new VehiculeData
+15-14-24 | [INFO] GarageRequestHandler
+15-14-24 | [INFO] loading time:12205
+15-14-24 | [INFO] send GarageResponse
+15-14-24 | [INFO] GarageRequest by player:Barba_Imersivo
+15-14-28 | [INFO] ParkOutRequestHandler
+15-14-28 | [INFO] ParkOutRequestHandler data: 994877771 2 Gelenvagen_white_camo1 <15132.700195, 6.680000, 3208.610107>
+15-14-28 | [INFO] distance: 0
+15-14-28 | [INFO] distance < 5
+15-14-28 | [INFO] distance: 6370.19
+15-14-28 | [INFO] garageData.Vehicles[listpos].VehicleName == carname
+15-14-28 | [INFO] CreateVehicle
+15-14-28 | [INFO] childrens.Count():15
+15-14-28 | [INFO] childrens[i]:SparkPlugi:0
+15-14-28 | [INFO] create att
+15-14-28 | [INFO] ent exist
+15-14-28 | [INFO] item exist
+15-14-28 | [INFO] childrens[i]:CarBatteryi:1
+15-14-28 | [INFO] create att
+15-14-28 | [INFO] ent exist
+15-14-28 | [INFO] item exist
+15-14-28 | [INFO] childrens[i]:CarRadiatori:2
+15-14-28 | [INFO] create att
+15-14-28 | [INFO] ent exist
+15-14-28 | [INFO] item exist
+15-14-28 | [INFO] childrens[i]:HeadlightH7i:3
+15-14-28 | [INFO] create att
+15-14-28 | [INFO] ent exist
+15-14-28 | [INFO] item exist
+15-14-28 | [INFO] childrens[i]:HeadlightH7i:4
+15-14-28 | [INFO] create att
+15-14-28 | [INFO] ent exist
+15-14-28 | [INFO] item exist
+15-14-28 | [INFO] childrens[i]:Gelenvagen_Doors_Driver_white_camo1i:5
+15-14-28 | [INFO] create att
+15-14-28 | [INFO] ent exist
+15-14-28 | [INFO] item exist
+15-14-28 | [INFO] childrens[i]:Gelenvagen_Doors_coDriver_white_camo1i:6
+15-14-28 | [INFO] create att
+15-14-28 | [INFO] ent exist
+15-14-28 | [INFO] item exist
+15-14-28 | [INFO] childrens[i]:Gelenvagen_Doors_cargo1_white_camo1i:7
+15-14-28 | [INFO] create att
+15-14-28 | [INFO] ent exist
+15-14-28 | [INFO] item exist
+15-14-28 | [INFO] childrens[i]:Gelenvagen_Doors_cargo2_white_camo1i:8
+15-14-28 | [INFO] create att
+15-14-28 | [INFO] ent exist
+15-14-28 | [INFO] item exist
+15-14-28 | [INFO] childrens[i]:Gelenvagen_Doors_hood_white_camo1i:9
+15-14-28 | [INFO] create att
+15-14-28 | [INFO] ent exist
+15-14-28 | [INFO] item exist
+15-14-28 | [INFO] childrens[i]:Gelenvagen_Doors_trunk_white_camo1i:10
+15-14-28 | [INFO] create att
+15-14-28 | [INFO] ent exist
+15-14-28 | [INFO] item exist
+15-14-28 | [INFO] childrens[i]:Gelenvagen_Wheeli:11
+15-14-28 | [INFO] create att
+15-14-28 | [INFO] ent exist
+15-14-28 | [INFO] item exist
+15-14-28 | [INFO] childrens[i]:Gelenvagen_Wheeli:12
+15-14-28 | [INFO] create att
+15-14-28 | [INFO] ent exist
+15-14-28 | [INFO] item exist
+15-14-28 | [INFO] childrens[i]:Gelenvagen_Wheeli:13
+15-14-28 | [INFO] create att
+15-14-28 | [INFO] ent exist
+15-14-28 | [INFO] item exist
+15-14-28 | [INFO] childrens[i]:Gelenvagen_Wheeli:14
+15-14-28 | [INFO] create att
+15-14-28 | [INFO] ent exist
+15-14-28 | [INFO] item exist
+15-14-28 | [INFO] Set Health:20000
+15-14-28 | [INFO] Set Fuel:96
+15-14-28 | [INFO] Set Lock:-1
+15-14-28 | [INFO] vehicle orientation: 0x00000000838cfcc8 {<-117.5,-0,0>}
+15-14-28 | [INFO] vehicle orientation: 0x00000000838cfcc8 {<-117.5,-0,0>}
+15-14-28 | [INFO] ParkOutRequest by player:Barba_Imersivo
+15-15-36 | [INFO] GarageRequestHandler
+15-15-36 | [INFO] loading time:8707
+15-15-36 | [INFO] send GarageResponse
+15-15-36 | [INFO] GarageRequest by player:Barba_Imersivo
+15-16-22 | [INFO] GarageRequestHandler
+15-16-22 | [INFO] loading time:7921
+15-16-22 | [INFO] send GarageResponse
+15-16-22 | [INFO] GarageRequest by player:Barba_Imersivo
+17-37-8 | [INFO] GarageRequestHandler
+17-37-8 | [INFO] loading time:58422
+17-37-8 | [INFO] send GarageResponse
+17-37-8 | [INFO] GarageRequest by player:Barba_Imersivo
+17-38-23 | [INFO] GarageRequestHandler
+17-38-23 | [INFO] loading time:14599
+17-38-23 | [INFO] send GarageResponse
+17-38-23 | [INFO] GarageRequest by player:Barba_Imersivo
+17-38-51 | [INFO] GarageRequestHandler
+17-38-51 | [INFO] loading time:15388
+17-38-51 | [INFO] send GarageResponse
+17-38-51 | [INFO] GarageRequest by player:Barba_Imersivo
+17-40-8 | [INFO] GarageRequestHandler
+17-40-8 | [INFO] loading time:14670
+17-40-8 | [INFO] send GarageResponse
+17-40-8 | [INFO] GarageRequest by player:Barba_Imersivo

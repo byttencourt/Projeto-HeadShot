@@ -1,0 +1,48 @@
+Creation Time: 2023_2_21-14-16-24
+14-16-24 | [INFO] RZRadZoneCore - Started ! => Loading config...
+14-16-24 | [INFO] Checking if old config...
+14-16-24 | [INFO] Current config loading...
+14-16-24 | [INFO] RadZoneJsonLoader::LoadFromFile Loaded file: $profile:RadZone\RZConfig\ClothesProtectionConfigV1.json
+14-16-24 | [INFO] RadZoneJsonLoader::LoadFromFile Loaded file: $profile:RadZone\RZConfig\CrateSystemConfigV1.json
+14-16-24 | [INFO] RadZoneJsonLoader::LoadFromFile Loaded file: $profile:RadZone\RZConfig\RadiationConfigV1.json
+14-16-24 | [INFO] CrateSystem - Started !
+14-16-24 | [INFO] RZRadZoneServer - Started
+14-17-8 | [INFO] LootSpawner - Started !
+14-17-8 | [INFO] CheckCreatureStatus Started !
+14-17-8 | [INFO] Object:Creature equal to 0!
+14-17-8 | [INFO] [LOOTSYSTEM]: [CrateCleaner] !
+14-17-8 | [INFO] [LOOTSYSTEM]: CrateList equal to 0!
+14-17-8 | [INFO] NumberOfCratePerTime: 1
+14-17-8 | [INFO] Crates count:7
+14-17-8 | [INFO] Crate pos:<4623.640137, 343.319000, 9557.330078>maxloot: 10
+14-17-8 | [INFO] [LOOTSYSTEM]: A previous case has been found at that location and got deleted!
+14-17-8 | [INFO] [LOOTSYSTEM]: Spawned CrateName: Army2- Position: X:4623.64 Y:343.319 Z:9557.33
+14-17-8 | [INFO] AmmoBox_556x45_20Rnd
+14-17-8 | [INFO] PSO1Optic
+14-17-8 | [INFO] AK_RailHndgrd_Black
+14-17-8 | [INFO] AK74_WoodBttstck
+14-17-8 | [INFO] SVD + Mag_SVD_10Rnd
+14-17-8 | [INFO] AK74 + Mag_AK74_30Rnd
+14-17-8 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+14-17-8 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+14-17-8 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+14-17-8 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+14-17-8 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+14-17-8 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+14-17-8 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+14-17-8 | [INFO] [CREATURE SYSTEM] Animal_UrsusArctos has spawned !
+14-17-8 | [INFO] NumberOfCratePerTime: 1
+14-17-8 | [INFO] Crates count:7
+14-17-8 | [INFO] Crate pos:<11860.200195, 141.061005, 12423.500000>maxloot: 10
+14-17-8 | [INFO] [LOOTSYSTEM]: A previous case has been found at that location and got deleted!
+14-17-8 | [INFO] [LOOTSYSTEM]: Spawned CrateName: Army2- Position: X:11860.2 Y:141.061 Z:12423.5
+14-17-8 | [INFO] AmmoBox_556x45_20Rnd
+14-17-8 | [INFO] AK74 + Mag_AK74_30Rnd
+14-17-8 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+14-17-8 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+14-17-8 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+14-17-8 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+14-17-8 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+14-17-8 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+14-17-8 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+14-17-8 | [INFO] [CREATURE SYSTEM] Animal_UrsusArctos has spawned !

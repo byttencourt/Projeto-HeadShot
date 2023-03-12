@@ -1,0 +1,9 @@
+Creation Time: 2023_2_18-22-45-22
+22-45-22 | [INFO] RZRadZoneCore - Started ! => Loading config...
+22-45-22 | [INFO] Checking if old config...
+22-45-22 | [INFO] Current config loading...
+22-45-22 | [INFO] RadZoneJsonLoader::LoadFromFile Loaded file: $profile:RadZone\RZConfig\ClothesProtectionConfigV1.json
+22-45-22 | [INFO] RadZoneJsonLoader::LoadFromFile Loaded file: $profile:RadZone\RZConfig\CrateSystemConfigV1.json
+22-45-22 | [INFO] RadZoneJsonLoader::LoadFromFile Loaded file: $profile:RadZone\RZConfig\RadiationConfigV1.json
+22-45-22 | [INFO] CrateSystem - Started !
+22-45-22 | [INFO] RZRadZoneServer - Started

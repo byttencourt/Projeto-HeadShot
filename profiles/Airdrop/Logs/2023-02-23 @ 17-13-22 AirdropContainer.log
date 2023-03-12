@@ -1,0 +1,29 @@
+2023-02-23 @ 17-13-22:  [InitializeContainer] Winds: Vector <1.390570, 0.000000, 15.174626>, Speed 15.2382mps, Strength 0.1
+2023-02-23 @ 17-13-22:  [InitializeContainer] Parachute created on @ <14639.521484, 147.947968, 10379.235352>
+2023-02-23 @ 17-13-57:  [AirdropContainerFall] Airdrop Container Touchdown @ <14639.294922, 9.548132, 10379.235352>
+2023-02-23 @ 17-13-57:  [ADU_RemoveParachute] Parachute removed.
+2023-02-23 @ 17-13-57:  [ADU_RepositionContainer] Container repositioned.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/20/18, Flare:  10%
+2023-02-23 @ 17-13-57:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [1] LargeTent @ <14641.149414, 6.801870, 10379.565430> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [2] Mosin9130 @ <14638.232422, 6.722117, 10376.620117> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [3] Mosin_Bayonet @ <14640.873047, 6.745032, 10377.367188> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [4] LandMineTrap @ <14640.692383, 6.827718, 10381.360352> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [5] MilitaryBoots_Redpunk @ <14638.246094, 6.751285, 10377.741211> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [6] FNX45 @ <14640.990234, 6.777271, 10378.588867> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Spawn failed for item [7] 'PlateCarrierComplete', does not exist in DayZ!
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [8] TacticalBaconCan @ <14638.863281, 6.745953, 10377.536133> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [9] M4A1 @ <14638.265625, 6.797876, 10379.533203> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [10] M4A1 @ <14637.964844, 6.811141, 10380.569336> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [11] FNX45 @ <14641.034180, 6.816712, 10380.386719> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [12] Mosin_Compensator @ <14636.691406, 6.793941, 10379.381836> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [13] Mag_STANAG_30Rnd @ <14641.127930, 6.739927, 10377.130859> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [14] Mag_STANAG_30Rnd @ <14637.165039, 6.810574, 10380.286133> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [15] Mosin9130 @ <14639.253906, 6.810813, 10380.406250> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [16] TTSKOPants @ <14641.033203, 6.819319, 10380.604492> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [17] LargeTent @ <14641.911133, 6.816548, 10380.226563> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [18] Mag_AKM_30Rnd @ <14638.193359, 6.719229, 10376.508789> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [19] LandMineTrap @ <14637.188477, 6.763599, 10378.214844> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  [ADU_SpawnItems] Loot Spawned [20] Mosin9130 @ <14638.356445, 6.811180, 10380.588867> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 17-13-57:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-23 @ 17-13-57:  [EOnSimulate] Airdrop Container deactivated.

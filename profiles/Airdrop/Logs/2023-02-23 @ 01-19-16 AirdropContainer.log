@@ -1,0 +1,32 @@
+2023-02-23 @ 01-19-16:  [InitializeContainer] Winds: Vector <-2.036616, 0.000000, -0.026152>, Speed 2.03678mps, Strength 0.1
+2023-02-23 @ 01-19-16:  [InitializeContainer] Parachute created on @ <7078.156250, 149.982086, 10889.212891>
+2023-02-23 @ 01-19-51:  [AirdropContainerFall] Airdrop Container Touchdown @ <7078.301270, 10.782133, 10889.212891>
+2023-02-23 @ 01-19-51:  [ADU_RemoveParachute] Parachute removed.
+2023-02-23 @ 01-19-51:  [ADU_RepositionContainer] Container repositioned.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/20/18, Flare:  10%
+2023-02-23 @ 01-19-51:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [1] TacticalBaconCan @ <7078.083496, 8.031840, 10890.625977> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [2] M4A1 @ <7075.438965, 7.987329, 10890.077148> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [3] Izh18 @ <7076.356934, 7.980851, 10887.731445> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [4] Izh18 @ <7076.191406, 7.986475, 10888.724609> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [5] Mag_AKM_30Rnd @ <7079.775391, 8.036484, 10888.007813> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [6] LandMineTrap @ <7077.558594, 8.026509, 10891.392578> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [7] AmmoBox_762x54_20Rnd @ <7080.475098, 8.070651, 10890.982422> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Spawn failed for item [8] 'PlateCarrierComplete', does not exist in DayZ!
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [9] TTSKOPants @ <7079.945801, 8.043420, 10888.428711> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [10] AmmoBox_762x39_20Rnd @ <7079.916504, 8.051581, 10889.291992> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [11] TacticalBaconCan @ <7078.977539, 8.027663, 10888.401367> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [12] Mosin9130 @ <7078.707520, 8.013447, 10887.412109> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Spawn failed for item [13] 'PlateCarrierComplete', does not exist in DayZ!
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [14] AmmoBox_762x54_20Rnd @ <7079.068848, 8.053244, 10891.666016> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [15] TTSKOPants @ <7077.222656, 8.001125, 10888.555664> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [16] CombatBoots_Grey @ <7076.432617, 7.979069, 10887.375977> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [17] AmmoBox_762x54_20Rnd @ <7076.903809, 8.003159, 10889.269531> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [18] AmmoBox_762x39_20Rnd @ <7080.026855, 8.057141, 10889.676758> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [19] MilitaryBoots_Redpunk @ <7078.000000, 8.005683, 10887.768555> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Loot Spawned [20] AmmoBox_762x54_20Rnd @ <7079.188477, 8.054035, 10891.438477> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  [ADU_SpawnItems] Airdrop Flare Spawned @ <7077.678711, 8.003659, 10888.079102> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-19-51:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-23 @ 01-19-51:  [EOnSimulate] Airdrop Container deactivated.
+2023-02-23 @ 01-49-16:  [~AirdropContainerBase] Log file closed.
+2023-02-23 @ 01-49-16:  [~AirdropContainerBase] Container Destroyed.

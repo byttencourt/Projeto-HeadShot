@@ -1,0 +1,122 @@
+{
+    "Version": "2.5",
+    "IDs": [
+        {
+            "Id": 0,
+            "Categories": [
+                "Licences",
+                "Vegetables",
+                "Packaged Food",
+                "Meat",
+                "Animal Parts",
+                "Mutant Parts",
+                "Drinks",
+                "Medical Supplies",
+                "Medications",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 1,
+            "Categories": [
+                "Acessorios",
+                "Melee",
+                "Sidearms",
+                "Rifles",
+                "Shotguns",
+                "Submachine Guns",
+                "Machine Guns",
+                "Assault Rifles",
+                "Sniper Rifles",
+                "Metro Weapons",
+                "FS Weapons",
+                "SNAFU Weapons 1",
+                "SNAFU Weapons 2",
+                "SNAFU Magazines",
+                "SNAFU Scopes",
+                "SNAFU HandGuards",
+                "SNAFU Stocks",
+                "SNAFU Suppressors",
+                "SNAFU Attachments",
+                "SNAFU Grips",
+                "SNAFU Ammo",
+                "Grenades",
+                "Ammunition",
+                "Magazines",
+                "Handguards",
+                "Buttstocks",
+                "Optics",
+                "Supressors",
+                "Compensators",
+                "Bayonets",
+                "Flashlights"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 2,
+            "Categories": [
+                "Lore",
+                "Tools (small)",
+                "Tools (big)",
+                "Electronics",
+                "Fire & Lights",
+                "Cooking & Hunting Supplies",
+                "Hardware Supplies",
+                "Base Building Plus",
+                "Base Building Letters",
+                "Seeds & Lime"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 3,
+            "Categories": [
+                "Radiation",
+                "MVS",
+                "MMG",
+                "Glasses",
+                "Armbands",
+                "Gloves",
+                "Hats & Caps",
+                "Helmets",
+                "Masks",
+                "Shirts",
+                "Hoodies & Sweater",
+                "Vests",
+                "Jackets & Coats",
+                "Skirts & Dresses",
+                "Pants",
+                "Shoes & Boots",
+                "Ghillie",
+                "Holster & Pouches",
+                "Belt",
+                "Bags"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 4,
+            "Categories": [
+                "Veículos Vanilla",
+                "Veículos Esportivos",
+                "Pickups e Suvs",
+                "Veículos Militares",
+                "Motorhomes",
+                "Peças",
+                "Vanilla Parts",
+                "Esportivos Parts",
+                "Pickups e Suvs Parts",
+                "Militares Parts",
+                "Motorhomes Parts"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-2-17_22-1-39
+====================================================================================
+22:1:39 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+22:1:39 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+22:1:39 | [PermissionManager] Perm (FreeCamera) has been registered!
+22:1:39 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuItemManager) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuServerManager) has been registered!
+22:1:39 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+22:1:39 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+22:1:39 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+22:1:39 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+22:1:39 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+22:1:39 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+22:1:39 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+22:1:39 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+22:1:39 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+22:1:39 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+22:1:39 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+22:1:39 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+22:1:39 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+22:1:39 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+22:1:39 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+22:1:39 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+22:1:39 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+22:1:39 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+22:1:39 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+22:1:39 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+22:1:39 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+22:1:39 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+22:1:39 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+22:1:39 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+22:1:39 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+22:1:39 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+22:1:39 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+22:1:39 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+22:1:39 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+22:1:39 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+22:1:39 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+22:1:39 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+22:1:39 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuBansManager) has been registered!
+22:1:39 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+22:1:39 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+22:1:39 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+22:1:39 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+22:1:39 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+22:1:39 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+22:1:39 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+22:1:39 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+22:1:39 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+22:1:39 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+22:1:39 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+22:1:39 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+22:1:39 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+22:1:39 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+22:1:39 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+22:1:39 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+22:1:39 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+22:1:39 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+22:1:39 | [PermissionManager] Adding Super Admin (76561197994877771)
+22:1:39 | [PermissionManager] Loaded UserGroups.json
+22:1:39 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+22:1:39 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+22:1:39 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+22:1:39 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+22:1:39 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+22:1:39 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+22:1:39 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+22:1:39 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+22:1:39 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+22:1:39 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+22:1:39 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+22:1:39 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+22:1:39 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+22:1:39 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+22:1:39 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+22:1:39 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+22:1:39 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+22:1:39 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+22:1:39 | Building Sets Loaded: 1
+22:1:39 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+22:1:39 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+1:56:43 | Player "Barba_Imersivo" (steamId=76561197994877771) connected to server!
+3:32:44 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Helipolice_green" (pos=<13864.003906, 2.940555, 18178.605469>)
+3:33:26 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Helipolice_admin_green)
+3:33:36 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Helipolice_admin_green" (pos=<13869.988281, 2.876046, 18177.537109>)
+3:33:51 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Helipolice_raid)
+3:33:59 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Helipolice_raid" (pos=<13866.264648, 2.858800, 18179.658203>)
+3:34:3 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Helipolice_urban)
+3:40:36 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<12847.831055, 75.578316, 9692.936523>)
+3:41:39 | "76561197994877771" (steamid=76561197994877771) teleported to (pos=<2456.889893, 5.829310, 20232.000000>)
+3:41:39 | "Barba_Imersivo": (steamid=76561197994877771) teleported to (pos=2456.89,0,20232)
+3:46:40 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Helipolice_urban" (pos=<6764.199707, 10.400735, 15093.856445>)
+3:57:14 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+4:0:10 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7140.743652, 0.174832, 15086.579102>)
+4:0:12 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+4:20:3 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7297.967285, 12.220948, 15036.936523>)
+4:23:10 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7276.675781, 12.668274, 15037.601563>)
+4:23:21 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+4:25:3 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7572.080078, 38.561291, 15038.017578>)
+4:25:23 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7626.255859, 29.111183, 15027.332031>)
+4:25:26 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+4:25:33 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+4:25:50 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7541.598145, 34.868660, 15056.286133>)
+4:27:54 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7137.771973, 9.629999, 15030.336914>)
+4:27:59 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7139.766602, 9.630003, 15034.269531>)
+4:28:0 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7140.188965, 9.630008, 15029.625000>)
+4:28:2 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7152.855957, 9.629999, 15027.569336>)
+4:28:5 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7138.876465, 9.630008, 15032.724609>)
+4:28:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7144.180664, 9.629985, 15042.111328>)
+4:28:14 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7129.690918, 9.629997, 15025.130859>)
+4:29:44 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7025.981445, 1.625391, 15049.858398>)
+4:29:46 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+4:30:32 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+4:32:15 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<6955.845215, 9.640019, 15211.205078>)
+4:38:42 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<6983.715332, 24.317120, 14987.109375>)
+4:38:44 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+4:41:1 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+4:43:32 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<8423.196289, 9.132305, 13184.759766>)
+4:43:35 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+4:44:22 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+4:44:41 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<8468.467773, 9.818490, 13151.988281>)
+4:44:42 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+4:45:13 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+4:46:42 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<11328.753906, 2.649931, 8555.736328>)
+4:47:32 | Player "Barba_Imersivo" (steamId=76561197994877771) initiated disconnect process...

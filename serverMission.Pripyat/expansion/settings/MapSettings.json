@@ -1,0 +1,103 @@
+{
+    "m_Version": 5,
+    "EnableMap": 1,
+    "UseMapOnMapItem": 1,
+    "ShowPlayerPosition": 1,
+    "ShowMapStats": 1,
+    "NeedPenItemForCreateMarker": 0,
+    "NeedGPSItemForCreateMarker": 0,
+    "CanCreateMarker": 1,
+    "CanCreate3DMarker": 1,
+    "CanOpenMapWithKeyBinding": 1,
+    "ShowDistanceOnPersonalMarkers": 1,
+    "EnableHUDGPS": 1,
+    "NeedGPSItemForKeyBinding": 1,
+    "NeedMapItemForKeyBinding": 0,
+    "EnableServerMarkers": 1,
+    "ShowNameOnServerMarkers": 1,
+    "ShowDistanceOnServerMarkers": 1,
+    "ServerMarkers": [
+        {
+            "m_UID": "ServerMarker_Trader_Aircraft",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Aircraft Trader Dragunov",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                16460.0,
+                217.74000549316407,
+                11635.0
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Trader_Aircraft02",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Aircraft Trader Dytyatky",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                7696.8798828125,
+                201.92999267578126,
+                9983.33984375
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Trader01",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Trader Chernobyl",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                15117.2001953125,
+                198.36000061035157,
+                3173.39990234375
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Trader02",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Trader Sidorovich's",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                8750.490234375,
+                205.08999633789063,
+                3000.0
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Trader03",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "trader Luhovyky",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                2216.239990234375,
+                206.75,
+                14525.2001953125
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        }
+    ],
+    "EnableHUDCompass": 1,
+    "NeedCompassItemForHUDCompass": 0,
+    "NeedGPSItemForHUDCompass": 1,
+    "CompassColor": -1,
+    "CreateDeathMarker": 1,
+    "PlayerLocationNotifier": 1,
+    "CompassBadgesColor": -1946157056
+}

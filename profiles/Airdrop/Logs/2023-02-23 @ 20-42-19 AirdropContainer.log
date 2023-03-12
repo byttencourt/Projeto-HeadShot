@@ -1,0 +1,30 @@
+2023-02-23 @ 20-42-19:  [InitializeContainer] Winds: Vector <11.272826, 0.000000, 1.443642>, Speed 11.3649mps, Strength 0.1
+2023-02-23 @ 20-42-19:  [InitializeContainer] Parachute created on @ <7144.577148, 149.832352, 10893.500977>
+2023-02-23 @ 20-42-53:  [AirdropContainerFall] Airdrop Container Touchdown @ <7144.301758, 10.932405, 10893.500977>
+2023-02-23 @ 20-42-53:  [ADU_RemoveParachute] Parachute removed.
+2023-02-23 @ 20-42-53:  [ADU_RepositionContainer] Container repositioned.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/20/14, Flare:  10%
+2023-02-23 @ 20-42-53:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [1] Rice @ <7143.670410, 8.160000, 10892.303711> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [2] AKM @ <7142.624023, 8.160000, 10894.792969> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [3] M4A1 @ <7142.390625, 8.160000, 10894.550781> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [4] M4A1 @ <7145.337891, 8.160000, 10890.799805> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [5] BakedBeansCan @ <7146.411621, 8.160000, 10895.174805> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [6] Izh18 @ <7144.861328, 8.160000, 10891.570313> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [7] AKM @ <7145.480957, 8.160000, 10894.042969> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [8] Izh18 @ <7142.524414, 8.160000, 10893.308594> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [9] AKM @ <7144.840332, 8.160000, 10894.459961> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [10] AmmoBox_762x54_20Rnd @ <7141.998535, 8.160000, 10892.330078> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [11] Vodka @ <7146.368164, 8.160000, 10892.483398> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [12] Mag_STANAG_30Rnd @ <7142.217773, 8.160000, 10895.005859> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [13] WaterBottle @ <7145.676270, 8.160000, 10891.791992> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [14] AmmoBox_762x39_20Rnd @ <7146.412109, 8.160000, 10895.365234> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [15] M4A1 @ <7145.009277, 8.160000, 10896.381836> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [16] AmmoBox_762x39_20Rnd @ <7143.150391, 8.160000, 10893.416992> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [17] Izh18 @ <7143.248047, 8.160000, 10894.458984> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [18] AmmoBox_762x54_20Rnd @ <7144.131836, 8.160000, 10892.503906> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [19] Vodka @ <7145.142090, 8.160000, 10894.264648> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Loot Spawned [20] Mag_AKM_30Rnd @ <7144.856934, 8.160000, 10892.472656> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  [ADU_SpawnItems] Airdrop Flare Spawned @ <7144.745605, 8.160000, 10894.564453> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 20-42-53:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-23 @ 20-42-53:  [EOnSimulate] Airdrop Container deactivated.

@@ -1,0 +1,24 @@
+{
+    "m_Enable": 0,
+    "m_ShowOnMap": 1,
+    "m_TimeDelay": 0,
+    "m_Zones": [
+        {
+            "m_Name": "AL",
+            "m_Description": "Altar",
+            "m_Position": {
+                "m_X": 8092.1025390625,
+                "m_Y": 9330.8798828125,
+                "m_R": 100.0
+            },
+            "m_Active": 1
+        }
+    ],
+    "m_Messages": {
+        "m_Enter": "You just entered a safe zone.",
+        "m_Time": "You are leaving the zone in %TimeSeconds% seconds.",
+        "m_Exit": "You just left a safe zone."
+    },
+    "m_NotificationTime": 10,
+    "m_NotificationInChat": 0
+}

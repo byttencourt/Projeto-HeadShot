@@ -1,0 +1,153 @@
+Creation Time: 2023_2_22-0-34-39
+0-34-39 | [INFO] GarageCore - Started !
+0-34-39 | [INFO] GarageServer - Started
+0-35-16 | [INFO] obj created: SurvivorM_Boris
+0-35-16 | [INFO] TraderPlayer created and added!: 
+0-35-16 | [INFO] obj created: SurvivorM_Boris
+0-35-16 | [INFO] TraderPlayer created and added!: 
+0-35-16 | [INFO] obj created: SurvivorM_Boris
+0-35-16 | [INFO] TraderPlayer created and added!: 
+0-35-16 | [INFO] obj created: SurvivorM_Boris
+0-35-16 | [INFO] TraderPlayer created and added!: 
+0-35-16 | [INFO] obj created: SurvivorM_Boris
+0-35-16 | [INFO] TraderPlayer created and added!: 
+0-41-52 | [INFO] GarageRequestHandler
+0-41-52 | [INFO] loading time:83603
+0-41-52 | [INFO] send GarageResponse
+0-41-52 | [INFO] GarageRequest by player:Barba_Imersivo
+0-43-20 | [INFO] GarageRequestHandler
+0-43-20 | [INFO] loading time:14060
+0-43-20 | [INFO] send GarageResponse
+0-43-20 | [INFO] GarageRequest by player:Barba_Imersivo
+0-44-8 | [INFO] GarageRequestHandler
+0-44-8 | [INFO] loading time:11641
+0-44-8 | [INFO] send GarageResponse
+0-44-8 | [INFO] GarageRequest by player:Barba_Imersivo
+0-44-58 | [INFO] GarageRequestHandler
+0-44-58 | [INFO] loading time:10852
+0-44-58 | [INFO] send GarageResponse
+0-44-58 | [INFO] GarageRequest by player:Barba_Imersivo
+0-45-10 | [INFO] GarageRequestHandler
+0-45-10 | [INFO] loading time:13979
+0-45-10 | [INFO] send GarageResponse
+0-45-10 | [INFO] GarageRequest by player:Barba_Imersivo
+0-46-19 | [INFO] GarageRequestHandler
+0-46-19 | [INFO] loading time:17396
+0-46-19 | [INFO] send GarageResponse
+0-46-19 | [INFO] GarageRequest by player:Barba_Imersivo
+0-46-48 | [INFO] GarageRequestHandler
+0-46-48 | [INFO] loading time:15552
+0-46-48 | [INFO] send GarageResponse
+0-46-48 | [INFO] GarageRequest by player:Barba_Imersivo
+0-46-50 | [INFO] ParkInRequestHandler
+0-46-50 | [INFO] MustHaveLock:0 - SaveLock:0
+0-46-50 | [INFO] Vehicle DataCrSk_Land_Rover_Defender_110_Green -1 3353.63 68.3216
+0-46-50 | [INFO] ADD VEHICULE
+0-46-50 | [INFO] new VehiculeData
+0-46-50 | [INFO] ParkInRequest by player:Barba_Imersivo
+0-47-10 | [INFO] GarageRequestHandler
+0-47-10 | [INFO] loading time:16809
+0-47-10 | [INFO] send GarageResponse
+0-47-10 | [INFO] GarageRequest by player:Barba_Imersivo
+0-47-14 | [INFO] ParkOutRequestHandler
+0-47-14 | [INFO] ParkOutRequestHandler data: 994877771 1 Helilittle_bird_RF <2257.310059, 15.070000, 14529.200195>
+0-47-14 | [INFO] distance: 17145
+0-47-14 | [INFO] distance: 13299
+0-47-14 | [INFO] distance: 14462.5
+0-47-14 | [INFO] distance: 0
+0-47-14 | [INFO] distance < 5
+0-47-14 | [INFO] distance: 7063.3
+0-47-14 | [INFO] garageData.Vehicles[listpos].VehicleName == carname
+0-47-14 | [INFO] CreateVehicle
+0-47-14 | [INFO] childrens.Count():14
+0-47-14 | [INFO] childrens[i]:HatchbackWheeli:0
+0-47-14 | [INFO] create att
+0-47-14 | [INFO] childrens[i]:HatchbackWheeli:1
+0-47-14 | [INFO] create att
+0-47-14 | [INFO] childrens[i]:HatchbackWheeli:2
+0-47-14 | [INFO] create att
+0-47-14 | [INFO] childrens[i]:HatchbackWheeli:3
+0-47-14 | [INFO] create att
+0-47-14 | [INFO] childrens[i]:CarBatteryi:4
+0-47-14 | [INFO] create att
+0-47-14 | [INFO] ent exist
+0-47-14 | [INFO] item exist
+0-47-14 | [INFO] childrens[i]:RFlittle_bird_blade1i:5
+0-47-14 | [INFO] create att
+0-47-14 | [INFO] ent exist
+0-47-14 | [INFO] item exist
+0-47-14 | [INFO] childrens[i]:RFlittle_bird_blade2i:6
+0-47-14 | [INFO] create att
+0-47-14 | [INFO] ent exist
+0-47-14 | [INFO] item exist
+0-47-14 | [INFO] childrens[i]:RFlittle_bird_blade3i:7
+0-47-14 | [INFO] create att
+0-47-14 | [INFO] ent exist
+0-47-14 | [INFO] item exist
+0-47-14 | [INFO] childrens[i]:RFlittle_bird_blade4i:8
+0-47-14 | [INFO] create att
+0-47-14 | [INFO] ent exist
+0-47-14 | [INFO] item exist
+0-47-14 | [INFO] childrens[i]:RFlittle_bird_blade5i:9
+0-47-14 | [INFO] create att
+0-47-14 | [INFO] ent exist
+0-47-14 | [INFO] item exist
+0-47-14 | [INFO] childrens[i]:RFlittle_bird_bladem1i:10
+0-47-14 | [INFO] create att
+0-47-14 | [INFO] ent exist
+0-47-14 | [INFO] item exist
+0-47-14 | [INFO] childrens[i]:RFlittle_bird_bladem3i:11
+0-47-14 | [INFO] create att
+0-47-14 | [INFO] ent exist
+0-47-14 | [INFO] item exist
+0-47-14 | [INFO] childrens[i]:HeadlightH7i:12
+0-47-14 | [INFO] create att
+0-47-14 | [INFO] ent exist
+0-47-14 | [INFO] item exist
+0-47-14 | [INFO] childrens[i]:HeadlightH7i:13
+0-47-14 | [INFO] create att
+0-47-14 | [INFO] ent exist
+0-47-14 | [INFO] item exist
+0-47-14 | [INFO] vehicle orientation: 0x0000000097f11600 {<-26,-0,0>}
+0-47-14 | [INFO] vehicle orientation: 0x0000000097f11600 {<-26,-0,0>}
+0-47-14 | [INFO] ParkOutRequest by player:Barba_Imersivo
+1-8-34 | [INFO] GarageRequestHandler
+1-8-34 | [INFO] loading time:13838
+1-8-34 | [INFO] send GarageResponse
+1-8-34 | [INFO] GarageRequest by player:Barba_Imersivo
+1-9-13 | [INFO] GarageRequestHandler
+1-9-13 | [INFO] loading time:15535
+1-9-13 | [INFO] send GarageResponse
+1-9-13 | [INFO] GarageRequest by player:Barba_Imersivo
+1-9-26 | [INFO] GarageRequestHandler
+1-9-26 | [INFO] loading time:14402
+1-9-26 | [INFO] send GarageResponse
+1-9-26 | [INFO] GarageRequest by player:Barba_Imersivo
+1-10-5 | [INFO] GarageRequestHandler
+1-10-5 | [INFO] loading time:12434
+1-10-5 | [INFO] send GarageResponse
+1-10-5 | [INFO] GarageRequest by player:Barba_Imersivo
+1-13-17 | [INFO] GarageRequestHandler
+1-13-17 | [INFO] loading time:12165
+1-13-17 | [INFO] send GarageResponse
+1-13-17 | [INFO] GarageRequest by player:Barba_Imersivo
+1-16-41 | [INFO] GarageRequestHandler
+1-16-41 | [INFO] loading time:18678
+1-16-41 | [INFO] send GarageResponse
+1-16-41 | [INFO] GarageRequest by player:Barba_Imersivo
+1-16-56 | [INFO] GarageRequestHandler
+1-16-56 | [INFO] loading time:17294
+1-16-56 | [INFO] send GarageResponse
+1-16-56 | [INFO] GarageRequest by player:Barba_Imersivo
+1-17-6 | [INFO] GarageRequestHandler
+1-17-6 | [INFO] loading time:11816
+1-17-6 | [INFO] send GarageResponse
+1-17-6 | [INFO] GarageRequest by player:Barba_Imersivo
+1-17-10 | [INFO] GarageRequestHandler
+1-17-10 | [INFO] loading time:20239
+1-17-10 | [INFO] send GarageResponse
+1-17-10 | [INFO] GarageRequest by player:Barba_Imersivo
+1-17-30 | [INFO] GarageRequestHandler
+1-17-30 | [INFO] loading time:10265
+1-17-30 | [INFO] send GarageResponse
+1-17-30 | [INFO] GarageRequest by player:Barba_Imersivo

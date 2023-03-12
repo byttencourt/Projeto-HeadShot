@@ -1,0 +1,168 @@
+{
+    "Version": "2.5",
+    "UseGarageOnlyToTrade": 0,
+    "VehicleMustHaveLock": 0,
+    "SaveVehicleLock": 1,
+    "SaveVehicleCargo": 1,
+    "SaveVehicleHealth": 0,
+    "SaveVehicleFuel": 0,
+    "SavedVehicleInGarageForTradeInHour": 1,
+    "MaxVehicleStored": 5,
+    "ParkInCost": 0,
+    "ParkOutCost": 0,
+    "PayWithBankAccount": 0,
+    "WhitelistedObjects": [],
+    "NPCs": [
+        {
+            "ClassName": "SurvivorM_Boris",
+            "Position": [
+               15137.7,
+                7.25,
+                3208.93
+            ],
+            "Orientation": [
+                -71.99,
+                0.0,
+                0.0
+            ],
+            "ParkingPosition": [
+                15134.1,
+                6.68,
+                3209.27
+            ],
+            "ParkingOrientation": [
+                -120.5,
+                -0.0,
+                -0.0
+            ],
+            "Clothes": [
+                "ManSuit_Black",
+                "TrackSuitPants_Black",
+                "DressShoes_Black"
+            ]
+        },
+        {
+            "ClassName": "SurvivorM_Boris",
+            "Position": [
+                8766.78125,
+                13.095452308654786,
+                2924.02099609375
+            ],
+            "Orientation": [
+                77.88983917236328,
+                0.0,
+                0.0
+            ],
+            "ParkingPosition": [
+                8768.4765625,
+                14.183091163635254,
+                2933.188720703125
+            ],
+            "ParkingOrientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Clothes": [
+                "ManSuit_Black",
+                "TrackSuitPants_Black",
+                "DressShoes_Black"
+            ]
+        },
+        {
+            "ClassName": "SurvivorM_Boris",
+            "Position": [
+                16429.5,
+                26.24,
+                11637.5
+            ],
+            "Orientation": [
+                0,
+                0.0,
+                0.0
+            ],
+            "ParkingPosition": [
+                16429.3,
+                26.01,
+                11644.9
+            ],
+            "ParkingOrientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Clothes": [
+                "ManSuit_Black",
+                "TrackSuitPants_Black",
+                "DressShoes_Black"
+            ]
+        },
+        {
+            "ClassName": "SurvivorM_Boris",
+            "Position": [
+                2256.36,
+                15.26,
+                14521.9
+            ],
+            "Orientation": [
+                -23.0,
+                0.0,
+                0.0
+            ],
+            "ParkingPosition": [
+                2257.31,
+                15.07,
+                14529.2
+            ],
+            "ParkingOrientation": [
+                -26.0,
+                -0.0,
+                -0.0
+            ],
+            "Clothes": [
+                "ManSuit_Black",
+                "TrackSuitPants_Black",
+                "DressShoes_Black"
+            ]
+        },
+        {
+            "ClassName": "SurvivorM_Boris",
+            "Position": [
+                7698.42,
+                10.05,
+                10032.1
+            ],
+            "Orientation": [
+                72.0,
+                0.0,
+                0.0
+            ],
+            "ParkingPosition": [
+                7705.47,
+                9.75,
+                10033.9
+            ],
+            "ParkingOrientation": [
+                73.0,
+                -0.0,
+                -0.0
+            ],
+            "Clothes": [
+                "ManSuit_Black",
+                "TrackSuitPants_Black",
+                "DressShoes_Black"
+            ]
+        }
+    ],
+    "ParkingNotAvailable": "The park area is not available!",
+    "NotEnoughMoney": "You don't have enough money",
+    "NotRightToPark": "You don't have the right to park in this vehicle!",
+    "CarHasMember": "The car still have member inside!",
+    "ParkInFail": "The car was not able to be park in correctly",
+    "ParkInSuccess": "The car was successfully parked",
+    "ParkOutFail": "The car was not able to spawn!",
+    "ParkOutSuccess": "The car was able to spawn!",
+    "MaxVehicleStoredReached": "Max number of vehicle reached!",
+    "TradeVehicleWarning": "The vehicle has been stored for %1 hour, passed this point it will be lost so trade it or get it fast",
+    "TradeVehicleHasBeenDeleted": "The vehicle stored for trade reached his inactivity and has been deleted!"
+}

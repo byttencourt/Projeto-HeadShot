@@ -1,0 +1,20 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] Exporting 7 DropZone coordinates.
+[ExportDropZones] DropZone coordinates exported to VPP Map file.
+[AirdropBase] Base class created & settings loaded.
+[2023-02-23 @ 20-08-12] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Gringos Camping Resort <14726.000000, 0.000000, 10338.000000>
+[EOnCallAirdrop] Drop zone offset to: <14803.737305, 2438.000000, 10337.103516>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, -357.311279>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.54435° / 235.78°, Text: 'South/West (236°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Gringos Camping Resort' (-1000/-357.311), from the South/West (236°).
+[2023-02-23 @ 20-38-35] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Red Forest Farms <7075.000000, 0.000000, 10836.000000>
+[EOnCallAirdrop] Drop zone offset to: <7054.224609, 2438.000000, 10752.407227>
+[EOnCallAirdrop] Aircraft spawn point: <20792.429688, 2438.000000, 21474.900391>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.659669° / 52.2037°, Text: 'North/East (052°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Red Forest Farms' (20792.4/21474.9), from the North/East (052°).

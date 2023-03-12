@@ -1,0 +1,355 @@
+Creation Time: 2023_2_16-23-31-37
+23-31-37 | [INFO] GarageCore - Started !
+23-31-37 | [INFO] GarageServer - Started
+23-32-18 | [INFO] obj created: SurvivorM_Boris
+23-32-18 | [INFO] TraderPlayer created and added!: 
+23-32-18 | [INFO] obj created: SurvivorM_Boris
+23-32-18 | [INFO] TraderPlayer created and added!: 
+23-35-6 | [INFO] GarageRequestHandler
+23-35-6 | [INFO] loading time:15080
+23-35-6 | [INFO] send GarageResponse
+23-35-6 | [INFO] GarageRequest by player:Barba_Imersivo
+23-38-34 | [INFO] GarageRequestHandler
+23-38-34 | [INFO] loading time:4994
+23-38-34 | [INFO] send GarageResponse
+23-38-34 | [INFO] GarageRequest by player:Barba_Imersivo
+23-39-19 | [INFO] GarageRequestHandler
+23-39-19 | [INFO] loading time:5368
+23-39-19 | [INFO] send GarageResponse
+23-39-19 | [INFO] GarageRequest by player:Barba_Imersivo
+23-39-37 | [INFO] GarageRequestHandler
+23-39-37 | [INFO] loading time:6697
+23-39-37 | [INFO] send GarageResponse
+23-39-37 | [INFO] GarageRequest by player:Barba_Imersivo
+23-40-29 | [INFO] GarageRequestHandler
+23-40-29 | [INFO] loading time:8313
+23-40-29 | [INFO] send GarageResponse
+23-40-29 | [INFO] GarageRequest by player:Barba_Imersivo
+23-40-40 | [INFO] new VehiculeData
+23-40-47 | [INFO] GarageRequestHandler
+23-40-47 | [INFO] loading time:12233
+23-40-47 | [INFO] send GarageResponse
+23-40-47 | [INFO] GarageRequest by player:Barba_Imersivo
+23-40-50 | [INFO] ParkOutRequestHandler
+23-40-50 | [INFO] ParkOutRequestHandler data: 994877771 0 EGER <15132.700195, 6.680000, 3208.610107>
+23-40-50 | [INFO] distance: 0
+23-40-50 | [INFO] distance < 5
+23-40-50 | [INFO] distance: 6370.19
+23-40-50 | [INFO] garageData.Vehicles[listpos].VehicleName == carname
+23-40-50 | [INFO] CreateVehicle
+23-40-50 | [INFO] childrens.Count():0
+23-40-50 | [INFO] Set Health:5000
+23-40-50 | [INFO] Set Fuel:105
+23-40-50 | [INFO] Set Lock:-1
+23-40-50 | [INFO] vehicle orientation: 0x00000000898ab528 {<-117.5,-0,0>}
+23-40-50 | [INFO] vehicle orientation: 0x00000000898ab528 {<-117.5,-0,0>}
+23-40-50 | [INFO] ParkOutRequest by player:Barba_Imersivo
+23-41-22 | [INFO] GarageRequestHandler
+23-41-22 | [INFO] loading time:6239
+23-41-22 | [INFO] send GarageResponse
+23-41-22 | [INFO] GarageRequest by player:Barba_Imersivo
+23-42-49 | [INFO] GarageRequestHandler
+23-42-49 | [INFO] loading time:6272
+23-42-49 | [INFO] send GarageResponse
+23-42-49 | [INFO] GarageRequest by player:Barba_Imersivo
+23-44-43 | [INFO] GarageRequestHandler
+23-44-43 | [INFO] loading time:7707
+23-44-43 | [INFO] send GarageResponse
+23-44-43 | [INFO] GarageRequest by player:Barba_Imersivo
+23-46-32 | [INFO] GarageRequestHandler
+23-46-32 | [INFO] loading time:6150
+23-46-32 | [INFO] send GarageResponse
+23-46-32 | [INFO] GarageRequest by player:Barba_Imersivo
+23-47-16 | [INFO] GarageRequestHandler
+23-47-16 | [INFO] loading time:7900
+23-47-16 | [INFO] send GarageResponse
+23-47-16 | [INFO] GarageRequest by player:Barba_Imersivo
+23-50-36 | [INFO] GarageRequestHandler
+23-50-36 | [INFO] loading time:21776
+23-50-36 | [INFO] send GarageResponse
+23-50-36 | [INFO] GarageRequest by player:Barba_Imersivo
+23-51-38 | [INFO] GarageRequestHandler
+23-51-38 | [INFO] loading time:13976
+23-51-38 | [INFO] send GarageResponse
+23-51-38 | [INFO] GarageRequest by player:Barba_Imersivo
+23-51-49 | [INFO] GarageRequestHandler
+23-51-49 | [INFO] loading time:8566
+23-51-49 | [INFO] send GarageResponse
+23-51-49 | [INFO] GarageRequest by player:Barba_Imersivo
+23-52-36 | [INFO] GarageRequestHandler
+23-52-36 | [INFO] loading time:8033
+23-52-36 | [INFO] send GarageResponse
+23-52-36 | [INFO] GarageRequest by player:Barba_Imersivo
+23-52-38 | [INFO] ParkInRequestHandler
+23-52-38 | [INFO] MustHaveLock:1 - SaveLock:0
+23-52-38 | [INFO] Vehicle DataEGER 34660046 5000 104.977
+23-52-38 | [INFO] ADD VEHICULE
+23-52-38 | [INFO] new VehiculeData
+23-52-38 | [INFO] ParkInRequest by player:Barba_Imersivo
+23-52-42 | [INFO] GarageRequestHandler
+23-52-42 | [INFO] loading time:13624
+23-52-42 | [INFO] send GarageResponse
+23-52-42 | [INFO] GarageRequest by player:Barba_Imersivo
+23-52-44 | [INFO] ParkOutRequestHandler
+23-52-44 | [INFO] ParkOutRequestHandler data: 994877771 0 EGER <15132.700195, 6.680000, 3208.610107>
+23-52-44 | [INFO] distance: 0
+23-52-44 | [INFO] distance < 5
+23-52-44 | [INFO] distance: 6370.19
+23-52-44 | [INFO] garageData.Vehicles[listpos].VehicleName == carname
+23-52-44 | [INFO] CreateVehicle
+23-52-44 | [INFO] childrens.Count():20
+23-52-44 | [INFO] childrens[i]:CarBatteryi:0
+23-52-44 | [INFO] create item in cargo
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:FALi:1
+23-52-44 | [INFO] create item in cargo
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens.Count():1
+23-52-44 | [INFO] childrens[i]:GCGN_Mag_FAL_50Rndi:0
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:EngineOili:2
+23-52-44 | [INFO] create item in cargo
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:EGER_Tenti:3
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:EGER_Doors_Driveri:4
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:EGER_Doors_coDriveri:5
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:EGER_Doors_hoodi:6
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:EGER_Doors_trunki:7
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:EGER_Doors_cargo2i:8
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:EGER_Doors_cargo1i:9
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:EGER_Wheeli:10
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:EGER_Wheeli:11
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:EGER_Wheeli:12
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:EGER_Wheeli:13
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:SparkPlugi:14
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:CarRadiatori:15
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:HeadlightH7i:16
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:TruckBatteryi:17
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:HeadlightH7i:18
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens[i]:FAMASi:19
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] childrens.Count():1
+23-52-44 | [INFO] childrens[i]:Mag_FAMAS_25Rndi:0
+23-52-44 | [INFO] create att
+23-52-44 | [INFO] ent exist
+23-52-44 | [INFO] item exist
+23-52-44 | [INFO] Set Health:5000
+23-52-44 | [INFO] Set Fuel:104.977
+23-52-44 | [INFO] Set Lock:34660046
+23-52-44 | [INFO] vehicle orientation: 0x00000000898ab528 {<-117.5,-0,0>}
+23-52-44 | [INFO] vehicle orientation: 0x00000000898ab528 {<-117.5,-0,0>}
+23-52-44 | [INFO] ParkOutRequest by player:Barba_Imersivo
+23-53-8 | [INFO] GarageRequestHandler
+23-53-8 | [INFO] loading time:12677
+23-53-8 | [INFO] send GarageResponse
+23-53-8 | [INFO] GarageRequest by player:Barba_Imersivo
+23-53-10 | [INFO] ParkInRequestHandler
+23-53-10 | [INFO] MustHaveLock:1 - SaveLock:0
+23-53-10 | [INFO] Vehicle DataEGER 34660046 5000 104.977
+23-53-10 | [INFO] ADD VEHICULE
+23-53-10 | [INFO] new VehiculeData
+23-53-10 | [INFO] ParkInRequest by player:Barba_Imersivo
+23-54-5 | [INFO] GarageRequestHandler
+23-54-5 | [INFO] loading time:13190
+23-54-5 | [INFO] send GarageResponse
+23-54-5 | [INFO] GarageRequest by player:Barba_Imersivo
+23-54-7 | [INFO] ParkInRequestHandler
+23-54-7 | [INFO] MustHaveLock:1 - SaveLock:0
+23-54-7 | [INFO] Vehicle DataCrSk_Land_Rover_Defender_110_Green 34660046 3495.01 74.9791
+23-54-7 | [INFO] ADD VEHICULE
+23-54-7 | [INFO] new VehiculeData
+23-54-7 | [INFO] ParkInRequest by player:Barba_Imersivo
+23-54-12 | [INFO] GarageRequestHandler
+23-54-12 | [INFO] loading time:19832
+23-54-12 | [INFO] send GarageResponse
+23-54-12 | [INFO] GarageRequest by player:Barba_Imersivo
+23-54-15 | [INFO] ParkOutRequestHandler
+23-54-15 | [INFO] ParkOutRequestHandler data: 994877771 1 CrSk_Land_Rover_Defender_110_Green <15132.700195, 6.680000, 3208.610107>
+23-54-15 | [INFO] distance: 0
+23-54-15 | [INFO] distance < 5
+23-54-15 | [INFO] distance: 6370.19
+23-54-15 | [INFO] garageData.Vehicles[listpos].VehicleName == carname
+23-54-15 | [INFO] CreateVehicle
+23-54-15 | [INFO] childrens.Count():17
+23-54-15 | [INFO] childrens[i]:SaltySticksi:0
+23-54-15 | [INFO] create item in cargo
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] childrens[i]:SaltySticksi:1
+23-54-15 | [INFO] create item in cargo
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] childrens[i]:SparkPlugi:2
+23-54-15 | [INFO] create att
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] childrens[i]:CarBatteryi:3
+23-54-15 | [INFO] create att
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] childrens[i]:CarRadiatori:4
+23-54-15 | [INFO] create att
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] childrens[i]:HeadlightH7i:5
+23-54-15 | [INFO] create att
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] childrens[i]:HeadlightH7i:6
+23-54-15 | [INFO] create att
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] childrens[i]:Defender110_dver_1_1_Greeni:7
+23-54-15 | [INFO] create att
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] childrens[i]:Defender110_dver_2_1_Greeni:8
+23-54-15 | [INFO] create att
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] childrens[i]:Defender110_dver_1_2_Greeni:9
+23-54-15 | [INFO] create att
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] childrens[i]:Defender110_dver_2_2_Greeni:10
+23-54-15 | [INFO] create att
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] childrens[i]:Defender110_kapot_Greeni:11
+23-54-15 | [INFO] create att
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] childrens[i]:Defender110_bagazhnik_Greeni:12
+23-54-15 | [INFO] create att
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] childrens[i]:Defender110_kolesoi:13
+23-54-15 | [INFO] create att
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] childrens[i]:Defender110_kolesoi:14
+23-54-15 | [INFO] create att
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] childrens[i]:Defender110_kolesoi:15
+23-54-15 | [INFO] create att
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] childrens[i]:Defender110_kolesoi:16
+23-54-15 | [INFO] create att
+23-54-15 | [INFO] ent exist
+23-54-15 | [INFO] item exist
+23-54-15 | [INFO] Set Health:3495.01
+23-54-15 | [INFO] Set Fuel:74.9791
+23-54-15 | [INFO] Set Lock:34660046
+23-54-15 | [INFO] vehicle orientation: 0x00000000898ab528 {<-117.5,-0,0>}
+23-54-15 | [INFO] vehicle orientation: 0x00000000898ab528 {<-117.5,-0,0>}
+23-54-15 | [INFO] ParkOutRequest by player:Barba_Imersivo
+23-54-26 | [INFO] GarageRequestHandler
+23-54-26 | [INFO] loading time:393807
+23-54-26 | [INFO] send GarageResponse
+23-54-26 | [INFO] GarageRequest by player:Barba_Imersivo
+23-54-27 | [INFO] ParkInRequestHandler
+23-54-27 | [INFO] MustHaveLock:1 - SaveLock:0
+23-54-27 | [INFO] Vehicle DataCrSk_Land_Rover_Defender_110_Green 34660046 3500 74.9791
+23-54-27 | [INFO] ADD VEHICULE
+23-54-27 | [INFO] new VehiculeData
+23-54-27 | [INFO] ParkInRequest by player:Barba_Imersivo
+23-54-32 | [INFO] GarageRequestHandler
+23-54-32 | [INFO] loading time:12964
+23-54-32 | [INFO] send GarageResponse
+23-54-32 | [INFO] GarageRequest by player:Barba_Imersivo
+23-56-37 | [INFO] GarageRequestHandler
+23-56-37 | [INFO] loading time:14203
+23-56-37 | [INFO] send GarageResponse
+23-56-37 | [INFO] GarageRequest by player:Barba_Imersivo
+23-56-40 | [INFO] GarageRequestHandler
+23-56-40 | [INFO] loading time:21721
+23-56-40 | [INFO] send GarageResponse
+23-56-40 | [INFO] GarageRequest by player:Barba_Imersivo
+23-56-46 | [INFO] new VehiculeData
+23-56-51 | [INFO] GarageRequestHandler
+23-56-51 | [INFO] loading time:19874
+23-56-51 | [INFO] send GarageResponse
+23-56-51 | [INFO] GarageRequest by player:Barba_Imersivo
+23-56-54 | [INFO] ParkOutRequestHandler
+23-56-54 | [INFO] ParkOutRequestHandler data: 994877771 2 ChevroletCorvette_kamo <15132.700195, 6.680000, 3208.610107>
+23-56-54 | [INFO] distance: 0
+23-56-54 | [INFO] distance < 5
+23-56-54 | [INFO] distance: 6370.19
+23-56-54 | [INFO] garageData.Vehicles[listpos].VehicleName == carname
+23-56-54 | [INFO] CreateVehicle
+23-56-54 | [INFO] childrens.Count():0
+23-56-54 | [INFO] Set Health:6000
+23-56-54 | [INFO] Set Fuel:70
+23-56-54 | [INFO] Set Lock:-1
+23-56-54 | [INFO] vehicle orientation: 0x00000000c5b6b2f8 {<-117.5,-0,0>}
+23-56-54 | [INFO] vehicle orientation: 0x00000000c5b6b2f8 {<-117.5,-0,0>}
+23-56-54 | [INFO] ParkOutRequest by player:Barba_Imersivo
+23-57-16 | [INFO] GarageRequestHandler
+23-57-16 | [INFO] loading time:392109
+23-57-16 | [INFO] send GarageResponse
+23-57-16 | [INFO] GarageRequest by player:Barba_Imersivo
+23-59-52 | [INFO] GarageRequestHandler
+23-59-52 | [INFO] loading time:11948
+23-59-52 | [INFO] send GarageResponse
+23-59-52 | [INFO] GarageRequest by player:Barba_Imersivo
+0-1-30 | [INFO] GarageRequestHandler
+0-1-30 | [INFO] loading time:11115
+0-1-30 | [INFO] send GarageResponse
+0-1-30 | [INFO] GarageRequest by player:Barba_Imersivo

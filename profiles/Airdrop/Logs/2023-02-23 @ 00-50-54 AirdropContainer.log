@@ -1,0 +1,31 @@
+2023-02-23 @ 00-50-54:  [InitializeContainer] Winds: Vector <9.226465, 0.000000, 9.585819>, Speed 13.3047mps, Strength 0.1
+2023-02-23 @ 00-50-54:  [InitializeContainer] Parachute created on @ <13542.865234, 152.805298, 18686.214844>
+2023-02-23 @ 00-51-29:  [AirdropContainerFall] Airdrop Container Touchdown @ <13542.865234, 10.705168, 18686.214844>
+2023-02-23 @ 00-51-29:  [ADU_RemoveParachute] Parachute removed.
+2023-02-23 @ 00-51-29:  [ADU_RepositionContainer] Container repositioned.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/20/14, Flare:  10%
+2023-02-23 @ 00-51-29:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [1] BakedBeansCan @ <13541.550781, 7.897441, 18686.279297> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [2] Mag_STANAG_30Rnd @ <13541.602539, 7.898018, 18684.751953> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [3] Rice @ <13541.605469, 7.894629, 18687.685547> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [4] AmmoBox_762x39_20Rnd @ <13544.278320, 7.896602, 18686.699219> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [5] M4A1 @ <13543.016602, 7.895228, 18687.386719> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Spawn failed for item [6] 'Mossin9130', does not exist in DayZ!
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [7] PowderedMilk @ <13542.671875, 7.894290, 18687.855469> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [8] AmmoBox_762x54_20Rnd @ <13540.372070, 7.899805, 18685.097656> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [9] Rice @ <13543.749023, 7.896343, 18686.828125> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [10] AmmoBox_762x39_20Rnd @ <13540.706055, 7.898367, 18685.816406> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [11] PowderedMilk @ <13544.646484, 7.899727, 18685.136719> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [12] Mag_STANAG_30Rnd @ <13542.189453, 7.888975, 18683.621094> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [13] Vodka @ <13544.234375, 7.899983, 18685.007813> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [14] AKM @ <13543.058594, 7.893694, 18688.152344> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [15] AmmoBox_762x54_20Rnd @ <13541.903320, 7.895813, 18687.093750> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Spawn failed for item [16] 'Mossin9130', does not exist in DayZ!
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [17] M4A1 @ <13544.743164, 7.896324, 18686.837891> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [18] FNX45 @ <13544.804688, 7.894278, 18687.861328> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [19] Izh18 @ <13543.727539, 7.889053, 18683.630859> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  [ADU_SpawnItems] Loot Spawned [20] Mag_AKM_30Rnd @ <13541.921875, 7.897598, 18684.699219> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 00-51-29:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-23 @ 00-51-29:  [EOnSimulate] Airdrop Container deactivated.
+2023-02-23 @ 01-20-54:  [~AirdropContainerBase] Log file closed.
+2023-02-23 @ 01-20-54:  [~AirdropContainerBase] Container Destroyed.

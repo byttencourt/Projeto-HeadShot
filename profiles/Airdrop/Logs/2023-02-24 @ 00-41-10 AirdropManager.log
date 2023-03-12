@@ -1,0 +1,51 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backup file removed:  AirdropSettings_bakup_2023-02-22 @ 00-00-26.json (2)
+[ClearOldAirdropFiles] Backup file removed:  AirdropSettings_bakup_2023-02-22 @ 01-13-18.json (2)
+[ClearOldAirdropFiles] Backup file removed:  AirdropSettings_bakup_2023-02-22 @ 01-37-56.json (2)
+[ClearOldAirdropFiles] Backup file removed:  AirdropSettings_bakup_2023-02-22 @ 02-02-31.json (2)
+[ClearOldAirdropFiles] Backup file removed:  AirdropSettings_bakup_2023-02-22 @ 03-20-28.json (2)
+[ClearOldAirdropFiles] Backup file removed:  AirdropSettings_bakup_2023-02-22 @ 03-22-15.json (2)
+[ClearOldAirdropFiles] Backup file removed:  AirdropSettings_bakup_2023-02-22 @ 03-27-54.json (2)
+[ClearOldAirdropFiles] Backup file removed:  AirdropSettings_bakup_2023-02-22 @ 03-34-39.json (2)
+[ClearOldAirdropFiles] Backup file removed:  AirdropSettings_bakup_2023-02-22 @ 04-20-30.json (2)
+[ClearOldAirdropFiles] Backup file removed:  AirdropSettings_bakup_2023-02-22 @ 23-45-12.json (2)
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 00-00-26 AirdropManager.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 00-31-26 AirdropAircraft.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 00-34-43 AirdropContainer.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 00-34-43 AirdropParachute.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 01-01-29 AirdropAircraft.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 01-03-16 AirdropContainer.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 01-03-16 AirdropParachute.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 01-13-18 AirdropManager.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 01-37-56 AirdropManager.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 02-02-31 AirdropManager.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 02-33-50 AirdropAircraft.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 02-36-58 AirdropContainer.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 02-36-58 AirdropParachute.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 03-04-17 AirdropAircraft.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 03-07-25 AirdropContainer.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 03-07-25 AirdropParachute.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 03-20-28 AirdropManager.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 03-22-15 AirdropManager.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 03-27-54 AirdropManager.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 03-34-39 AirdropManager.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 04-05-37 AirdropAircraft.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 04-10-02 AirdropContainer.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 04-10-02 AirdropParachute.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 04-20-30 AirdropManager.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 04-51-30 AirdropAircraft.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 04-55-20 AirdropContainer.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 04-55-21 AirdropParachute.log (2)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2023-02-22 @ 23-45-12 AirdropManager.log (2)
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] Exporting 7 DropZone coordinates.
+[ExportDropZones] DropZone coordinates exported to VPP Map file.
+[AirdropBase] Base class created & settings loaded.
+[2023-02-24 @ 01-12-33] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Red Forest Farms <7075.000000, 0.000000, 10836.000000>
+[EOnCallAirdrop] Drop zone offset to: <7141.787109, 2438.000000, 10762.530273>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 11922.364258>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 3.00786° / 277.662°, Text: 'West (278°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Red Forest Farms' (-1000/11922.4), from the West (278°).

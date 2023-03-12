@@ -1,0 +1,21 @@
+2023-02-23 @ 20-38-35:  [AirdropPlane] Aircraft created on 2023-02-23 @ 20-38-35
+2023-02-23 @ 20-38-35:  [InitializeAircraft] Aircraft Initialized: Red Forest Farms @ 7075/10836 (true)
+2023-02-23 @ 20-38-50:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_MotobikerFat_Beige @ <7081.212891, 9.854241, 10834.715820> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 20-39-05:  [EOnSpawnZombies] Zombie Spawned [2] ZmbM_PatrolNormal_Flat @ <7078.218750, 9.261786, 10808.634766> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 20-39-20:  [EOnSpawnZombies] Zombie Spawned [3] ZmbM_PatrolNormal_PautRev @ <7099.149414, 8.839488, 10839.256836> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 20-39-35:  [EOnSpawnZombies] Zombie Spawned [4] ZmbF_SurvivorNormal_Blue @ <7110.205078, 8.613281, 10806.212891> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 20-39-50:  [EOnSpawnZombies] Zombie Spawned [5] Animal_CanisLupus_Grey @ <7101.000488, 8.681993, 10809.543945> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 20-40-05:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_FishermanOld_Red @ <7053.047363, 8.808633, 10871.137695> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 20-40-20:  [EOnSpawnZombies] Zombie Spawned [7] ZmbM_FishermanOld_Grey @ <7071.650879, 10.260439, 10831.174805> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 20-40-35:  [EOnSpawnZombies] Zombie Spawned [8] ZmbM_HandymanNormal_Green @ <7038.772949, 10.480412, 10856.730469> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 20-40-50:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_HandymanNormal_Green @ <7052.139648, 9.345469, 10814.995117> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 20-41-05:  [EOnSpawnZombies] Zombie Spawned [10] ZmbF_ShortSkirt_beige @ <7057.972168, 10.578683, 10829.801758> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 20-41-20:  [EOnSpawnZombies] Zombie Spawned [11] ZmbM_PatrolNormal_Summer @ <7025.590332, 9.204627, 10830.708008> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 20-41-35:  [EOnSpawnZombies] Zombie Spawned [12] ZmbM_MechanicSkinny_Grey @ <7101.858398, 8.870855, 10825.739258> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 20-41-50:  [EOnSpawnZombies] Zombie Spawned [13] ZmbF_ParamedicNormal_Red @ <7073.534180, 9.873548, 10822.412109> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 20-42-00:  [EOnBeforeDrop] The Aircraft is 1 Km from Red Forest Farms, from the North/East (052°). @ <8257.399414, 160.395645, 11756.811523>
+2023-02-23 @ 20-42-05:  [EOnSpawnZombies] Zombie Spawned [14] ZmbM_PatrolNormal_PautRev @ <7062.872070, 10.523436, 10848.047852> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 20-42-19:  [EOnDrop] Drop spawned with 15 infected at <7144.577148, 149.832352, 10893.500977>.
+2023-02-23 @ 20-42-19:  [EOnDrop] Supplies have been dropped near Red Forest Farms.
+2023-02-23 @ 20-44-32:  [EOnBeforeDelete] Aircraft despawned @ <-1000.367432, 165.658875, 4576.270996>
+2023-02-23 @ 20-44-32:  [~AirdropPlane] Aircraft destroyed.

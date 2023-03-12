@@ -1,0 +1,20 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] Exporting 7 DropZone coordinates.
+[ExportDropZones] DropZone coordinates exported to VPP Map file.
+[AirdropBase] Base class created & settings loaded.
+[2023-02-23 @ 18-14-52] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Vesna Village <13535.000000, 0.000000, 18753.000000>
+[EOnCallAirdrop] Drop zone offset to: <13524.117188, 2438.000000, 18788.623047>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 3410.339844>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.32917° / 223.452°, Text: 'South/West (223°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Vesna Village' (-1000/3410.34), from the South/West (223°).
+[2023-02-23 @ 19-15-39] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Red Forest Farms <7075.000000, 0.000000, 10836.000000>
+[EOnCallAirdrop] Drop zone offset to: <7090.213867, 2438.000000, 10825.271484>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, -33.566250>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.20974° / 216.609°, Text: 'South/West (217°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Red Forest Farms' (-1000/-33.5662), from the South/West (217°).

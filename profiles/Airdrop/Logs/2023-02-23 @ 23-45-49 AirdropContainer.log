@@ -1,0 +1,31 @@
+2023-02-23 @ 23-45-49:  [InitializeContainer] Winds: Vector <10.640869, 0.000000, 6.802741>, Speed 12.6295mps, Strength 0.1
+2023-02-23 @ 23-45-49:  [InitializeContainer] Parachute created on @ <7279.421387, 154.448761, 1081.171143>
+2023-02-23 @ 23-46-23:  [AirdropContainerFall] Airdrop Container Touchdown @ <7279.690918, 19.248566, 1081.161987>
+2023-02-23 @ 23-46-23:  [ADU_RemoveParachute] Parachute removed.
+2023-02-23 @ 23-46-23:  [ADU_RepositionContainer] Container repositioned.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/20/14, Flare:  10%
+2023-02-23 @ 23-46-23:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [1] PowderedMilk @ <7281.449707, 12.090001, 1080.502319> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [2] AmmoBox_762x39_20Rnd @ <7280.522949, 12.090001, 1083.659180> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [3] Izh18 @ <7281.755859, 12.090001, 1082.168823> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [4] FNX45 @ <7278.235840, 12.090001, 1082.307617> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [5] AmmoBox_762x39_20Rnd @ <7280.797852, 12.090001, 1080.821289> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [6] M4A1 @ <7277.779297, 12.090001, 1081.418213> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [7] AKM @ <7277.928711, 12.090001, 1080.560059> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [8] PowderedMilk @ <7280.863770, 12.090001, 1080.920776> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [9] Rice @ <7279.407715, 12.090001, 1079.589111> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [10] Izh18 @ <7278.362305, 12.090001, 1079.381470> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [11] AmmoBox_762x39_20Rnd @ <7277.728516, 12.090001, 1079.670410> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [12] AKM @ <7280.521973, 12.090001, 1080.239258> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [13] Vodka @ <7280.637695, 12.090001, 1078.790039> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [14] Mag_STANAG_30Rnd @ <7280.076172, 12.090001, 1078.455078> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [15] PowderedMilk @ <7280.391113, 12.090001, 1079.456787> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [16] Rice @ <7279.422852, 12.090001, 1079.896484> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [17] M4A1 @ <7280.454102, 12.090001, 1083.420776> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [18] WaterBottle @ <7282.350098, 12.090001, 1082.301392> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Loot Spawned [19] WaterBottle @ <7277.550781, 12.090001, 1083.170654> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 23-46-23:  [ADU_SpawnItems] Spawn failed for item [20] 'Mossin9130', does not exist in DayZ!
+2023-02-23 @ 23-46-23:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-23 @ 23-46-23:  [EOnSimulate] Airdrop Container deactivated.
+2023-02-24 @ 00-15-49:  [~AirdropContainerBase] Log file closed.
+2023-02-24 @ 00-15-49:  [~AirdropContainerBase] Container Destroyed.

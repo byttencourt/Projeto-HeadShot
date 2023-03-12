@@ -1,0 +1,21 @@
+2023-02-23 @ 18-14-52:  [AirdropPlane] Aircraft created on 2023-02-23 @ 18-14-52
+2023-02-23 @ 18-14-52:  [InitializeAircraft] Aircraft Initialized: Vesna Village @ 13535/18753 (true)
+2023-02-23 @ 18-15-10:  [EOnSpawnZombies] Zombie Spawned [1] ZmbF_VillagerOld_Blue @ <13521.023438, 8.934204, 18764.740234> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 18-15-29:  [EOnSpawnZombies] Zombie Spawned [2] ZmbM_FishermanOld_Green @ <13540.160156, 8.084734, 18752.472656> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 18-15-47:  [EOnSpawnZombies] Zombie Spawned [3] ZmbF_HikerSkinny_Blue @ <13513.215820, 8.376719, 18752.671875> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 18-16-05:  [EOnSpawnZombies] Zombie Spawned [4] Animal_CanisLupus_Grey @ <13520.807617, 8.179968, 18782.517578> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 18-16-23:  [EOnSpawnZombies] Zombie Spawned [5] ZmbF_ShortSkirt_brown @ <13531.614258, 8.163923, 18737.326172> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 18-16-42:  [EOnSpawnZombies] Zombie Spawned [6] Animal_CanisLupus_Grey @ <13552.628906, 8.032705, 18754.462891> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 18-17-00:  [EOnSpawnZombies] Zombie Spawned [7] ZmbM_PatrolNormal_PautRev @ <13555.291992, 8.146580, 18776.171875> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 18-17-18:  [EOnSpawnZombies] Zombie Spawned [8] ZmbM_HikerSkinny_Blue @ <13496.244141, 9.367421, 18771.718750> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 18-17-36:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_priestPopSkinny @ <13498.938477, 8.765195, 18733.083984> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 18-17-55:  [EOnSpawnZombies] Zombie Spawned [10] ZmbM_PatrolNormal_Summer @ <13490.874023, 8.811782, 18765.802734> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 18-18-13:  [EOnSpawnZombies] Zombie Spawned [11] ZmbM_FirefighterNormal @ <13547.251953, 8.063728, 18752.876953> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 18-18-31:  [EOnSpawnZombies] Zombie Spawned [12] ZmbM_HandymanNormal_White @ <13520.328125, 9.001394, 18765.382813> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 18-18-49:  [EOnSpawnZombies] Zombie Spawned [13] ZmbM_HermitSkinny_Black @ <13499.994141, 8.300355, 18727.722656> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 18-19-06:  [EOnBeforeDrop] The Aircraft is 1 Km from Vesna Village, from the South/West (223°). @ <12504.596680, 159.781189, 17663.515625>
+2023-02-23 @ 18-19-08:  [EOnSpawnZombies] Spawn failed for zombie [14] 'ZmbM_SurvivorDean_Black', does not exist in DayZ!
+2023-02-23 @ 18-19-25:  [EOnDrop] Drop spawned with 15 infected at <13481.377930, 149.418076, 18694.203125>.
+2023-02-23 @ 18-19-25:  [EOnDrop] Supplies have been dropped near Vesna Village.
+2023-02-23 @ 18-20-15:  [EOnBeforeDelete] Aircraft despawned @ <16117.094727, 276.262848, 21475.378906>
+2023-02-23 @ 18-20-15:  [~AirdropPlane] Aircraft destroyed.

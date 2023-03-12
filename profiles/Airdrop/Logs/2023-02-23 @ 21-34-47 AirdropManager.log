@@ -1,0 +1,13 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] Exporting 7 DropZone coordinates.
+[ExportDropZones] DropZone coordinates exported to VPP Map file.
+[AirdropBase] Base class created & settings loaded.
+[2023-02-23 @ 22-06-04] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Gringos Camping Resort <14726.000000, 0.000000, 10338.000000>
+[EOnCallAirdrop] Drop zone offset to: <14781.248047, 2438.000000, 10332.075195>
+[EOnCallAirdrop] Aircraft spawn point: <12238.564453, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -1.78676° / 192.374°, Text: 'South (192°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Gringos Camping Resort' (12238.6/-1000), from the South (192°).

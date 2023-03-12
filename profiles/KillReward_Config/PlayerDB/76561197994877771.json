@@ -1,0 +1,17 @@
+{
+    "PlayerID": "76561197994877771",
+    "PlayerName": "Barba_Imersivo",
+    "PlayerNotlisted": 0,
+    "KRPlayerPoints": 2610,
+    "PlayerDeaths": 0,
+    "Stats": [
+        {
+            "Name": "ZombieKill",
+            "Stat": 261
+        },
+        {
+            "Name": "longest_survivor_hit",
+            "Stat": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+2023-02-24 @ 00-11-46:  [AirdropPlane] Aircraft created on 2023-02-24 @ 00-11-46
+2023-02-24 @ 00-11-46:  [InitializeAircraft] Aircraft Initialized: Chernobyl Radio Station @ 14248/1612 (true)
+2023-02-24 @ 00-12-00:  [EOnSpawnZombies] Zombie Spawned [1] Animal_CanisLupus_Grey @ <14221.940430, 22.283642, 1574.549805> ... Lifespan:  Set to 30 minutes.
+2023-02-24 @ 00-12-14:  [EOnSpawnZombies] Zombie Spawned [2] Animal_CanisLupus_Grey @ <14248.214844, 23.823870, 1586.297852> ... Lifespan:  Set to 30 minutes.
+2023-02-24 @ 00-12-28:  [EOnSpawnZombies] Zombie Spawned [3] ZmbM_PatrolNormal_Autumn @ <14252.366211, 25.285690, 1606.903687> ... Lifespan:  Set to 30 minutes.
+2023-02-24 @ 00-12-42:  [EOnSpawnZombies] Zombie Spawned [4] ZmbM_CitizenBFat_Green @ <14259.312500, 23.931644, 1603.599487> ... Lifespan:  Set to 30 minutes.
+2023-02-24 @ 00-12-57:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_HandymanNormal_Grey @ <14240.188477, 22.143860, 1569.793579> ... Lifespan:  Set to 30 minutes.
+2023-02-24 @ 00-13-11:  [EOnSpawnZombies] Zombie Spawned [6] ZmbF_ShortSkirt_black @ <14256.713867, 19.753468, 1642.053223> ... Lifespan:  Set to 30 minutes.
+2023-02-24 @ 00-13-25:  [EOnSpawnZombies] Zombie Spawned [7] ZmbF_SurvivorNormal_Orange @ <14252.889648, 24.610359, 1618.381104> ... Lifespan:  Set to 30 minutes.
+2023-02-24 @ 00-13-39:  [EOnSpawnZombies] Zombie Spawned [8] ZmbF_ParamedicNormal_Blue @ <14217.166016, 23.422136, 1590.867432> ... Lifespan:  Set to 30 minutes.
+2023-02-24 @ 00-13-53:  [EOnSpawnZombies] Zombie Spawned [9] ZmbF_BlueCollarFat_Green @ <14243.776367, 25.272556, 1598.437012> ... Lifespan:  Set to 30 minutes.
+2023-02-24 @ 00-14-07:  [EOnSpawnZombies] Zombie Spawned [10] ZmbM_HikerSkinny_Blue @ <14255.840820, 24.989733, 1604.952515> ... Lifespan:  Set to 30 minutes.
+2023-02-24 @ 00-14-21:  [EOnSpawnZombies] Zombie Spawned [11] ZmbM_Jacket_bluechecks @ <14216.856445, 22.500114, 1637.178467> ... Lifespan:  Set to 30 minutes.
+2023-02-24 @ 00-14-35:  [EOnSpawnZombies] Zombie Spawned [12] ZmbM_SoldierNormal @ <14246.954102, 23.860970, 1629.914551> ... Lifespan:  Set to 30 minutes.
+2023-02-24 @ 00-14-49:  [EOnSpawnZombies] Zombie Spawned [13] ZmbM_ConstrWorkerNormal_Grey @ <14253.183594, 25.129261, 1609.991211> ... Lifespan:  Set to 30 minutes.
+2023-02-24 @ 00-14-58:  [EOnBeforeDrop] The Aircraft is 1 Km from Chernobyl Radio Station, from the North/East (026°). @ <14914.806641, 158.878296, 2954.644531>
+2023-02-24 @ 00-15-03:  [EOnSpawnZombies] Zombie Spawned [14] Animal_CanisLupus_White @ <14246.629883, 23.141836, 1581.147217> ... Lifespan:  Set to 30 minutes.
+2023-02-24 @ 00-15-16:  [EOnDrop] Drop spawned with 15 infected at <14293.590820, 154.724930, 1697.126221>.
+2023-02-24 @ 00-15-16:  [EOnDrop] Supplies have been dropped near Chernobyl Radio Station.
+2023-02-24 @ 00-15-55:  [EOnBeforeDelete] Aircraft despawned @ <12960.583008, 167.883698, -1001.205383>
+2023-02-24 @ 00-15-55:  [~AirdropPlane] Aircraft destroyed.

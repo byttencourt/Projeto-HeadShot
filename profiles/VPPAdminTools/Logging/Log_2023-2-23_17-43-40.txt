@@ -1,0 +1,184 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-2-23_17-43-40
+====================================================================================
+17:43:40 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+17:43:40 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+17:43:40 | [PermissionManager] Perm (FreeCamera) has been registered!
+17:43:40 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuItemManager) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuServerManager) has been registered!
+17:43:40 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+17:43:40 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+17:43:40 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+17:43:40 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+17:43:40 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+17:43:40 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+17:43:40 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+17:43:40 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+17:43:40 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+17:43:40 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+17:43:40 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+17:43:40 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+17:43:40 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+17:43:40 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+17:43:40 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+17:43:40 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+17:43:40 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+17:43:40 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+17:43:40 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+17:43:40 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+17:43:40 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+17:43:40 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+17:43:40 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+17:43:40 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+17:43:40 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+17:43:40 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+17:43:40 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+17:43:40 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+17:43:40 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+17:43:40 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+17:43:40 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+17:43:40 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+17:43:40 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuBansManager) has been registered!
+17:43:40 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+17:43:40 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+17:43:40 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+17:43:40 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+17:43:40 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+17:43:40 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+17:43:40 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+17:43:40 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+17:43:40 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+17:43:40 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+17:43:40 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+17:43:40 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+17:43:40 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+17:43:40 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+17:43:40 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+17:43:40 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+17:43:40 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+17:43:40 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+17:43:41 | [PermissionManager] Adding Super Admin (76561197994877771)
+17:43:41 | [PermissionManager] Loaded UserGroups.json
+17:43:41 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+17:43:41 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+17:43:41 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+17:43:41 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+17:43:41 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+17:43:41 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+17:43:41 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+17:43:41 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+17:43:41 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+17:43:41 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+17:43:41 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+17:43:41 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+17:43:41 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+17:43:41 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+17:43:41 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+17:43:41 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+17:43:41 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+17:43:41 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+17:43:41 | Building Sets Loaded: 1
+17:43:41 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+17:43:41 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+17:47:6 | Player "Barba_Imersivo" (steamId=76561197994877771) connected to server!
+17:47:24 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ZmbM_HermitSkinny_Beige)
+17:47:28 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ZmbM_HermitSkinny_Beige)
+17:47:32 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ZmbM_FarmerFat_Blue)
+17:47:38 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ZmbF_JournalistNormal_Blue)
+17:47:40 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ZmbM_HikerSkinny_Blue)
+17:47:44 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ZmbM_MotobikerFat_Beige)
+17:47:46 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ZmbM_SkaterYoung_Brown)
+17:47:49 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ZmbF_MechanicNormal_Beige)
+17:47:52 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ZmbM_OffshoreWorker_Green)
+17:48:3 | "Barba_Imersivo" (steamid=76561197994877771) healed player (steamid=76561197994877771)
+17:48:4 | "Barba_Imersivo" (steamid=76561197994877771) gave godmode to (steamid=76561197994877771)
+17:48:14 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ZmbM_Santa)
+17:48:19 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ZmbM_priestPopSkinny)
+17:48:28 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ZmbM_CommercialPilotOld_Grey)
+17:48:31 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ZmbM_FarmerFat_Beige)
+17:48:36 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_ClearNebo_ZMB)
+17:48:39 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_STOP_SPAWN_CRASH_GameZ)
+17:48:43 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_Plash_Zombie)
+17:48:47 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_WolfZmb_black)
+17:48:54 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_ArmyBoec_Oficer)
+17:48:59 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_ArmyBoec_Baril)
+17:49:4 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ZmbM_MotobikerFat_Beige" (pos=<18174.146484, 445.231171, 19948.443359>)
+17:49:5 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ZmbM_Santa" (pos=<18173.496094, 445.085175, 19949.039063>)
+17:49:8 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ZmbM_HermitSkinny_Beige" (pos=<18174.732422, 445.275970, 19948.535156>)
+17:49:9 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_ClearNebo_ZMB" (pos=<18174.982422, 445.210693, 19949.185547>)
+17:49:11 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ZmbM_FarmerFat_Blue" (pos=<18174.371094, 445.170135, 19949.044922>)
+17:49:12 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ZmbM_SkaterYoung_Brown" (pos=<18175.107422, 445.381805, 19948.025391>)
+17:49:13 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ZmbM_CommercialPilotOld_Grey" (pos=<18175.263672, 445.306976, 19948.664063>)
+17:49:15 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ZmbM_FarmerFat_Beige" (pos=<18175.179688, 445.392731, 19947.990234>)
+17:49:16 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ZmbM_HikerSkinny_Blue" (pos=<18176.166016, 445.467590, 19948.062500>)
+17:49:18 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ZmbM_OffshoreWorker_Green" (pos=<18175.869141, 445.351288, 19948.720703>)
+17:49:19 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ZmbF_JournalistNormal_Blue" (pos=<18176.175781, 445.401917, 19948.544922>)
+17:49:21 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_WolfZmb_black" (pos=<18178.710938, 445.307190, 19950.894531>)
+17:49:24 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ZmbM_priestPopSkinny" (pos=<18175.062500, 445.466522, 19947.382813>)
+17:49:25 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_STOP_SPAWN_CRASH_GameZ" (pos=<18175.822266, 445.628967, 19946.679688>)
+17:49:28 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_Plash_Zombie" (pos=<18174.644531, 445.491547, 19946.910156>)
+17:49:30 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_WolfZMB_HEAD" (pos=<18175.697266, 446.249908, 19943.392578>)
+17:49:31 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_WolfZMB_HVOST" (pos=<18175.699219, 446.124054, 19943.392578>)
+17:49:33 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_WolfZMB_HVOST" (pos=<18175.699219, 446.094238, 19943.390625>)
+17:49:37 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_ArmyBoec_Oficer" (pos=<18173.919922, 445.275787, 19947.958984>)
+17:49:44 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ZmbF_MechanicNormal_Beige" (pos=<18176.449219, 445.321442, 19949.332031>)
+17:49:48 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_ArmyBoec_Baril" (pos=<18177.242188, 445.272247, 19950.226563>)
+17:49:52 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_ArmyBoec_Bulat)
+17:49:55 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_DogZMB)
+17:50:35 | "Barba_Imersivo" (steamid=76561197994877771) gave unlimited ammo to (steamid=76561197994877771)
+17:50:47 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_ZombieType2)
+17:50:54 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_ZombieType2_noTkan)
+17:52:34 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_Kaban)
+17:54:39 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_Cat_Baun_Green)
+17:54:59 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_Cat_Baun_Light)
+17:55:4 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_Cat_Baun_black)
+17:56:4 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_Tark)
+17:57:41 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_Cvetok_standart)
+17:57:56 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_KrovoRedux_original)
+17:59:35 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_Mertvak)
+18:0:11 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_PseDOG)
+18:0:13 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_SlepDog_Zmb)
+18:0:16 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_PseDOG" (pos=<18195.310547, 448.274017, 19933.468750>)
+18:0:17 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_SlepDog_Zmb" (pos=<18194.156250, 448.602814, 19924.783203>)
+18:0:26 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (COT_Zombie)
+18:0:31 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Animal_UrsusArctos)
+18:0:34 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_HIMERA_COLORBASE)
+18:0:38 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_HIMERA_COLORBASE" (pos=<18197.417969, 448.490356, 19928.994141>)
+18:0:40 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "COT_Zombie" (pos=<18198.609375, 448.487213, 19931.365234>)
+18:0:41 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Animal_UrsusArctos" (pos=<18197.246094, 448.494476, 19930.248047>)
+18:0:44 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_HIMERA_COLORBASE)
+18:0:51 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_HIMERA_COLORBASE" (pos=<18195.099609, 447.999847, 19937.429688>)
+18:0:56 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_TARK_BIG)
+18:1:40 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_TARK_BIG" (pos=<18244.310547, 450.529358, 19950.904297>)
+18:2:22 | "Barba_Imersivo" (steamid=76561197994877771) gave godmode to (steamid=76561197994877771)
+18:2:50 | "76561197994877771" (steamid=76561197994877771) teleported to (pos=<8771.769531, 13.300000, 2937.689941>)
+18:2:50 | "Barba_Imersivo": (steamid=76561197994877771) teleported to (pos=8771.77,0,2937.69)
+18:22:20 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "BBP_Mesh_Fence_Kit" (pos=<8761.163086, 13.773385, 3019.654541>)
+18:22:22 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "BBP_Admin_Hammer" (pos=<8761.163086, 13.780851, 3019.654541>)
+18:22:23 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ExpansionAdminHammer" (pos=<8761.163086, 13.769842, 3019.654541>)
+18:38:7 | Player "Barba_Imersivo" (steamId=76561197994877771) initiated disconnect process...
+19:0:55 | Player "Barba_Imersivo" (steamId=76561197994877771) connected to server!
+19:6:8 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FAL)
+19:21:54 | Player "Barba_Imersivo" (steamId=76561197994877771) initiated disconnect process...
+19:21:55 | Player "Barba_Imersivo" (steamId=76561197994877771) initiated disconnect process...

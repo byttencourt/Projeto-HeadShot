@@ -1,0 +1,65 @@
+{
+    "Version": "2.5",
+    "IsHideOutActive": 0,
+    "EnableAfkDisconnect": 0,
+    "KickAfterDelay": 30,
+    "MsgEnterZone": "Você entrou na SafeZone!",
+    "MsgExitZone": "Você saiu na SafeZone!",
+    "MsgOnLeavingZone": "Você sairá da SafeZone em: ",
+    "MustRemoveArmband": "You must remove your armband in order to make your stash appear !",
+    "SafeAreaLocation": [
+        {
+            "SafeZoneStatut": "Trader Chernobyl",
+            "X": 15114.0,
+            "Y": 3178.0,
+            "Radius": 150.0,
+            "Countdown": 30
+        },
+        {
+            "SafeZoneStatut": "Trader Sidorovich",
+            "X": 8750.49,
+            "Y": 3000.84,
+            "Radius": 100.0,
+            "Countdown": 30
+        },
+        {
+            "SafeZoneStatut": "Trader Airfield Dragunov",
+            "X": 16460.0,
+            "Y": 11635.0,
+            "Radius": 150.0,
+            "Countdown": 30
+        },
+        {
+            "SafeZoneStatut": "Trader luhovyky",
+            "X": 2216.24,
+            "Y": 14525.2,
+            "Radius": 150.0,
+            "Countdown": 30
+        },
+        {
+            "SafeZoneStatut": "Trader Dytyatky",
+            "X": 7719.21,
+            "Y": 9999.57,
+            "Radius": 100.0,
+            "Countdown": 30
+        }
+                
+    ],
+    "CleanUpTimer": 1200,
+    "WhitelistEntities": [],
+    "ObjectsToDelete": [
+        "Paper"
+    ],
+    "SZSteamUIDs": [
+        "76561198047475641"
+    ],
+    "BlackListedItemInStash": [
+        "Apple",
+        "Plum",
+        "Plier"
+    ]
+}
+
+
+                
+                

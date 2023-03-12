@@ -1,0 +1,179 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-2-15_17-2-21
+====================================================================================
+17:2:21 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+17:2:21 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+17:2:21 | [PermissionManager] Perm (FreeCamera) has been registered!
+17:2:21 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuItemManager) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuServerManager) has been registered!
+17:2:21 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+17:2:21 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+17:2:21 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+17:2:21 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+17:2:21 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+17:2:21 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+17:2:21 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+17:2:21 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+17:2:21 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+17:2:21 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+17:2:21 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+17:2:21 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+17:2:21 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+17:2:21 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+17:2:21 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+17:2:21 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+17:2:21 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+17:2:21 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+17:2:21 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+17:2:21 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+17:2:21 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+17:2:21 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+17:2:21 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+17:2:21 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+17:2:21 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+17:2:21 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+17:2:21 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+17:2:21 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+17:2:21 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+17:2:21 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+17:2:21 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+17:2:21 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+17:2:21 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuBansManager) has been registered!
+17:2:21 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+17:2:21 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+17:2:21 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+17:2:21 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+17:2:21 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+17:2:21 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+17:2:21 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+17:2:21 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+17:2:21 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+17:2:21 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+17:2:21 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+17:2:21 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+17:2:21 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+17:2:21 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+17:2:21 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+17:2:21 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+17:2:21 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+17:2:21 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+17:2:21 | [PermissionManager] Adding Super Admin (76561197994877771)
+17:2:21 | [PermissionManager] Loaded UserGroups.json
+17:2:21 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+17:2:21 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+17:2:21 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+17:2:21 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+17:2:21 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+17:2:21 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+17:2:21 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+17:2:21 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+17:2:21 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+17:2:21 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+17:2:21 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+17:2:21 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+17:2:21 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+17:2:21 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+17:2:21 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+17:2:21 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+17:2:21 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+17:2:21 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+17:2:21 | Building Sets Loaded: 0
+17:2:21 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+17:2:21 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+17:3:38 | Player "Barba_Imersivo" (steamId=76561197994877771) connected to server!
+17:4:4 | "Barba_Imersivo" (steamid=76561197994877771) executed kill command on: "76561197994877771"
+17:35:2 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (GasMask)
+17:35:19 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_GAS_balon)
+17:36:17 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_GasFilter)
+17:36:22 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (MVS_GasMaskBase)
+17:38:54 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (GasMask)
+17:39:5 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (GasMask_Filter)
+17:41:27 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_DETECTOR_1)
+17:42:37 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (GeigerCounter)
+17:42:43 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_Geiger_Pripat)
+17:42:46 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Geigercounter_Osa)
+17:42:48 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Geigercounter_Sova)
+17:42:49 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Geigercounter_Opal)
+17:44:6 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Battery9V)
+17:44:48 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "GeigerCounter" (pos=<11812.345703, 13.297260, 5156.791992>)
+17:44:52 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_DETECTOR_1" (pos=<11811.930664, 13.295405, 5156.909668>)
+17:44:53 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_Geiger_Pripat" (pos=<11811.930664, 13.230189, 5156.909668>)
+17:45:12 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Geigercounter_Sova" (pos=<11811.930664, 13.220446, 5156.909668>)
+17:45:15 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Geigercounter_Opal" (pos=<11811.930664, 13.220446, 5156.909668>)
+17:45:20 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "GasMask" (pos=<11813.943359, 13.132233, 5158.119629>)
+17:45:26 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "FS_GAS_balon" (pos=<11819.344727, 13.204121, 5159.507324>)
+17:45:28 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "GasMask" (pos=<11819.344727, 13.132233, 5159.507324>)
+17:46:25 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16762.292969, 25.945595, 11636.639648>)
+17:46:26 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16734.693359, 25.945591, 11636.033203>)
+17:46:27 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16642.541016, 25.945583, 11637.541992>)
+17:46:27 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16556.351563, 25.938782, 11640.199219>)
+17:46:28 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16499.871094, 25.945576, 11642.471680>)
+17:46:30 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16461.042969, 25.824877, 11653.177734>)
+17:46:41 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16398.312500, 25.878527, 11653.520508>)
+17:46:42 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16371.949219, 25.915236, 11647.883789>)
+17:46:43 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16345.683594, 25.945593, 11642.269531>)
+17:46:44 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16318.942383, 25.945591, 11636.547852>)
+17:46:44 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16292.920898, 25.945597, 11630.934570>)
+17:46:45 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16268.226563, 25.945597, 11625.542969>)
+17:46:46 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16248.343750, 25.945597, 11622.102539>)
+17:46:46 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16228.504883, 25.945595, 11618.420898>)
+17:46:47 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16207.430664, 25.945585, 11614.275391>)
+17:46:47 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16186.356445, 25.945574, 11610.129883>)
+17:46:47 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16165.282227, 25.945583, 11605.984375>)
+17:46:47 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16144.208008, 25.945583, 11601.838867>)
+17:46:48 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16123.133789, 25.945587, 11597.693359>)
+17:46:49 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16102.074219, 25.945587, 11593.476563>)
+17:46:50 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16081.462891, 25.945591, 11589.320313>)
+17:46:50 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16060.851563, 25.945599, 11585.164063>)
+17:46:51 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16040.240234, 25.945591, 11581.007813>)
+17:46:51 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<16004.765625, 25.945606, 11576.818359>)
+17:46:51 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15965.828125, 25.945599, 11573.565430>)
+17:46:51 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15933.481445, 25.945583, 11570.907227>)
+17:46:52 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15908.508789, 25.945587, 11568.309570>)
+17:46:53 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15887.399414, 25.945589, 11564.350586>)
+17:46:53 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15873.619141, 25.945595, 11560.282227>)
+17:46:54 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15862.218750, 25.945580, 11553.942383>)
+17:46:54 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15850.976563, 25.945593, 11547.327148>)
+17:46:55 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15839.741211, 25.945587, 11540.698242>)
+17:46:55 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15828.505859, 25.945597, 11534.071289>)
+17:46:55 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15817.270508, 25.945604, 11527.443359>)
+17:46:55 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15806.035156, 25.945610, 11520.815430>)
+17:46:56 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15794.799805, 25.945591, 11514.186523>)
+17:46:56 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15780.072266, 25.945566, 11505.453125>)
+17:46:56 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15766.119141, 26.164268, 11497.039063>)
+17:46:56 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15751.280273, 26.287807, 11488.069336>)
+17:46:57 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15753.355469, 26.682882, 11470.934570>)
+17:46:59 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15776.016602, 27.753731, 11447.222656>)
+17:47:2 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15780.157227, 28.385853, 11421.482422>)
+17:47:4 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15771.343750, 29.154898, 11394.423828>)
+17:47:5 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15767.293945, 29.884939, 11375.207031>)
+17:47:5 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15767.039063, 31.533836, 11376.901367>)
+17:47:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15770.037109, 29.719782, 11361.353516>)
+17:47:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15775.108398, 30.086224, 11346.264648>)
+17:47:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15780.578125, 30.426208, 11327.767578>)
+17:47:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<15785.952148, 30.662457, 11309.138672>)
+17:52:53 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (FS_Geiger_Pripat)
+17:52:55 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (GeigerCounter)
+17:55:49 | Player "Barba_Imersivo" (steamId=76561197994877771) initiated disconnect process...
+17:55:49 | Player "Barba_Imersivo" (steamId=76561197994877771) initiated disconnect process...

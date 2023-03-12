@@ -1,0 +1,13 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] Exporting 7 DropZone coordinates.
+[ExportDropZones] DropZone coordinates exported to VPP Map file.
+[AirdropBase] Base class created & settings loaded.
+[2023-02-24 @ 03-42-06] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Nuclear Power Plant <7515.000000, 0.000000, 15227.000000>
+[EOnCallAirdrop] Drop zone offset to: <7530.871582, 2438.000000, 15137.032227>
+[EOnCallAirdrop] Aircraft spawn point: <77.549622, 2438.000000, 21474.900391>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.4429° / 310.032°, Text: 'North/West (310°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Nuclear Power Plant' (77.5496/21474.9), from the North/West (310°).

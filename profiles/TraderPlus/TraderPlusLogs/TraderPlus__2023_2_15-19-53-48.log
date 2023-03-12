@@ -1,0 +1,41 @@
+Creation Time: 2023_2_15-19-53-48
+19-53-48 | [INFO] TraderPlusCore - Started !
+19-53-48 | [INFO] TraderPlus file exist ! loading...
+19-53-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+19-53-48 | [INFO] TraderPlus file exist ! loading...
+19-53-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+19-53-48 | [INFO] TraderPlus file exist ! loading...
+19-53-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+19-53-48 | [INFO] TraderPlusServer - Started
+19-53-48 | [INFO] TraderPlusBankingCore - Started !
+19-53-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.json
+19-53-48 | [INFO] TraderPlusBankingServer - Started
+19-53-48 | [INFO] CarLockCore - Started !
+19-53-48 | [INFO] CarLockServer - Started
+19-53-52 | [INFO] SafeZoneCore - Started !
+19-53-52 | [INFO] DEBUG MODE ENABLED
+19-54-20 | [INFO] ID_count: 0
+19-54-20 | [INFO] SetTradersSpawner: Started
+19-54-20 | [INFO] obj created: TraderPlusSign
+19-54-20 | [INFO] TraderStatic created and added!: 
+19-54-20 | [INFO] obj created: TraderPlusSign
+19-54-20 | [INFO] TraderStatic created and added!: 
+19-54-20 | [INFO] obj created: TraderPlusSign
+19-54-20 | [INFO] TraderStatic created and added!: 
+19-54-20 | [INFO] obj created: TraderPlusSign
+19-54-20 | [INFO] TraderStatic created and added!: 
+19-54-20 | [INFO] obj created: TraderPlusSign
+19-54-20 | [INFO] TraderStatic created and added!: 
+19-54-20 | [INFO] SetTradersSpawner: Ended
+19-54-20 | [INFO] SetObjectSpawner: Started
+19-54-20 | [INFO] SetObjectSpawner: Ended
+19-54-20 | [INFO] DefaultTraderStock - Started
+19-59-27 | [INFO] DetachHideOutObjectFromPlayer
+20-13-42 | [INFO] DetachHideOutObjectFromPlayer
+20-17-9 | [INFO] DetachHideOutObjectFromPlayer
+20-20-32 | [INFO] DetachHideOutObjectFromPlayer
+20-26-58 | [INFO] DetachHideOutObjectFromPlayer
+20-28-55 | [INFO] DetachHideOutObjectFromPlayer
+20-31-36 | [INFO] DetachHideOutObjectFromPlayer
+20-33-13 | [INFO] DetachHideOutObjectFromPlayer
+20-35-57 | [INFO] DetachHideOutObjectFromPlayer

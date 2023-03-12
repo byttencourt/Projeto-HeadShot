@@ -1,0 +1,29 @@
+2023-02-23 @ 01-49-24:  [InitializeContainer] Winds: Vector <7.421906, 0.000000, -5.423266>, Speed 9.1922mps, Strength 0.1
+2023-02-23 @ 01-49-24:  [InitializeContainer] Parachute created on @ <7219.402832, 154.056152, 1042.739014>
+2023-02-23 @ 01-49-59:  [AirdropContainerFall] Airdrop Container Touchdown @ <7219.651855, 14.855965, 1042.811523>
+2023-02-23 @ 01-49-59:  [ADU_RemoveParachute] Parachute removed.
+2023-02-23 @ 01-49-59:  [ADU_RepositionContainer] Container repositioned.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Drop Type 'Food/Medical', Container: 'AirdropContainer_Medical', Mode/Quantity/Iems: Random/20/11, Flare:  10%
+2023-02-23 @ 01-49-59:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [1] VitaminBottle @ <7217.450195, 12.090001, 1043.344482> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [2] TacticalBaconCan @ <7221.050293, 12.090001, 1043.213013> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [3] SpaghettiCan @ <7220.990723, 12.090001, 1040.687622> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [4] SpaghettiCan @ <7220.872559, 12.090001, 1040.812378> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [5] VitaminBottle @ <7220.995117, 12.090001, 1042.475220> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [6] TunaCan @ <7221.369629, 12.090001, 1044.009521> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [7] BakedBeansCan @ <7219.716309, 12.090001, 1045.448975> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [8] PowderedMilk @ <7221.400879, 12.090001, 1042.070435> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [9] Canteen @ <7221.460449, 12.090001, 1041.182129> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [10] VitaminBottle @ <7222.376953, 12.090001, 1043.578613> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [11] SpaghettiCan @ <7220.770020, 12.090001, 1043.726563> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [12] Pot @ <7221.118164, 12.090001, 1043.530396> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [13] PowderedMilk @ <7219.299805, 12.090001, 1043.891602> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [14] PowderedMilk @ <7218.461426, 12.090001, 1043.109863> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [15] BakedBeansCan @ <7221.261719, 12.090001, 1044.396484> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [16] TunaCan @ <7220.116211, 12.090001, 1045.008911> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [17] VitaminBottle @ <7218.212402, 12.090001, 1041.603516> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [18] PowderedMilk @ <7218.669434, 12.090001, 1040.057861> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [19] PowderedMilk @ <7218.991699, 12.090001, 1041.655762> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  [ADU_SpawnItems] Loot Spawned [20] SpaghettiCan @ <7218.708008, 12.090001, 1041.890137> ... Lifespan:  Set to 60 minutes.
+2023-02-23 @ 01-49-59:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-23 @ 01-49-59:  [EOnSimulate] Airdrop Container deactivated.

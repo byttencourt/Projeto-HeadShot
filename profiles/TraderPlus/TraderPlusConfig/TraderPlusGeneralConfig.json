@@ -1,0 +1,567 @@
+{
+    "Version": "2.5",
+    "ConvertTraderConfigToTraderPlus": 0,
+    "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
+    "UseGarageToTradeCar": 1,
+    "DisableHeightFailSafeForReceiptDeployment": 0,
+    "HideInsuranceBtn": 0,
+    "HideGarageBtn": 0,
+    "HideLicenceBtn": 0,
+    "EnableShowAllPrices": 1,
+    "EnableShowAllCheckBox": 1,
+    "IsReceiptTraderOnly": 1,
+    "IsReceiptSaveLock": 0,
+    "IsReceiptSaveAttachment": 0,
+    "IsReceiptSaveCargo": 0,
+    "LockPickChance": 0.30000001192092898,
+    "LicenceKeyWord": "Licence",
+    "Licences": [
+        "Car Licence",
+        "Admin Licence"
+    ],
+    "AcceptedStates": {
+        "AcceptWorn": 1,
+        "AcceptDamaged": 1,
+        "AcceptBadlyDamaged": 1,
+        "CoefficientWorn": 0.75,
+        "CoefficientDamaged": 0.5,
+        "CoefficientBadlyDamaged": 0.25
+    },
+    "StoreOnlyToPristineState": 0,
+    "Currencies": [
+        {
+            "ClassName": "TraderPlus_Money_Ruble500",
+            "Value": 500
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble100",
+            "Value": 100
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble50",
+            "Value": 50
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble10",
+            "Value": 10
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble5",
+            "Value": 5
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble2_Coin",
+            "Value": 2
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble1_Coin",
+            "Value": 1
+        }
+    ],
+    "Traders": [
+        {
+            "Id": 0,
+            "Name": "SurvivorF_Irena",
+            "GivenName": "Irenas Foods chernobyl",
+            "Role": "Food Trader",
+            "Position": [
+                15120.1,
+                7.05,
+                3190.04
+            ],
+            "Orientation": [
+                -153,
+                0.0,
+                -0.0
+            ],
+            "Clothes": [
+                "BoxCerealCrunchin",
+                "SurgicalGloves_White",
+                "Bandana_Polkapattern",
+                "MiniDress_PinkChecker",
+                "DressShoes_White"
+            ]
+        },
+        {
+            "Id": 1,
+            "Name": "SurvivorM_Seth",
+            "GivenName": "Seths Weapons Chernobyl",
+            "Role": "Weapon Trader",
+            "Position": [
+                15122.5,
+                7.17,
+                3180.72
+            ],
+            "Orientation": [
+                -108,
+                0.0,
+                -0.0
+            ],
+            "Clothes": [
+                "FirefighterAxe",
+                "SVD",
+                "PSO1Optic",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "M68Optic",
+                "M4_Suppressor",
+                "OMNOGloves_Gray",
+                "MilitaryBeret_CDF",
+                "PlateCarrierVest",
+                "TTsKOJacket_Camo",
+                "TTSKOPants",
+                "MilitaryBoots_Black",
+                "AliceBag_Camo"
+            ]
+        },
+        {
+            "Id": 2,
+            "Name": "SurvivorF_Keiko",
+            "GivenName": "Keikos Tools Chernobyl",
+            "Role": "Tool Trader",
+            "Position": [
+                15107.6,
+                7.16,
+                3186.65
+            ],
+            "Orientation": [
+                162,
+                0.0,
+                -0.0
+            ],
+            "Clothes": [
+                "Wrench",
+                "SledgeHammer",
+                "WorkingGloves_Brown",
+                "ConstructionHelmet_White",
+                "Shirt_BlueCheck",
+                "CanvasPants_Blue",
+                "WorkingBoots_Grey"
+            ]
+        },
+        {
+            "Id": 3,
+            "Name": "SurvivorF_Frida",
+            "GivenName": "Fridas Clothing chernobyl",
+            "Role": "Clothes Trader",
+            "Position": [
+                15126.5380859375,
+                7.173332500457764,
+                3166.7646484375
+            ],
+            "Orientation": [
+                -63.00100708007813,
+                0.0,
+                -0.0
+            ],
+            "Clothes": [
+                "ThickFramesGlasses",
+                "WomanSuit_Black",
+                "SlacksPants_Black",
+                "DressShoes_Black"
+            ]
+        },
+        {
+            "Id": 4,
+            "Name": "SurvivorM_Peter",
+            "GivenName": "Petes Cars Cherno",
+            "Role": "Car Trader",
+            "Position": [
+                15139.1,
+                6.69,
+                3205.41
+            ],
+            "Orientation": [
+                -129,
+                0.0,
+                -0.0
+            ],
+            "Clothes": [
+                "LugWrench",
+                "WorkingGloves_Black",
+                "ReflexVest",
+                "JumpsuitJacket_Blue",
+                "JumpsuitPants_Blue",
+                "HikingBootsLow_Blue"
+            ]
+        },
+        {
+            "Id": -2,
+            "Name": "TraderPlus_BANK_ATM",
+            "GivenName": "ChaChing",
+            "Role": "ATM",
+            "Position": [
+                16451.599609375,
+                35.012901306152347,
+                11642.0
+            ],
+            "Orientation": [
+                -30.51740264892578,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 0,
+            "Name": "SurvivorF_Irena",
+            "GivenName": "Irenas Foods sido",
+            "Role": "Food Trader",
+            "Position": [
+                8762.2333984375,
+                13.965367317199707,
+                3018.052734375
+            ],
+            "Orientation": [
+                -62.951751708984378,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "BoxCerealCrunchin",
+                "SurgicalGloves_White",
+                "Bandana_Polkapattern",
+                "MiniDress_PinkChecker",
+                "DressShoes_White"
+            ]
+        },
+        {
+            "Id": 1,
+            "Name": "SurvivorM_Seth",
+            "GivenName": "Seths Weapons sido",
+            "Role": "Weapon Trader",
+            "Position": [
+                8761.3896484375,
+                13.971199989318848,
+                3016.530029296875
+            ],
+            "Orientation": [
+                -63.33189392089844,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "FirefighterAxe",
+                "SVD",
+                "PSO1Optic",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "M68Optic",
+                "M4_Suppressor",
+                "OMNOGloves_Gray",
+                "MilitaryBeret_CDF",
+                "PlateCarrierVest",
+                "TTsKOJacket_Camo",
+                "TTSKOPants",
+                "MilitaryBoots_Black",
+                "AliceBag_Camo"
+            ]
+        },
+        {
+            "Id": 2,
+            "Name": "SurvivorF_Keiko",
+            "GivenName": "Keikos Tools sido",
+            "Role": "Tool Trader",
+            "Position": [
+                8760.66796875,
+                13.961956024169922,
+                3015.126953125
+            ],
+            "Orientation": [
+                -63.206329345703128,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "Wrench",
+                "SledgeHammer",
+                "WorkingGloves_Brown",
+                "ConstructionHelmet_White",
+                "Shirt_BlueCheck",
+                "CanvasPants_Blue",
+                "WorkingBoots_Grey"
+            ]
+        },
+        {
+            "Id": 3,
+            "Name": "SurvivorF_Frida",
+            "GivenName": "Fridas Clothing sido",
+            "Role": "Clothes Trader",
+            "Position": [
+                8759.951171875,
+                13.966341972351075,
+                3013.741455078125
+            ],
+            "Orientation": [
+                -63.79314422607422,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "ThickFramesGlasses",
+                "WomanSuit_Black",
+                "SlacksPants_Black",
+                "DressShoes_Black"
+            ]
+        },
+        {
+            "Id": 4,
+            "Name": "SurvivorM_Peter",
+            "GivenName": "Petes Cars sido",
+            "Role": "Car Trader",
+            "Position": [
+                8769.669921875,
+                13.092000007629395,
+                2923.389892578125
+            ],
+            "Orientation": [
+                -43.4595947265625,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "LugWrench",
+                "WorkingGloves_Black",
+                "ReflexVest",
+                "JumpsuitJacket_Blue",
+                "JumpsuitPants_Blue",
+                "HikingBootsLow_Blue"
+            ]
+        },
+        {
+            "Id": 4,
+            "Name": "SurvivorM_Peter",
+            "GivenName": "Petes Cars Luhovyky",
+            "Role": "Car Trader",
+            "Position": [
+                2260.45,
+                15.1601,
+                14523.3
+            ],
+            "Orientation": [
+                -25.5,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "LugWrench",
+                "WorkingGloves_Black",
+                "ReflexVest",
+                "JumpsuitJacket_Blue",
+                "JumpsuitPants_Blue",
+                "HikingBootsLow_Blue"
+            ]
+        },
+        {
+            "Id": 0,
+            "Name": "SurvivorF_Irena",
+            "GivenName": "Irenas Foods luho",
+            "Role": "Food Trader",
+            "Position": [
+                2231.67,
+                15.75,
+                14521.4
+            ],
+            "Orientation": [
+                -58.1,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "BoxCerealCrunchin",
+                "SurgicalGloves_White",
+                "Bandana_Polkapattern",
+                "MiniDress_PinkChecker",
+                "DressShoes_White"
+            ]
+        },
+        {
+            "Id": 1,
+            "Name": "SurvivorM_Seth",
+            "GivenName": "Seths Weapons",
+            "Role": "Weapon Trader",
+            "Position": [
+                2223.91,
+                15.75,
+                14516.6
+            ],
+            "Orientation": [
+                -24.6,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "FirefighterAxe",
+                "SVD",
+                "PSO1Optic",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "M68Optic",
+                "M4_Suppressor",
+                "OMNOGloves_Gray",
+                "MilitaryBeret_CDF",
+                "PlateCarrierVest",
+                "TTsKOJacket_Camo",
+                "TTSKOPants",
+                "MilitaryBoots_Black",
+                "AliceBag_Camo"
+            ]
+        },
+        {
+            "Id": 2,
+            "Name": "SurvivorF_Keiko",
+            "GivenName": "Keikos Tools luho",
+            "Role": "Tool Trader",
+            "Position": [
+                2225.09,
+                15.55,
+                14534.6
+            ],
+            "Orientation": [
+                -153.1,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "Wrench",
+                "SledgeHammer",
+                "WorkingGloves_Brown",
+                "ConstructionHelmet_White",
+                "Shirt_BlueCheck",
+                "CanvasPants_Blue",
+                "WorkingBoots_Grey"
+            ]
+        },
+        {
+            "Id": 3,
+            "Name": "SurvivorF_Frida",
+            "GivenName": "Fridas Clothing sido",
+            "Role": "Clothes Trader",
+            "Position": [
+                2211.05,
+                15.75,
+                14511.9
+            ],
+            "Orientation": [
+                -20.4,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "ThickFramesGlasses",
+                "WomanSuit_Black",
+                "SlacksPants_Black",
+                "DressShoes_Black"
+            ]
+        },
+        {
+            "Id": -2,
+            "Name": "TraderPlus_BANK_ATM",
+            "GivenName": "Chernobyl",
+            "Role": "ATM",
+            "Position": [
+                15116.4,
+                7.06245,
+                3162.34
+            ],
+            "Orientation": [
+                72.00,
+                -0.0,
+                -0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": -2,
+            "Name": "TraderPlus_BANK_ATM",
+            "GivenName": "CAR Chernobyl",
+            "Role": "ATM",
+            "Position": [
+                15125.1,
+                6.55,
+                3194.17
+            ],
+            "Orientation": [
+                71.99,
+                -0.0,
+                -0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": -2,
+            "Name": "TraderPlus_BANK_ATM",
+            "GivenName": "ChaChing",
+            "Role": "ATM",
+            "Position": [
+                8740.6875,
+                7.988218307495117,
+                3020.116455078125
+            ],
+            "Orientation": [
+                89.99995422363281,
+                -0.0,
+                -0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": -2,
+            "Name": "TraderPlus_BANK_ATM",
+            "GivenName": "ChaChing",
+            "Role": "ATM",
+            "Position": [
+                8765.6865234375,
+                13.102198600769043,
+                2926.16845703125
+            ],
+            "Orientation": [
+                80.99996948242188,
+                -0.0,
+                -0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": -2,
+            "Name": "TraderPlus_BANK_ATM",
+            "GivenName": "ChaChing luvo",
+            "Role": "ATM",
+            "Position": [
+                2205.12,
+                15.4288,
+                14519.3
+            ],
+            "Orientation": [
+                153.0,
+                -0.0,
+                -0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": -2,
+            "Name": "TraderPlus_BANK_ATM",
+            "GivenName": "ChaChing dyty",
+            "Role": "ATM",
+            "Position": [
+                7698.79,
+                19.30,
+                9983.23
+            ],
+            "Orientation": [
+                75,
+                -0.0,
+                -0.0
+            ],
+            "Clothes": []
+        }
+    ],
+    "TraderObjects": []
+}

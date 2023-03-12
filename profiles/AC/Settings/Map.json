@@ -1,0 +1,82 @@
+{
+    "m_Enable": 0,
+    "m_PlayerMarker": 1,
+    "m_Player3DMarkers": 1,
+    "m_PlayerPosition": 1,
+    "m_RequiredMapItem": 0,
+    "m_ServerMarkers": [
+        {
+            "m_Name": "Altar",
+            "m_Icon": "location",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 0,
+                "m_G": 255,
+                "m_B": 0
+            },
+            "m_Position": {
+                "m_X": 8244.0,
+                "m_Y": 469.0,
+                "m_Z": 9025.0
+            },
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        },
+        {
+            "m_Name": "Klen",
+            "m_Icon": "location",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 0,
+                "m_G": 255,
+                "m_B": 0
+            },
+            "m_Position": {
+                "m_X": 11477.0,
+                "m_Y": 363.0,
+                "m_Z": 11333.0
+            },
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        },
+        {
+            "m_Name": "Pavlovo Military",
+            "m_Icon": "location",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 255,
+                "m_G": 0,
+                "m_B": 0
+            },
+            "m_Position": {
+                "m_X": 2165.0,
+                "m_Y": 302.0,
+                "m_Z": 3358.0
+            },
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        }
+    ],
+    "m_ServerZones": [
+        {
+            "m_Name": "Green Mountain",
+            "m_Icon": "shopping",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 0,
+                "m_G": 255,
+                "m_B": 0
+            },
+            "m_Positions": [
+                {
+                    "m_X": 3715.0,
+                    "m_Y": 600.0,
+                    "m_Z": 5985.0,
+                    "m_R": 300.0
+                }
+            ],
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        }
+    ]
+}

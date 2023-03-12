@@ -1,0 +1,289 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-2-19_5-48-7
+====================================================================================
+5:48:7 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+5:48:7 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+5:48:7 | [PermissionManager] Perm (FreeCamera) has been registered!
+5:48:7 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuItemManager) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuServerManager) has been registered!
+5:48:7 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+5:48:7 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+5:48:7 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+5:48:7 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+5:48:7 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+5:48:7 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+5:48:7 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+5:48:7 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+5:48:7 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+5:48:7 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+5:48:7 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+5:48:7 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+5:48:7 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+5:48:7 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+5:48:7 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+5:48:7 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+5:48:7 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+5:48:7 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+5:48:7 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+5:48:7 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+5:48:7 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+5:48:7 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+5:48:7 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+5:48:7 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+5:48:7 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+5:48:7 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+5:48:7 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+5:48:7 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+5:48:7 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+5:48:7 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+5:48:7 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+5:48:7 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+5:48:7 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuBansManager) has been registered!
+5:48:7 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+5:48:7 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+5:48:7 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+5:48:7 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+5:48:7 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+5:48:7 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+5:48:7 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+5:48:7 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+5:48:7 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+5:48:7 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+5:48:7 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+5:48:7 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+5:48:7 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+5:48:7 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+5:48:7 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+5:48:7 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+5:48:7 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+5:48:7 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+5:48:7 | [PermissionManager] Adding Super Admin (76561197994877771)
+5:48:7 | [PermissionManager] Loaded UserGroups.json
+5:48:7 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+5:48:7 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+5:48:7 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+5:48:7 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+5:48:7 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+5:48:7 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+5:48:7 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+5:48:7 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+5:48:7 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+5:48:7 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+5:48:7 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+5:48:7 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+5:48:7 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+5:48:7 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+5:48:7 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+5:48:7 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+5:48:7 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+5:48:7 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+5:48:7 | Building Sets Loaded: 1
+5:48:7 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+5:48:7 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+5:49:15 | Player "Barba_Imersivo" (steamId=76561197994877771) connected to server!
+5:51:26 | "76561197994877771" (steamid=76561197994877771) teleported to (pos=<16425.800781, 25.945591, 11616.000000>)
+5:51:26 | "Barba_Imersivo": (steamid=76561197994877771) teleported to (pos=16425.8,0,11616)
+5:55:17 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+5:55:19 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+5:55:20 | "Barba_Imersivo" (steamid=76561197994877771) toggled godmode
+5:57:32 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<17788.830078, 282.901733, 12681.205078>)
+5:57:40 | "Barba_Imersivo" (steamid=76561197994877771) toggled godmode
+6:0:5 | "Barba_Imersivo" (steamid=76561197994877771) toggled godmode
+6:2:16 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<18552.763672, 226.990005, 16048.822266>)
+6:2:25 | "Barba_Imersivo" (steamid=76561197994877771) toggled godmode
+6:3:44 | "Barba_Imersivo" (steamid=76561197994877771) toggled godmode
+6:4:21 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<17536.296875, 19.646580, 18587.244141>)
+6:4:33 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<17460.906250, 14.492403, 18616.728516>)
+6:4:35 | "Barba_Imersivo" (steamid=76561197994877771) toggled godmode
+6:5:23 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+6:6:6 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<13686.345703, 7.740917, 18416.664063>)
+6:10:16 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<11200.329102, 2.843280, 13896.004883>)
+6:10:20 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+6:11:2 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<11214.580078, 2.609807, 13819.985352>)
+6:11:4 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<11193.522461, 1.117586, 13780.336914>)
+6:13:12 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<11225.060547, 2.482129, 13829.321289>)
+6:13:56 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<11333.715820, 1.621435, 14064.515625>)
+6:14:0 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<11395.337891, 1.428390, 14095.888672>)
+6:18:28 | "76561197994877771" (steamid=76561197994877771) teleported to (pos=<8776.410156, 13.300000, 2936.959961>)
+6:18:28 | "Barba_Imersivo": (steamid=76561197994877771) teleported to (pos=8776.41,0,2936.96)
+6:20:17 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Velociraptor6x6_kamo2)
+6:20:21 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Velociraptor6x6_kamo2)
+6:20:39 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Gelenvagen_white_camo1)
+6:20:56 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (HAMMER_H1)
+6:21:12 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Fennek)
+6:21:20 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (GAZ66bort)
+6:21:31 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Gaz71)
+6:21:40 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (GazTigr)
+6:22:5 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (HEMTT)
+6:22:18 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "HEMTT_Wheel" (pos=<8814.849609, 13.723528, 2947.586670>)
+6:22:20 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "HEMTT" (pos=<8815.911133, 13.160968, 2947.606201>)
+6:22:23 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "GazTigr" (pos=<8809.575195, 13.034218, 2946.547852>)
+6:22:25 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Gaz71" (pos=<8807.601563, 13.057797, 2939.416016>)
+6:22:27 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "GAZ66bort" (pos=<8797.617188, 13.041130, 2936.859375>)
+6:22:29 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Fennek" (pos=<8792.062500, 13.107423, 2936.346924>)
+6:22:30 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "HAMMER_Doors_hood" (pos=<8786.183594, 14.644036, 2936.657715>)
+6:22:31 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "HAMMER_H1" (pos=<8786.147461, 13.278028, 2935.085693>)
+6:22:33 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Gelenvagen_white_camo1" (pos=<8778.443359, 13.287510, 2931.766846>)
+6:22:35 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Velociraptor6x6_Doors_cargo2_kamo2" (pos=<8772.710938, 14.740406, 2934.584229>)
+6:22:38 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Velociraptor6x6_kamo2" (pos=<8771.814453, 13.333162, 2934.492188>)
+6:30:47 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Chevrolet_camaro_KGB)
+6:30:53 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Chevrolet_camaro_KGB" (pos=<8779.427734, 13.273662, 2935.853271>)
+6:30:56 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Chevrolet_Camaro)
+6:31:6 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Chevrolet_Camaro" (pos=<8781.156250, 13.254044, 2934.914795>)
+6:31:21 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (MUSTANG_red)
+6:31:43 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "MUSTANG_red" (pos=<8782.050781, 13.307596, 2934.133301>)
+6:32:8 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (PONTIAC)
+6:34:12 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "PONTIAC" (pos=<8779.188477, 13.206026, 2933.549561>)
+6:34:17 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (LandCruiser)
+6:34:26 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "LandCruiser" (pos=<8781.764648, 13.142527, 2934.100342>)
+6:34:28 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (LandCruiser_kamo2)
+6:35:3 | "Barba_Imersivo" (steamid=76561197994877771) /refuel used on self.
+6:35:56 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "LandCruiser_kamo2" (pos=<8785.363281, 13.087786, 2932.656982>)
+6:36:3 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (BMP3_Woodland)
+6:36:8 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "BMP3_Woodland" (pos=<8786.546875, 13.193819, 2934.150391>)
+6:36:12 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (BRDM_Woodland)
+6:37:32 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "BRDM_Woodland" (pos=<8790.744141, 13.199857, 2935.104980>)
+6:37:34 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (DozorB_Woodland)
+6:37:40 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "DozorB_Woodland" (pos=<8792.990234, 13.225578, 2934.863770>)
+6:37:42 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (MotorHome_woodland)
+6:38:16 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "MotorHome_woodland" (pos=<8796.163086, 13.268311, 2934.380859>)
+6:38:20 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Novator_Woodland)
+6:38:28 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Novator_Woodland" (pos=<8791.582031, 13.290049, 2938.990723>)
+6:38:33 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (PAZ_BANDIT_woodland)
+6:38:47 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "PAZ_BANDIT_woodland" (pos=<8794.408203, 13.276720, 2937.518066>)
+6:38:52 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Typhoon_Woodland)
+6:39:4 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Typhoon_Woodland" (pos=<8795.455078, 13.111298, 2936.187500>)
+6:39:18 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (LUAZ)
+6:39:37 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "LUAZ" (pos=<8791.788086, 13.205626, 2937.047607>)
+6:39:40 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (EGER_Pixel)
+6:39:47 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "EGER_Pixel" (pos=<8795.554688, 13.117325, 2934.584961>)
+6:39:59 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Jeep_Wrangler_kamo)
+6:40:35 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Jeep_Wrangler_kamo" (pos=<8795.146484, 13.254864, 2937.446533>)
+6:40:39 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Kamaz_4350_flora)
+6:40:51 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Kamaz_4350_Doors_trunk_flora" (pos=<8793.098633, 14.825278, 2931.528564>)
+6:40:53 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Kamaz_4350_flora" (pos=<8793.078125, 13.153847, 2935.812012>)
+6:40:58 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Kraz_6322_Black)
+6:41:14 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Kraz_6322_Black" (pos=<8793.179688, 13.074846, 2935.841309>)
+6:41:21 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (LUAZ_black)
+6:41:25 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "LUAZ_black" (pos=<8786.675781, 13.285141, 2938.305420>)
+6:41:30 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (M35a2_Black)
+6:41:42 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "M35a2_Black" (pos=<8790.961914, 13.105979, 2938.317383>)
+6:41:56 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (MBw140_gold)
+6:42:2 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "MBw140_Doors_hood_gold" (pos=<8791.868164, 14.042482, 2941.017334>)
+6:42:5 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "MBw140_gold" (pos=<8791.843750, 13.229999, 2939.283936>)
+6:42:10 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ToyotaHilux)
+6:42:16 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ToyotaHilux" (pos=<8793.264648, 13.138010, 2937.048096>)
+6:42:19 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (URAL_4320)
+6:42:31 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "URAL_4320" (pos=<8792.833008, 13.202398, 2938.380371>)
+6:42:36 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ZIL130)
+6:42:56 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ZIL130" (pos=<8792.713867, 13.104851, 2937.217041>)
+6:43:0 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ZIL130Kung)
+6:43:3 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ZIL130Kung" (pos=<8792.800781, 13.088859, 2936.475586>)
+6:43:6 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ZIL130_REFILL)
+6:43:10 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ZIL130_REFILL" (pos=<8792.731445, 13.092298, 2936.676758>)
+6:43:14 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (AZLK)
+6:43:25 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "AZLK" (pos=<8796.470703, 13.075056, 2938.335205>)
+6:43:34 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ExpansionMerlin)
+6:43:40 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ExpansionMerlin" (pos=<8799.872070, 15.574343, 2937.757813>)
+6:43:43 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ExpansionMerlin_Green)
+6:43:46 | "Barba_Imersivo" (steamid=76561197994877771) /refuel used on self.
+6:43:58 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ExpansionMerlin_Green" (pos=<8801.119141, 13.037854, 2939.738525>)
+6:44:2 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ExpansionMerlin_Ion)
+6:44:6 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ExpansionMerlin_Ion" (pos=<8801.192383, 12.924673, 2943.205566>)
+6:44:10 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ExpansionMh6_Blueline)
+6:44:28 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ExpansionMh6_Blueline" (pos=<8800.769531, 13.154876, 2942.214600>)
+6:44:33 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Audi_RS6_flecktarn)
+6:44:44 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Audi_RS6_flecktarn" (pos=<8803.679688, 12.980301, 2944.065186>)
+6:44:48 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (AZLK_rust)
+6:44:51 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "AZLK_rust" (pos=<8803.987305, 13.075068, 2942.923340>)
+6:44:57 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (BMW_X5_black)
+6:45:4 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "BMW_X5_black" (pos=<8804.438477, 13.090632, 2941.675537>)
+6:45:9 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (BRDM_Woodland)
+6:45:12 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "BRDM_Woodland" (pos=<8804.722656, 13.157697, 2940.936035>)
+6:45:22 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Chevrolet_KOCTPOB_C)
+6:45:27 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Chevrolet_KOCTPOB_C" (pos=<8804.142578, 13.078362, 2941.247803>)
+6:45:34 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Conqueror_yellow)
+6:45:45 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ZmbM_Jacket_magenta" (pos=<8818.607422, 13.028999, 2941.551270>)
+6:45:48 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Conqueror_yellow" (pos=<8804.006836, 13.126856, 2942.011475>)
+6:45:51 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Cougar_black)
+6:46:9 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Cougar_black" (pos=<8808.622070, 12.964002, 2942.661865>)
+6:46:13 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (DozorB_Woodland)
+6:46:18 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "DozorB_Woodland" (pos=<8808.828125, 13.204055, 2942.778809>)
+6:46:26 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (NivaPickup_blue)
+6:46:42 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "NivaPickup_blue" (pos=<8808.310547, 13.143376, 2941.729248>)
+6:46:48 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Novator_Woodland)
+6:46:51 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Novator_Woodland" (pos=<8805.560547, 13.171943, 2942.762939>)
+6:46:58 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (PAZ_blue)
+6:47:5 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "PAZ_blue" (pos=<8805.424805, 12.940865, 2943.930908>)
+6:47:10 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (PAZprison_blue)
+6:47:20 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "PAZprison_blue" (pos=<8796.066406, 13.050008, 2942.114502>)
+6:47:27 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Range_Rover_dazzle_green)
+6:47:53 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Range_Rover_dazzle_green" (pos=<8797.462891, 13.101988, 2940.699219>)
+6:48:1 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ROVER_camoOLD)
+6:48:11 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ROVER_camoOLD" (pos=<8796.892578, 13.036570, 2942.903809>)
+6:48:21 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (TLC_200_blue)
+6:48:29 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "TLC_200_blue" (pos=<8798.552734, 13.113081, 2941.898682>)
+6:48:31 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (SUV_blue)
+6:48:40 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "SUV_blue" (pos=<8799.591797, 13.111079, 2941.904541>)
+6:48:45 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ToyotaHilux_blue)
+6:48:48 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ToyotaHilux_blue" (pos=<8799.248047, 13.110249, 2940.337646>)
+6:48:52 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Typhoon_Woodland)
+6:48:55 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Typhoon_Woodland" (pos=<8796.415039, 13.123075, 2938.813232>)
+6:48:59 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (UAZ469_black)
+6:49:13 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "UAZ469_black" (pos=<8798.024414, 12.968800, 2940.664795>)
+6:49:22 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (YAR_87_blue)
+6:49:30 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "YAR_87_blue" (pos=<8800.414063, 13.191626, 2939.743164>)
+6:49:59 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Interceptor_Black)
+6:50:6 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Interceptor_Black" (pos=<8801.077148, 12.980566, 2938.608154>)
+6:50:23 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Oshkosh)
+6:50:49 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Oshkosh" (pos=<8801.288086, 13.103726, 2938.918701>)
+6:50:55 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Range_Rover)
+6:50:58 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Range_Rover_Doors_Driver" (pos=<8797.515625, 14.110573, 2941.019043>)
+6:51:0 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Range_Rover" (pos=<8798.358398, 13.094112, 2940.725098>)
+6:51:4 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ROVER)
+6:51:10 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ROVER" (pos=<8798.569336, 12.968994, 2940.403564>)
+6:51:13 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (SCOUT_Veh)
+6:51:23 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "SCOUT_Veh" (pos=<8801.357422, 13.079446, 2939.880127>)
+6:51:49 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Citroen2CV)
+6:52:3 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "Citroen2CV" (pos=<8799.971680, 13.108034, 2939.742432>)
+6:52:22 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (BTR_KOSTROV)
+6:52:30 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "BTR_KOSTROV" (pos=<8800.666016, 13.172713, 2941.718506>)
+6:52:34 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (BTR_green)
+6:52:39 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "BTR_green" (pos=<8801.029297, 13.167082, 2941.689697>)
+6:52:50 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (ChevroletCorvette_white)
+6:52:57 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "ChevroletCorvette_white" (pos=<8801.146484, 13.033825, 2941.849121>)
+6:53:5 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (MotorHome_white)
+6:53:11 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "MotorHome_white" (pos=<8801.005859, 13.269215, 2941.994629>)
+6:53:25 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (OffroadRangeRover_kamo)
+6:53:40 | "Barba_Imersivo" (steamid=76561197994877771) deleted object "OffroadRangeRover_kamo" (pos=<8801.635742, 13.110773, 2944.019775>)
+6:54:29 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (HeliSIB_UH1D_airforce)
+6:58:0 | "Barba_Imersivo" (steamid=76561197994877771) /refuel used on self.
+6:58:9 | "Barba_Imersivo" (steamid=76561197994877771) /refuel used on self.
+7:1:45 | "Barba_Imersivo" (steamid=76561197994877771) toggled godmode
+7:9:25 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7712.551758, 9.640017, 14874.768555>)
+7:12:42 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<4793.530273, 9.356156, 16045.292969>)
+7:17:0 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Wreck_Mi8_Crashed)
+7:17:19 | "Barba_Imersivo" (steamid=76561197994877771) Spawned Item: (Wreck_Mi8_Crashed)
+7:19:57 | Player "Barba_Imersivo" (steamId=76561197994877771) initiated disconnect process...
+7:19:57 | Player "Barba_Imersivo" (steamId=76561197994877771) initiated disconnect process...

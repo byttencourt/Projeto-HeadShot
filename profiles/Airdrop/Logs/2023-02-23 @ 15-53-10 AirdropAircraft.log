@@ -1,0 +1,21 @@
+2023-02-23 @ 15-53-10:  [AirdropPlane] Aircraft created on 2023-02-23 @ 15-53-10
+2023-02-23 @ 15-53-10:  [InitializeAircraft] Aircraft Initialized: Limansk @ 7282/1008 (true)
+2023-02-23 @ 15-53-12:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_PatrolNormal_PautRev @ <7264.981445, 12.540001, 1026.710083> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 15-53-13:  [EOnSpawnZombies] Zombie Spawned [2] ZmbM_FishermanOld_Green @ <7265.126953, 12.540001, 1005.280334> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 15-53-15:  [EOnSpawnZombies] Zombie Spawned [3] ZmbF_HikerSkinny_Blue @ <7272.716797, 12.540001, 1055.036743> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 15-53-17:  [EOnSpawnZombies] Zombie Spawned [4] ZmbM_PatrolNormal_Flat @ <7257.029297, 12.540001, 1013.509888> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 15-53-17:  [EOnBeforeDrop] The Aircraft is 1 Km from Limansk, from the South (167°). @ <7628.872070, 221.076660, -450.089508>
+2023-02-23 @ 15-53-19:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_SoldierNormal @ <7283.484863, 12.540001, 1017.287720> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 15-53-20:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_PatrolNormal_Summer @ <7284.979980, 12.540001, 962.706848> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 15-53-22:  [EOnSpawnZombies] Zombie Spawned [7] ZmbM_PatrolNormal_PautRev @ <7263.884766, 12.540001, 989.727417> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 15-53-24:  [EOnSpawnZombies] Zombie Spawned [8] ZmbM_HandymanNormal_Beige @ <7297.529785, 12.540001, 1026.828247> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 15-53-26:  [EOnSpawnZombies] Zombie Spawned [9] Animal_CanisLupus_White @ <7283.829590, 12.540001, 1013.335022> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 15-53-28:  [EOnSpawnZombies] Zombie Spawned [10] ZmbM_FishermanOld_Green @ <7285.359863, 12.540001, 1031.559814> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 15-53-29:  [EOnSpawnZombies] Zombie Spawned [11] ZmbF_JournalistNormal_Green @ <7277.904785, 12.540001, 1031.866821> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 15-53-31:  [EOnSpawnZombies] Zombie Spawned [12] Animal_CanisLupus_White @ <7261.992188, 12.540001, 1000.721985> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 15-53-33:  [EOnSpawnZombies] Zombie Spawned [13] ZmbM_HunterOld_Spring @ <7290.582520, 12.540001, 960.676758> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 15-53-35:  [EOnSpawnZombies] Zombie Spawned [14] Animal_CanisLupus_Grey @ <7288.163574, 12.540001, 1000.203552> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 15-53-35:  [EOnDrop] Drop spawned with 15 infected at <7303.973633, 154.046051, 916.227783>.
+2023-02-23 @ 15-53-35:  [EOnDrop] Supplies have been dropped near Limansk.
+2023-02-23 @ 15-58-09:  [EOnBeforeDelete] Aircraft despawned @ <2414.403809, 152.001190, 21476.031250>
+2023-02-23 @ 15-58-09:  [~AirdropPlane] Aircraft destroyed.

@@ -1,0 +1,58 @@
+// ------------------------------------------------------ Trader Marker/Triggers -------------------------------------------------------
+
+// FS_Shram_Char AirCraft Trader Marker
+<TraderMarker> 			0
+<TraderMarkerPosition>	16449.892578125, 35.011844635009769, 11637.759765625
+<TraderMarkerSafezone>	0
+<VehicleSpawn>			16447, 25.8131, 11662.7		// Vehicle Spawnpoint for Trader; 	Coordinate X, 	Coordinate Y, 	Coordinate Z (optional)
+<VehicleSpawnOri>		-98.99996185302735, 0.0, -0.0								// Vehicle Spawnpoint Orientation; 	Yaw, 			Pitch, 			Roll	 	 (optional)
+
+// FS_Shram_Char AirCraft Trader Marker dyty
+<TraderMarker> 			1
+<TraderMarkerPosition>	7696.99, 19.41, 9983.37
+<TraderMarkerSafezone>	0
+<VehicleSpawn>			7719.11, 10.25, 9999.38		// Vehicle Spawnpoint for Trader; 	Coordinate X, 	Coordinate Y, 	Coordinate Z (optional)
+<VehicleSpawnOri>		75.0, 0.0, -0.0								// Vehicle Spawnpoint Orientation; 	Yaw, 			Pitch, 			Roll	 	 (optional)
+
+// Sids Village Traders Sid 
+<TraderMarker> 			2
+<TraderMarkerPosition>	8742.314453125, 7.980611801147461, 3017.13525390625
+<TraderMarkerSafezone>	0
+
+
+// ------------------------------------------------------ NPC Objects to Spawn ------------------------------------------------------
+	
+// AirCraft Trader:
+<Object>			FS_Shram_Char
+<ObjectPosition>	16450.400390625, 35.076499938964847, 11637.099609375
+<ObjectOrientation>	-27.410581588745118, -0.0, 0.0
+<ObjectAttachment>	NPC_DUMMY
+
+// AirCraft Trader dyty:
+<Object>			FS_Shram_Char
+<ObjectPosition>	7696.99, 19.41, 9983.37
+<ObjectOrientation>	50.0, -0.0, 0.0
+<ObjectAttachment>	NPC_DUMMY
+
+// Sids Village Sid Trader
+<Object>			FS_Sidor_Char
+<ObjectPosition>	8742.2880859375, 7.987431049346924, 3016.184326171875
+<ObjectOrientation>	0.0, 0.0, 0.0
+<ObjectAttachment>	NPC_DUMMY
+
+// Sids Village Guard Stalker SPAS
+<Object>			FS_NPC_OxranaSPAS_Stalker
+<ObjectPosition>	8747.265625, 13.421232223510743, 3022.749267578125
+<ObjectOrientation>	165.83425903320313, 0.0, 0.0
+<ObjectAttachment>	NPC_DUMMY
+
+// Sids Village Guard Stalker VSS
+<Object>			FS_NPC_OxranaVSS_Stalker
+<ObjectPosition>	8750.96875, 13.542391777038575, 3022.543212890625
+<ObjectOrientation>	-168.83348083496095, 0.0, 0.0
+<ObjectAttachment>	NPC_DUMMY
+
+
+<OpenFile> OtherObjects.txt
+
+<FileEnd>												// This has to be on the End of this File and is very importand!

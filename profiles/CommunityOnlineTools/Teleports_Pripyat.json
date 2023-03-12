@@ -1,0 +1,1264 @@
+{
+    "Locations": [
+        {
+            "Name": "City | Chernobyl",
+            "Permission": "City|Chernobyl",
+            "Position": [
+                14939.099609375,
+                0.0,
+                1803.3599853515626
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "City | Druganov Airfield",
+            "Permission": "City|DruganovAirfield",
+            "Position": [
+                16736.380859375,
+                0.0,
+                11711.740234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "City | Lab X12",
+            "Permission": "City|LabX12",
+            "Position": [
+                17277.44921875,
+                0.0,
+                13629.7802734375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "City | Lab X18",
+            "Permission": "City|LabX18",
+            "Position": [
+                19056.83984375,
+                0.0,
+                18221.4296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "City | Lab X4",
+            "Permission": "City|LabX4",
+            "Position": [
+                254.3800048828125,
+                0.0,
+                1125.72998046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "City | Limansk",
+            "Permission": "City|Limansk",
+            "Position": [
+                7316.85009765625,
+                0.0,
+                1136.510009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "City | Rostok",
+            "Permission": "City|Rostok",
+            "Position": [
+                7110.97998046875,
+                0.0,
+                8105.72021484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "CityCap | Pripyat",
+            "Permission": "CityCap|Pripyat",
+            "Position": [
+                3855.2099609375,
+                0.0,
+                17175.990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "CityCapital | Chernobyl Nuclear Power Plant",
+            "Permission": "CityCapital|ChernobylNuclearPowerPlant",
+            "Position": [
+                7309.66015625,
+                0.0,
+                15285.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "FlatAreaCity | Pripyat Amusement Park",
+            "Permission": "FlatAreaCity|PripyatAmusementPark",
+            "Position": [
+                4023.840087890625,
+                0.0,
+                17309.4296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "FlatAreaCitySmall | Chernobyl NPP SubStation",
+            "Permission": "FlatAreaCitySmall|ChernobylNPPSubStation",
+            "Position": [
+                7031.75,
+                0.0,
+                14293.66015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "FlatAreaCitySmall | Chernobyl' 2",
+            "Permission": "FlatAreaCitySmall|Chernobyl2",
+            "Position": [
+                4963.8798828125,
+                0.0,
+                6127.89990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "FlatAreaCitySmall | Cooling Towers",
+            "Permission": "FlatAreaCitySmall|CoolingTowers",
+            "Position": [
+                9285.3203125,
+                0.0,
+                13542.01953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "FlatAreaCitySmall | Spent Nuclear Fuel Storage #2",
+            "Permission": "FlatAreaCitySmall|SpentNuclearFuelStorage#2",
+            "Position": [
+                8385.33984375,
+                0.0,
+                13150.83984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Hill | \"Buryakivka Vehicle Graveyard",
+            "Permission": "Hill|\"BuryakivkaVehicleGraveyard",
+            "Position": [
+                7718.72998046875,
+                0.0,
+                12989.6201171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Hill | Horodeshchyna",
+            "Permission": "Hill|Horodeshchyna",
+            "Position": [
+                8051.0498046875,
+                0.0,
+                7768.06005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Hill | Kolyshniy Obchyslyuvaynyy Tsentr",
+            "Permission": "Hill|KolyshniyObchyslyuvaynyyTsentr",
+            "Position": [
+                4193.18994140625,
+                0.0,
+                5667.43994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Hill | Volkhov AA Complex",
+            "Permission": "Hill|VolkhovAAComplex",
+            "Position": [
+                7928.02001953125,
+                0.0,
+                8574.9501953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Anomalous Zone",
+            "Permission": "Local|AnomalousZone",
+            "Position": [
+                7333.81005859375,
+                0.0,
+                3220.1201171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Avanhard Stadium",
+            "Permission": "Local|AvanhardStadium",
+            "Position": [
+                3982.06005859375,
+                0.0,
+                17588.560546875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Central Nuclear",
+            "Permission": "Local|CentralNuclear",
+            "Position": [
+                6934.47021484375,
+                0.0,
+                15220.5
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Chernobyl Canteen No. 19",
+            "Permission": "Local|ChernobylCanteenNo.19",
+            "Position": [
+                8268.91015625,
+                0.0,
+                14753.169921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Chernobyl NPP Unit 2",
+            "Permission": "Local|ChernobylNPPUnit2",
+            "Position": [
+                7335.169921875,
+                0.0,
+                15091.1904296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Chernobyl NPP Unit 3",
+            "Permission": "Local|ChernobylNPPUnit3",
+            "Position": [
+                7054.47998046875,
+                0.0,
+                15115.7001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Chernobyl Radio Station",
+            "Permission": "Local|ChernobylRadioStation",
+            "Position": [
+                14283.1904296875,
+                0.0,
+                1630.300048828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Cooling Ponds",
+            "Permission": "Local|CoolingPonds",
+            "Position": [
+                7220.169921875,
+                0.0,
+                14880.509765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Elephant's Foot",
+            "Permission": "Local|ElephantsFoot",
+            "Position": [
+                6987.08984375,
+                0.0,
+                15145.3798828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Experimental Mink Farm",
+            "Permission": "Local|ExperimentalMinkFarm",
+            "Position": [
+                9711.150390625,
+                0.0,
+                13292.26953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Great Swamps",
+            "Permission": "Local|GreatSwamps",
+            "Position": [
+                17510.33984375,
+                0.0,
+                2093.8798828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Gringo's Camping Resort",
+            "Permission": "Local|GringosCampingResort",
+            "Position": [
+                14723.7099609375,
+                0.0,
+                10347.2099609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Jupiter",
+            "Permission": "Local|Jupiter",
+            "Position": [
+                3070.0,
+                0.0,
+                16715.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Kafe Olympyya",
+            "Permission": "Local|KafeOlympyya",
+            "Position": [
+                4667.68994140625,
+                0.0,
+                17315.310546875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Kolyshniy Hotel",
+            "Permission": "Local|KolyshniyHotel",
+            "Position": [
+                4189.2998046875,
+                0.0,
+                17184.16015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Maksymovychi",
+            "Permission": "Local|Maksymovychi",
+            "Position": [
+                4875.52001953125,
+                0.0,
+                11651.98046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Northern 100 Rads Bar",
+            "Permission": "Local|Northern100RadsBar",
+            "Position": [
+                7277.72998046875,
+                0.0,
+                8164.06005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Palace of Culture",
+            "Permission": "Local|PalaceofCulture",
+            "Position": [
+                4059.9599609375,
+                0.0,
+                17149.51953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Portovi Krany",
+            "Permission": "Local|PortoviKrany",
+            "Position": [
+                6424.35986328125,
+                0.0,
+                17460.25
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Power Unit No. 4",
+            "Permission": "Local|PowerUnitNo.4",
+            "Position": [
+                6895.1298828125,
+                0.0,
+                15091.3095703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Pripyat City Hall",
+            "Permission": "Local|PripyatCityHall",
+            "Position": [
+                4265.0400390625,
+                0.0,
+                17219.849609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Prometheus",
+            "Permission": "Local|Prometheus",
+            "Position": [
+                7831.83984375,
+                0.0,
+                14933.419921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Radiation Beach",
+            "Permission": "Local|RadiationBeach",
+            "Position": [
+                16200.98046875,
+                0.0,
+                2320.110107421875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Roundabout",
+            "Permission": "Local|Roundabout",
+            "Position": [
+                11195.2197265625,
+                0.0,
+                2440.8798828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Scythian",
+            "Permission": "Local|Scythian",
+            "Position": [
+                8325.8798828125,
+                0.0,
+                14462.3603515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Southern 100 Rads Bar",
+            "Permission": "Local|Southern100RadsBar",
+            "Position": [
+                15218.330078125,
+                0.0,
+                2651.56005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Urban Area #1",
+            "Permission": "Local|UrbanArea#1",
+            "Position": [
+                4720.97998046875,
+                0.0,
+                16917.19921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Urban Area #5",
+            "Permission": "Local|UrbanArea#5",
+            "Position": [
+                3929.669921875,
+                0.0,
+                17743.939453125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Local | Zirka Industrial Complex",
+            "Permission": "Local|ZirkaIndustrialComplex",
+            "Position": [
+                11255.1103515625,
+                0.0,
+                6088.60986328125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Marine | Hlynytsya River",
+            "Permission": "Marine|HlynytsyaRiver",
+            "Position": [
+                14103.0595703125,
+                0.0,
+                4914.490234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Marine | Hostrytsya River",
+            "Permission": "Marine|HostrytsyaRiver",
+            "Position": [
+                18543.2109375,
+                0.0,
+                2929.72998046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Marine | Pripyat River",
+            "Permission": "Marine|PripyatRiver",
+            "Position": [
+                17775.0,
+                0.0,
+                873.3300170898438
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Marine | Pripyat River",
+            "Permission": "Marine|PripyatRiver",
+            "Position": [
+                17775.0,
+                0.0,
+                873.3300170898438
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Marine | Pripyat River",
+            "Permission": "Marine|PripyatRiver",
+            "Position": [
+                17775.0,
+                0.0,
+                873.3300170898438
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Marine | Pripyat River",
+            "Permission": "Marine|PripyatRiver",
+            "Position": [
+                17775.0,
+                0.0,
+                873.3300170898438
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Marine | Pripyat River",
+            "Permission": "Marine|PripyatRiver",
+            "Position": [
+                17775.0,
+                0.0,
+                873.3300170898438
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Marine | Starukha River",
+            "Permission": "Marine|StarukhaRiver",
+            "Position": [
+                15808.1396484375,
+                0.0,
+                4671.66015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Marine | Zymovyshche Lake",
+            "Permission": "Marine|ZymovyshcheLake",
+            "Position": [
+                13898.26953125,
+                0.0,
+                18742.630859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "RockArea | Bunker 536",
+            "Permission": "RockArea|Bunker536",
+            "Position": [
+                5545.27001953125,
+                0.0,
+                8549.5400390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "StrongpointArea | Checkpoint Leliv",
+            "Permission": "StrongpointArea|CheckpointLeliv",
+            "Position": [
+                12765.3603515625,
+                0.0,
+                4696.47998046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "StrongpointArea | Chernobyl Military Base",
+            "Permission": "StrongpointArea|ChernobylMilitaryBase",
+            "Position": [
+                13445.509765625,
+                0.0,
+                3287.31005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "StrongpointArea | Druganov Military Base",
+            "Permission": "StrongpointArea|DruganovMilitaryBase",
+            "Position": [
+                15173.8603515625,
+                0.0,
+                11363.919921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "StrongpointArea | Duga Radar Station",
+            "Permission": "StrongpointArea|DugaRadarStation",
+            "Position": [
+                4478.97998046875,
+                0.0,
+                5967.72998046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "StrongpointArea | ISF-1 (Interim Spent Fuel storage)",
+            "Permission": "StrongpointArea|ISF-1InterimSpentFuelstorage",
+            "Position": [
+                6821.0498046875,
+                0.0,
+                15477.16015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "StrongpointArea | Jagala Army Base",
+            "Permission": "StrongpointArea|JagalaArmyBase",
+            "Position": [
+                17143.0703125,
+                0.0,
+                14704.3701171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "StrongpointArea | Kryva Hora Military Camp",
+            "Permission": "StrongpointArea|KryvaHoraMilitaryCamp",
+            "Position": [
+                14189.33984375,
+                0.0,
+                15213.2998046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "StrongpointArea | Laput'ky Army Base",
+            "Permission": "StrongpointArea|LaputkyArmyBase",
+            "Position": [
+                18014.08984375,
+                0.0,
+                3847.93994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "StrongpointArea | Pripyat Military Base",
+            "Permission": "StrongpointArea|PripyatMilitaryBase",
+            "Position": [
+                2467.6201171875,
+                0.0,
+                16350.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "StrongpointArea | Red Forest Military Base",
+            "Permission": "StrongpointArea|RedForestMilitaryBase",
+            "Position": [
+                7445.91015625,
+                0.0,
+                12263.2900390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "StrongpointArea | Refugee Camp",
+            "Permission": "StrongpointArea|RefugeeCamp",
+            "Position": [
+                18168.720703125,
+                0.0,
+                6648.31982421875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "StrongpointArea | Stazione della centrale nucleare di Chernobyl",
+            "Permission": "StrongpointArea|StazionedellacentralenuclearediChernobyl",
+            "Position": [
+                7520.080078125,
+                0.0,
+                15847.1201171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "StrongpointArea | Svynoferma",
+            "Permission": "StrongpointArea|Svynoferma",
+            "Position": [
+                2856.81005859375,
+                0.0,
+                4730.919921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "StrongpointArea | The Brain Scorcher",
+            "Permission": "StrongpointArea|TheBrainScorcher",
+            "Position": [
+                5320.0,
+                0.0,
+                16870.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "StrongpointArea | Vasylkiv Air Base",
+            "Permission": "StrongpointArea|VasylkivAirBase",
+            "Position": [
+                2128.580078125,
+                0.0,
+                13467.5
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "StrongpointArea | X12 Underground Materials Depot",
+            "Permission": "StrongpointArea|X12UndergroundMaterialsDepot",
+            "Position": [
+                17722.44921875,
+                0.0,
+                12726.8203125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "ViewPoint | Strakholissya Castle",
+            "Permission": "ViewPoint|StrakholissyaCastle",
+            "Position": [
+                12580.4404296875,
+                0.0,
+                7228.5
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Villa | Hubyn",
+            "Permission": "Villa|Hubyn",
+            "Position": [
+                9084.4404296875,
+                0.0,
+                5169.97021484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Villa | Leliv",
+            "Permission": "Villa|Leliv",
+            "Position": [
+                12349.5595703125,
+                0.0,
+                5815.77978515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Villa | Vesna",
+            "Permission": "Villa|Vesna",
+            "Position": [
+                13593.1396484375,
+                0.0,
+                18679.58984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Villa | Zoryn",
+            "Permission": "Villa|Zoryn",
+            "Position": [
+                13352.330078125,
+                0.0,
+                9228.16015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Villag | Dubova",
+            "Permission": "Villag|Dubova",
+            "Position": [
+                11546.1396484375,
+                0.0,
+                15653.1298828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Villag | Hdzyen",
+            "Permission": "Villag|Hdzyen",
+            "Position": [
+                14295.4404296875,
+                0.0,
+                8806.5498046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Villag | Kirovo",
+            "Permission": "Villag|Kirovo",
+            "Position": [
+                13136.66015625,
+                0.0,
+                11526.01953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Villag | Krasne",
+            "Permission": "Villag|Krasne",
+            "Position": [
+                3760.699951171875,
+                0.0,
+                8820.4404296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Villag | Potoky",
+            "Permission": "Villag|Potoky",
+            "Position": [
+                12001.8095703125,
+                0.0,
+                2553.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Belaya Soroka",
+            "Permission": "Village|BelayaSoroka",
+            "Position": [
+                13777.3603515625,
+                0.0,
+                7517.18994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Berezki",
+            "Permission": "Village|Berezki",
+            "Position": [
+                12703.41015625,
+                0.0,
+                12812.51953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Bohdany",
+            "Permission": "Village|Bohdany",
+            "Position": [
+                8665.240234375,
+                0.0,
+                9485.1298828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Buda Vovchkivs'ka",
+            "Permission": "Village|BudaVovchkivska",
+            "Position": [
+                9542.58984375,
+                0.0,
+                11054.4404296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Centrale Elettrica di Yaniv (Pripya't)",
+            "Permission": "Village|CentraleElettricadiYanivPripyat",
+            "Position": [
+                3025.75,
+                0.0,
+                15676.5595703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Cheremoshna",
+            "Permission": "Village|Cheremoshna",
+            "Position": [
+                1544.719970703125,
+                0.0,
+                18520.150390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Cheremoshna Industrial",
+            "Permission": "Village|CheremoshnaIndustrial",
+            "Position": [
+                1645.22998046875,
+                0.0,
+                19405.919921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Chernobyl Industrial",
+            "Permission": "Village|ChernobylIndustrial",
+            "Position": [
+                13861.1103515625,
+                0.0,
+                3421.10009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Dovlyady",
+            "Permission": "Village|Dovlyady",
+            "Position": [
+                11299.7197265625,
+                0.0,
+                13964.25
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Dytyatky",
+            "Permission": "Village|Dytyatky",
+            "Position": [
+                7546.6201171875,
+                0.0,
+                10141.419921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Fedorivka",
+            "Permission": "Village|Fedorivka",
+            "Position": [
+                2654.219970703125,
+                0.0,
+                19646.439453125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Golubovka",
+            "Permission": "Village|Golubovka",
+            "Position": [
+                11792.9501953125,
+                0.0,
+                16975.310546875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Karpylivka",
+            "Permission": "Village|Karpylivka",
+            "Position": [
+                7069.5498046875,
+                0.0,
+                10916.1201171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Kladovyshche",
+            "Permission": "Village|Kladovyshche",
+            "Position": [
+                14483.990234375,
+                0.0,
+                11138.080078125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Kopachi",
+            "Permission": "Village|Kopachi",
+            "Position": [
+                8429.3798828125,
+                0.0,
+                11438.2099609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Kovshylivka",
+            "Permission": "Village|Kovshylivka",
+            "Position": [
+                3637.1201171875,
+                0.0,
+                7381.75
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Krasnoe",
+            "Permission": "Village|Krasnoe",
+            "Position": [
+                1510.469970703125,
+                0.0,
+                19750.529296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Kryva Hora",
+            "Permission": "Village|KryvaHora",
+            "Position": [
+                13980.4296875,
+                0.0,
+                14288.8095703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Laput'ky",
+            "Permission": "Village|Laputky",
+            "Position": [
+                16915.94921875,
+                0.0,
+                4204.43994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Leliv Farms",
+            "Permission": "Village|LelivFarms",
+            "Position": [
+                13007.4404296875,
+                0.0,
+                5086.43994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Leliv Industrial",
+            "Permission": "Village|LelivIndustrial",
+            "Position": [
+                11760.1298828125,
+                0.0,
+                5214.89013671875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Luhovyky",
+            "Permission": "Village|Luhovyky",
+            "Position": [
+                2206.929931640625,
+                0.0,
+                14550.6298828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Novi Sokoly",
+            "Permission": "Village|NoviSokoly",
+            "Position": [
+                761.1300048828125,
+                0.0,
+                1738.6500244140626
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Oriyana",
+            "Permission": "Village|Oriyana",
+            "Position": [
+                9328.8603515625,
+                0.0,
+                16593.7890625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Pylyava",
+            "Permission": "Village|Pylyava",
+            "Position": [
+                10785.1298828125,
+                0.0,
+                7053.8701171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Radynka",
+            "Permission": "Village|Radynka",
+            "Position": [
+                3494.1298828125,
+                0.0,
+                19567.310546875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Red Forest",
+            "Permission": "Village|RedForest",
+            "Position": [
+                4074.570068359375,
+                0.0,
+                14497.400390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Red Forest South",
+            "Permission": "Village|RedForestSouth",
+            "Position": [
+                6228.2900390625,
+                0.0,
+                12296.2802734375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Romanivka",
+            "Permission": "Village|Romanivka",
+            "Position": [
+                16115.9404296875,
+                0.0,
+                3940.860107421875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Ruined Village",
+            "Permission": "Village|RuinedVillage",
+            "Position": [
+                6538.919921875,
+                0.0,
+                3360.14990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Sandy Plateau",
+            "Permission": "Village|SandyPlateau",
+            "Position": [
+                4864.580078125,
+                0.0,
+                17846.55078125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Savichi",
+            "Permission": "Village|Savichi",
+            "Position": [
+                12670.6103515625,
+                0.0,
+                9578.6298828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Selyshche Zalissya",
+            "Permission": "Village|SelyshcheZalissya",
+            "Position": [
+                4899.89013671875,
+                0.0,
+                2747.590087890625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Shevchenkove",
+            "Permission": "Village|Shevchenkove",
+            "Position": [
+                9588.5302734375,
+                0.0,
+                3612.409912109375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Sidorovich's Village",
+            "Permission": "Village|SidorovichsVillage",
+            "Position": [
+                8753.33984375,
+                0.0,
+                2949.409912109375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Sokoly Industrial",
+            "Permission": "Village|SokolyIndustrial",
+            "Position": [
+                2877.47998046875,
+                0.0,
+                2422.419921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Sozinovo",
+            "Permission": "Village|Sozinovo",
+            "Position": [
+                7549.89013671875,
+                0.0,
+                6814.47021484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Stara Markivka",
+            "Permission": "Village|StaraMarkivka",
+            "Position": [
+                11722.9404296875,
+                0.0,
+                18346.400390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Stari Sokoly",
+            "Permission": "Village|StariSokoly",
+            "Position": [
+                1506.1300048828126,
+                0.0,
+                3292.590087890625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Sukholuchchya",
+            "Permission": "Village|Sukholuchchya",
+            "Position": [
+                5473.2001953125,
+                0.0,
+                18228.5703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Vesna Industrial",
+            "Permission": "Village|VesnaIndustrial",
+            "Position": [
+                12471.0302734375,
+                0.0,
+                18605.619140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Yanov Train Station",
+            "Permission": "Village|YanovTrainStation",
+            "Position": [
+                4194.93017578125,
+                0.0,
+                15722.8798828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Village | Zamoshnya",
+            "Permission": "Village|Zamoshnya",
+            "Position": [
+                9814.41015625,
+                0.0,
+                2454.6298828125
+            ],
+            "Radius": 4.0
+        }
+    ]
+}

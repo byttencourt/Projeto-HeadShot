@@ -1,0 +1,21 @@
+2023-02-23 @ 13-55-21:  [AirdropPlane] Aircraft created on 2023-02-23 @ 13-55-21
+2023-02-23 @ 13-55-21:  [InitializeAircraft] Aircraft Initialized: Nuclear Power Plant @ 7515/15227 (true)
+2023-02-23 @ 13-55-27:  [EOnSpawnZombies] Zombie Spawned [1] ZmbF_HikerSkinny_Grey @ <7516.760742, 10.140000, 15250.452148> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 13-55-33:  [EOnSpawnZombies] Zombie Spawned [2] Animal_CanisLupus_White @ <7520.986816, 10.140000, 15221.418945> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 13-55-39:  [EOnSpawnZombies] Zombie Spawned [3] ZmbM_MechanicSkinny_Blue @ <7519.282715, 10.140000, 15220.905273> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 13-55-45:  [EOnSpawnZombies] Zombie Spawned [4] Animal_CanisLupus_Grey @ <7532.288086, 10.140000, 15242.023438> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 13-55-51:  [EOnSpawnZombies] Zombie Spawned [5] Animal_CanisLupus_Grey @ <7505.156250, 10.140000, 15233.505859> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 13-55-57:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_FishermanOld_Green @ <7554.540039, 10.140000, 15239.376953> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 13-56-03:  [EOnSpawnZombies] Zombie Spawned [7] ZmbF_SurvivorNormal_Blue @ <7477.147461, 10.140000, 15253.774414> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 13-56-09:  [EOnSpawnZombies] Zombie Spawned [8] Animal_CanisLupus_White @ <7517.972656, 10.140000, 15221.955078> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 13-56-15:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_OffshoreWorker_Red @ <7518.608887, 10.140000, 15220.922852> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 13-56-21:  [EOnSpawnZombies] Zombie Spawned [10] ZmbM_ClerkFat_Brown @ <7535.472168, 10.140000, 15198.128906> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 13-56-27:  [EOnSpawnZombies] Zombie Spawned [11] ZmbM_FishermanOld_Red @ <7468.166504, 10.140000, 15217.333984> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 13-56-31:  [EOnBeforeDrop] The Aircraft is 1 Km from Nuclear Power Plant, from the North/East (026°). @ <8170.884766, 152.244003, 16574.982422>
+2023-02-23 @ 13-56-33:  [EOnSpawnZombies] Zombie Spawned [12] ZmbM_SoldierNormal @ <7518.983887, 10.140000, 15264.105469> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 13-56-39:  [EOnSpawnZombies] Zombie Spawned [13] Animal_CanisLupus_White @ <7507.020996, 10.140000, 15209.151367> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 13-56-45:  [EOnSpawnZombies] Zombie Spawned [14] ZmbM_PatrolNormal_Autumn @ <7486.116699, 10.140000, 15218.735352> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 13-56-50:  [EOnDrop] Drop spawned with 15 infected at <7552.647461, 151.258942, 15301.127930>.
+2023-02-23 @ 13-56-50:  [EOnDrop] Supplies have been dropped near Nuclear Power Plant.
+2023-02-23 @ 14-00-44:  [EOnBeforeDelete] Aircraft despawned @ <-357.925110, 166.976532, -1000.969604>
+2023-02-23 @ 14-00-44:  [~AirdropPlane] Aircraft destroyed.

@@ -1,0 +1,21 @@
+2023-02-23 @ 00-16-12:  [AirdropPlane] Aircraft created on 2023-02-23 @ 00-16-12
+2023-02-23 @ 00-16-12:  [InitializeAircraft] Aircraft Initialized: Gringos Camping Resort @ 14726/10338 (true)
+2023-02-23 @ 00-16-24:  [EOnSpawnZombies] Zombie Spawned [1] ZmbF_DoctorSkinny @ <14739.133789, 6.578965, 10311.461914> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 00-16-37:  [EOnSpawnZombies] Zombie Spawned [2] Animal_CanisLupus_Grey @ <14719.090820, 6.820000, 10312.392578> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 00-16-49:  [EOnSpawnZombies] Zombie Spawned [3] ZmbM_MechanicSkinny_Grey @ <14742.244141, 6.313875, 10320.102539> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 00-17-02:  [EOnSpawnZombies] Zombie Spawned [4] ZmbM_Jacket_stripes @ <14728.544922, 6.309101, 10333.611328> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 00-17-15:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_FishermanOld_Red @ <14681.013672, 6.820000, 10339.023438> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 00-17-27:  [EOnSpawnZombies] Zombie Spawned [6] ZmbF_SurvivorNormal_White @ <14713.398438, 6.820000, 10336.826172> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 00-17-40:  [EOnSpawnZombies] Zombie Spawned [7] Animal_CanisLupus_White @ <14751.014648, 6.327217, 10342.682617> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 00-17-52:  [EOnSpawnZombies] Zombie Spawned [8] ZmbM_PatrolNormal_Autumn @ <14703.525391, 6.820000, 10313.996094> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 00-18-05:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_CommercialPilotOld_Grey @ <14731.541016, 6.281780, 10327.568359> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 00-18-18:  [EOnSpawnZombies] Zombie Spawned [10] Animal_CanisLupus_Grey @ <14699.504883, 7.026495, 10373.492188> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 00-18-30:  [EOnSpawnZombies] Zombie Spawned [11] ZmbM_PatrolNormal_Flat @ <14734.817383, 6.276131, 10342.336914> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 00-18-43:  [EOnSpawnZombies] Zombie Spawned [12] ZmbM_PatrolNormal_Flat @ <14737.945313, 6.256844, 10332.962891> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 00-18-55:  [EOnSpawnZombies] Zombie Spawned [13] ZmbM_HikerSkinny_Yellow @ <14761.916992, 6.113025, 10330.588867> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 00-19-01:  [EOnBeforeDrop] The Aircraft is 1 Km from Gringos Camping Resort, from the South/West (219°). @ <13785.005859, 155.053604, 9172.331055>
+2023-02-23 @ 00-19-08:  [EOnSpawnZombies] Zombie Spawned [14] ZmbF_VillagerOld_Red @ <14729.105469, 6.321755, 10325.139648> ... Lifespan:  Set to 30 minutes.
+2023-02-23 @ 00-19-19:  [EOnDrop] Drop spawned with 15 infected at <14668.701172, 148.961227, 10264.331055>.
+2023-02-23 @ 00-19-19:  [EOnDrop] Supplies have been dropped near Gringos Camping Resort.
+2023-02-23 @ 00-21-40:  [EOnBeforeDelete] Aircraft despawned @ <21475.611328, 491.761658, 18680.830078>
+2023-02-23 @ 00-21-40:  [~AirdropPlane] Aircraft destroyed.

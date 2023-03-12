@@ -1,0 +1,52 @@
+Creation Time: 2023_2_15-17-23-20
+17-23-20 | [INFO] TraderPlusCore - Started !
+17-23-20 | [INFO] TraderPlus file exist ! loading...
+17-23-20 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+17-23-20 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+17-23-20 | [INFO] TraderPlus file exist ! loading...
+17-23-20 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+17-23-20 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+17-23-20 | [INFO] TraderPlus file exist ! loading...
+17-23-20 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+17-23-20 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+17-23-20 | [INFO] TraderPlusServer - Started
+17-23-20 | [INFO] TraderPlusBankingCore - Started !
+17-23-20 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.json
+17-23-20 | [INFO] TraderPlusBankingServer - Started
+17-23-20 | [INFO] CarLockCore - Started !
+17-23-20 | [INFO] CarLockServer - Started
+17-23-24 | [INFO] SafeZoneCore - Started !
+17-23-24 | [INFO] DEBUG MODE ENABLED
+17-23-54 | [INFO] ID_count: 0
+17-23-54 | [INFO] SetTradersSpawner: Started
+17-23-54 | [INFO] obj created: TraderPlusSign
+17-23-54 | [INFO] TraderStatic created and added!: 
+17-23-54 | [INFO] obj created: TraderPlusSign
+17-23-54 | [INFO] TraderStatic created and added!: 
+17-23-54 | [INFO] obj created: TraderPlusSign
+17-23-54 | [INFO] TraderStatic created and added!: 
+17-23-54 | [INFO] obj created: TraderPlusSign
+17-23-54 | [INFO] TraderStatic created and added!: 
+17-23-54 | [INFO] obj created: TraderPlusSign
+17-23-54 | [INFO] TraderStatic created and added!: 
+17-23-54 | [INFO] SetTradersSpawner: Ended
+17-23-54 | [INFO] SetObjectSpawner: Started
+17-23-54 | [INFO] SetObjectSpawner: Ended
+17-23-54 | [INFO] DefaultTraderStock - Started
+17-47-21 | [INFO] DetachHideOutObjectFromPlayer
+17-49-56 | [INFO] DetachHideOutObjectFromPlayer
+17-51-29 | [INFO] DetachHideOutObjectFromPlayer
+17-52-44 | [INFO] DetachHideOutObjectFromPlayer
+17-55-12 | [INFO] DetachHideOutObjectFromPlayer
+17-58-41 | [INFO] DetachHideOutObjectFromPlayer
+18-0-34 | [INFO] DetachHideOutObjectFromPlayer
+18-6-5 | [INFO] DetachHideOutObjectFromPlayer
+18-8-19 | [INFO] DetachHideOutObjectFromPlayer
+18-10-29 | [INFO] DetachHideOutObjectFromPlayer
+18-18-52 | [INFO] DetachHideOutObjectFromPlayer
+18-20-31 | [INFO] DetachHideOutObjectFromPlayer
+18-20-41 | [INFO] DetachHideOutObjectFromPlayer
+18-21-0 | [INFO] DetachHideOutObjectFromPlayer
+18-21-32 | [INFO] DetachHideOutObjectFromPlayer
+18-21-57 | [INFO] DetachHideOutObjectFromPlayer
+18-34-21 | [INFO] DetachHideOutObjectFromPlayer

@@ -1,0 +1,13 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] Exporting 7 DropZone coordinates.
+[ExportDropZones] DropZone coordinates exported to VPP Map file.
+[AirdropBase] Base class created & settings loaded.
+[2023-02-23 @ 15-53-10] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Limansk <7282.000000, 0.000000, 1008.000000>
+[EOnCallAirdrop] Drop zone offset to: <7287.587402, 2438.000000, 984.057617>
+[EOnCallAirdrop] Aircraft spawn point: <7759.634766, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -1.33727° / 166.62°, Text: 'South (167°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Limansk' (7759.63/-1000), from the South (167°).

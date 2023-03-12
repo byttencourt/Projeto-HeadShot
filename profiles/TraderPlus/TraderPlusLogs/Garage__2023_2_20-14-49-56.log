@@ -1,0 +1,184 @@
+Creation Time: 2023_2_20-14-49-56
+14-49-56 | [INFO] GarageCore - Started !
+14-49-56 | [INFO] GarageServer - Started
+14-50-33 | [INFO] obj created: SurvivorM_Boris
+14-50-33 | [INFO] TraderPlayer created and added!: 
+14-50-33 | [INFO] obj created: SurvivorM_Boris
+14-50-33 | [INFO] TraderPlayer created and added!: 
+14-50-33 | [INFO] obj created: SurvivorM_Boris
+14-50-33 | [INFO] TraderPlayer created and added!: 
+14-50-33 | [INFO] obj created: SurvivorM_Boris
+14-50-33 | [INFO] TraderPlayer created and added!: 
+14-50-33 | [INFO] obj created: SurvivorM_Boris
+14-50-33 | [INFO] TraderPlayer created and added!: 
+14-58-29 | [INFO] GarageRequestHandler
+14-58-29 | [INFO] loading time:19124
+14-58-29 | [INFO] send GarageResponse
+14-58-29 | [INFO] GarageRequest by player:Barba_Imersivo
+14-58-33 | [INFO] ParkOutRequestHandler
+14-58-33 | [INFO] ParkOutRequestHandler data: 994877771 0 EGER <7705.470215, 9.750000, 10033.900391>
+14-58-33 | [INFO] distance: 10087.6
+14-58-33 | [INFO] distance: 7179.84
+14-58-33 | [INFO] distance: 8871.35
+14-58-33 | [INFO] distance: 7063.3
+14-58-33 | [INFO] distance: 0
+14-58-33 | [INFO] distance < 5
+14-58-33 | [INFO] garageData.Vehicles[listpos].VehicleName == carname
+14-58-33 | [INFO] CreateVehicle
+14-58-33 | [INFO] childrens.Count():20
+14-58-33 | [INFO] childrens[i]:CarBatteryi:0
+14-58-33 | [INFO] create item in cargo
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:FALi:1
+14-58-33 | [INFO] create item in cargo
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:EngineOili:2
+14-58-33 | [INFO] create item in cargo
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:EGER_Tenti:3
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:EGER_Doors_Driveri:4
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:EGER_Doors_coDriveri:5
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:EGER_Doors_hoodi:6
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:EGER_Doors_trunki:7
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:EGER_Doors_cargo2i:8
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:EGER_Doors_cargo1i:9
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:EGER_Wheeli:10
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:EGER_Wheeli:11
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:EGER_Wheeli:12
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:EGER_Wheeli:13
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:SparkPlugi:14
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:CarRadiatori:15
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:HeadlightH7i:16
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:TruckBatteryi:17
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:HeadlightH7i:18
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens[i]:FAMASi:19
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] childrens.Count():1
+14-58-33 | [INFO] childrens[i]:Mag_FAMAS_25Rndi:0
+14-58-33 | [INFO] create att
+14-58-33 | [INFO] ent exist
+14-58-33 | [INFO] item exist
+14-58-33 | [INFO] vehicle orientation: 0x00000000082d5508 {<73,-0,0>}
+14-58-33 | [INFO] vehicle orientation: 0x00000000082d5508 {<73,-0,0>}
+14-58-33 | [INFO] ParkOutRequest by player:Barba_Imersivo
+14-58-41 | [INFO] GarageRequestHandler
+14-58-41 | [INFO] loading time:15571
+14-58-41 | [INFO] send GarageResponse
+14-58-41 | [INFO] GarageRequest by player:Barba_Imersivo
+14-58-43 | [INFO] ParkInRequestHandler
+14-58-43 | [INFO] MustHaveLock:0 - SaveLock:0
+14-58-43 | [INFO] Vehicle DataEGER -1 5000 105
+14-58-43 | [INFO] ADD VEHICULE
+14-58-43 | [INFO] new VehiculeData
+14-58-43 | [INFO] ParkInRequest by player:Barba_Imersivo
+15-25-39 | [INFO] GarageRequestHandler
+15-25-39 | [INFO] loading time:18992
+15-25-39 | [INFO] send GarageResponse
+15-25-39 | [INFO] GarageRequest by player:Barba_Imersivo
+15-25-40 | [INFO] ParkInRequestHandler
+15-25-40 | [INFO] MustHaveLock:0 - SaveLock:0
+15-25-40 | [INFO] Vehicle DataHelilittle_bird_RF -1 3000 0
+15-25-40 | [INFO] ADD VEHICULE
+15-25-40 | [INFO] new VehiculeData
+15-25-40 | [INFO] ParkInRequest by player:Barba_Imersivo
+15-30-59 | [INFO] GarageRequestHandler
+15-30-59 | [INFO] loading time:9937
+15-30-59 | [INFO] send GarageResponse
+15-30-59 | [INFO] GarageRequest by player:Barba_Imersivo
+15-31-13 | [INFO] GarageRequestHandler
+15-31-13 | [INFO] loading time:20811
+15-31-13 | [INFO] send GarageResponse
+15-31-13 | [INFO] GarageRequest by player:Barba_Imersivo
+15-31-36 | [INFO] GarageRequestHandler
+15-31-36 | [INFO] loading time:11111
+15-31-36 | [INFO] send GarageResponse
+15-31-36 | [INFO] GarageRequest by player:Barba_Imersivo
+15-31-39 | [INFO] GarageRequestHandler
+15-31-39 | [INFO] loading time:20783
+15-31-39 | [INFO] send GarageResponse
+15-31-39 | [INFO] GarageRequest by player:Barba_Imersivo
+15-31-41 | [INFO] GarageRequestHandler
+15-31-41 | [INFO] loading time:13420
+15-31-41 | [INFO] send GarageResponse
+15-31-41 | [INFO] GarageRequest by player:Barba_Imersivo
+15-31-43 | [INFO] GarageRequestHandler
+15-31-43 | [INFO] loading time:12640
+15-31-43 | [INFO] send GarageResponse
+15-31-43 | [INFO] GarageRequest by player:Barba_Imersivo
+15-32-9 | [INFO] GarageRequestHandler
+15-32-9 | [INFO] loading time:15782
+15-32-9 | [INFO] send GarageResponse
+15-32-9 | [INFO] GarageRequest by player:Barba_Imersivo
+15-32-21 | [INFO] GarageRequestHandler
+15-32-21 | [INFO] loading time:15689
+15-32-21 | [INFO] send GarageResponse
+15-32-21 | [INFO] GarageRequest by player:Barba_Imersivo
+15-32-25 | [INFO] GarageRequestHandler
+15-32-25 | [INFO] loading time:12725
+15-32-25 | [INFO] send GarageResponse
+15-32-25 | [INFO] GarageRequest by player:Barba_Imersivo
+15-33-46 | [INFO] GarageRequestHandler
+15-33-46 | [INFO] loading time:22174
+15-33-46 | [INFO] send GarageResponse
+15-33-46 | [INFO] GarageRequest by player:Barba_Imersivo
+15-35-34 | [INFO] GarageRequestHandler
+15-35-34 | [INFO] loading time:15865
+15-35-34 | [INFO] send GarageResponse
+15-35-34 | [INFO] GarageRequest by player:Barba_Imersivo
+15-40-4 | [INFO] GarageRequestHandler
+15-40-4 | [INFO] loading time:20734
+15-40-4 | [INFO] send GarageResponse
+15-40-4 | [INFO] GarageRequest by player:Barba_Imersivo

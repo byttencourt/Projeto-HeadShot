@@ -1,0 +1,20 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] Exporting 7 DropZone coordinates.
+[ExportDropZones] DropZone coordinates exported to VPP Map file.
+[AirdropBase] Base class created & settings loaded.
+[2023-02-23 @ 13-55-21] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Nuclear Power Plant <7515.000000, 0.000000, 15227.000000>
+[EOnCallAirdrop] Drop zone offset to: <7521.119629, 2438.000000, 15160.227539>
+[EOnCallAirdrop] Aircraft spawn point: <10546.448242, 2438.000000, 21474.900391>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 1.11906° / 25.8824°, Text: 'North/East (026°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Nuclear Power Plant' (10546.4/21474.9), from the North/East (026°).
+[2023-02-23 @ 14-25-48] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Gringos Camping Resort <14726.000000, 0.000000, 10338.000000>
+[EOnCallAirdrop] Drop zone offset to: <14732.668945, 2438.000000, 10392.606445>
+[EOnCallAirdrop] Aircraft spawn point: <21474.900391, 2438.000000, 13413.512695>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.427589° / 65.501°, Text: 'North/East (066°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Gringos Camping Resort' (21474.9/13413.5), from the North/East (066°).

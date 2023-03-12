@@ -1,0 +1,13 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] Exporting 7 DropZone coordinates.
+[ExportDropZones] DropZone coordinates exported to VPP Map file.
+[AirdropBase] Base class created & settings loaded.
+[2023-02-23 @ 15-02-56] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Vesna Village <13535.000000, 0.000000, 18753.000000>
+[EOnCallAirdrop] Drop zone offset to: <13580.892578, 2438.000000, 18759.259766>
+[EOnCallAirdrop] Aircraft spawn point: <21251.982422, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -1.19836° / 158.661°, Text: 'South (159°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Vesna Village' (21252/-1000), from the South (159°).

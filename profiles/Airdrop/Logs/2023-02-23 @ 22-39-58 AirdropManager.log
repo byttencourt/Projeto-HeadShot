@@ -1,0 +1,27 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] Exporting 7 DropZone coordinates.
+[ExportDropZones] DropZone coordinates exported to VPP Map file.
+[AirdropBase] Base class created & settings loaded.
+[2023-02-23 @ 23-11-08] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Vesna Village <13535.000000, 0.000000, 18753.000000>
+[EOnCallAirdrop] Drop zone offset to: <13544.643555, 2438.000000, 18772.607422>
+[EOnCallAirdrop] Aircraft spawn point: <21474.900391, 2438.000000, 6498.949707>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.99587° / 147.059°, Text: 'South/East (147°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Vesna Village' (21474.9/6498.95), from the South/East (147°).
+[2023-02-23 @ 23-41-24] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Limansk <7282.000000, 0.000000, 1008.000000>
+[EOnCallAirdrop] Drop zone offset to: <7288.984375, 2438.000000, 1032.002075>
+[EOnCallAirdrop] Aircraft spawn point: <6675.226074, 2438.000000, 21474.900391>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 1.60043° / 358.302°, Text: 'North (358°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Limansk' (6675.23/21474.9), from the North (358°).
+[2023-02-24 @ 00-11-46] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Chernobyl Radio Station <14248.000000, 0.000000, 1612.000000>
+[EOnCallAirdrop] Drop zone offset to: <14229.535156, 2438.000000, 1707.680176>
+[EOnCallAirdrop] Aircraft spawn point: <21474.900391, 2438.000000, 16244.223633>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 1.11204° / 26.2849°, Text: 'North/East (026°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Chernobyl Radio Station' (21474.9/16244.2), from the North/East (026°).

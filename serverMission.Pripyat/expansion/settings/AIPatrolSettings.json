@@ -1,0 +1,328 @@
+{
+    "m_Version": 11,
+    "Enabled": 1,
+    "DespawnTime": 60.0,
+    "RespawnTime": 600.0,
+    "MinDistRadius": 200.0,
+    "MaxDistRadius": 1100.0,
+    "DespawnRadius": 1200.0,
+    "AccuracyMin": -1.0,
+    "AccuracyMax": -1.0,
+    "ThreatDistanceLimit": 400,
+    "DamageMultiplier": -1.0,
+    "ObjectPatrols": [
+        
+        {
+            "Faction": "East",
+            "LoadoutFile": "PoliceLoadout",
+            "NumberOfAI": -3,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 50.0,
+            "RespawnTime": -2.0,
+            "Chance": 1.0,
+            "ClassName": "Land_Wreck_sed01_aban1_police"
+        },
+        {
+            "Faction": "East",
+            "LoadoutFile": "PoliceLoadout",
+            "NumberOfAI": -3,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 50.0,
+            "RespawnTime": -2.0,
+            "Chance": 1.0,
+            "ClassName": "Land_Wreck_sed01_aban2_police"
+        },
+        {
+            "Faction": "West",
+            "LoadoutFile": "GorkaLoadout",
+            "NumberOfAI": -4,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 50.0,
+            "RespawnTime": -2.0,
+            "Chance": 1.0,
+            "ClassName": "Wreck_UH1Y"
+        },
+        {
+            "Faction": "East",
+            "LoadoutFile": "PoliceLoadout",
+            "NumberOfAI": -3,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 50.0,
+            "RespawnTime": -2.0,
+            "Chance": 1.0,
+            "ClassName": "Land_Wreck_hb01_aban2_police"
+        },
+        {
+            "Faction": "East",
+            "LoadoutFile": "PoliceLoadout",
+            "NumberOfAI": -3,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 50.0,
+            "RespawnTime": -2.0,
+            "Chance": 1.0,
+            "ClassName": "Land_Wreck_hb01_aban1_police"
+        },
+        {
+            "Faction": "West",
+            "LoadoutFile": "PoliceLoadout",
+            "NumberOfAI": -4,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 50.0,
+            "RespawnTime": -2.0,
+            "Chance": 1.0,
+            "ClassName": "Wreck_Mi8_Crashed"
+        },
+        {
+            "Faction": "West",
+            "LoadoutFile": "NBCLoadout",
+            "NumberOfAI": -5,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 50.0,
+            "RespawnTime": -2.0,
+            "Chance": 1.0,
+            "ClassName": "ContaminatedArea_Dynamic"
+        },
+        {
+            "Faction": "West",
+            "LoadoutFile": "NBCLoadout",
+            "NumberOfAI": -5,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 50.0,
+            "RespawnTime": -2.0,
+            "Chance": 1.0,
+            "ClassName": "ContaminatedArea_Static"
+        }
+    ],
+    "Patrols": [
+        {
+            "Faction": "Shamans",
+            "LoadoutFile": "GorkaLoadout",
+            "NumberOfAI": -5,
+            "Behaviour": "Loop",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 50.0,
+            "Chance": 1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    7678.22,
+                    9.75,
+                    14691.1
+                ],
+                [
+                    6345.83,
+                    9.75,
+                    14699.1
+                ],
+                [
+                    6353.74,
+                    9.82,
+                    14885.9
+                ]
+            ]
+        },
+        {
+            "Faction": "Shamans",
+            "LoadoutFile": "GorkaLoadout",
+            "NumberOfAI": -5,
+            "Behaviour": "Loop",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 50.0,
+            "Chance": 1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    8459.56,
+                    8.23,
+                    11818.8
+                ],
+                [
+                    7803.23,
+                    10.01,
+                    12673.1
+                ],
+                [
+                    7173.01,
+                    9.32,
+                    13156.9
+                ]
+            ]
+        },
+        {
+            "Faction": "Shamans",
+            "LoadoutFile": "GorkaLoadout",
+            "NumberOfAI": -5,
+            "Behaviour": "Loop",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 50.0,
+            "Chance": 1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    14097.50,
+                    11.42,
+                    1972.50
+                ],
+                [
+                    14750.00,
+                    11.42,
+                    1850.00
+                ],
+                [
+                    14427.50,
+                    11.5,
+                    2165.00
+                ]
+            ]
+        },
+        {
+            "Faction": "Shamans",
+            "LoadoutFile": "GorkaLoadout",
+            "NumberOfAI": 4,
+            "Behaviour": "Loop",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 50.0,
+            "Chance": 1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    11234.8,
+                    8.88,
+                    2405.02
+                ],
+                [
+                    11157.8,
+                    8.48,
+                    2412.9
+                ],
+                [
+                    11161.297852, 
+                    8.943195, 
+                    2481.476807
+
+                ]
+            ]
+        },
+        {
+            "Faction": "Shamans",
+            "LoadoutFile": "GorkaLoadout",
+            "NumberOfAI": -5,
+            "Behaviour": "Loop",
+            "Speed": "SPRINT",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 50.0,
+            "Chance": 1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    15978.5,
+                    26.04,
+                    11409.3
+                ],
+                [
+                    15953.2,
+                    28.73,
+                    11338
+                ],
+                [
+                    15652,
+                    25.74,
+                    11501.6
+                ]
+            ]
+        }
+    ]
+}

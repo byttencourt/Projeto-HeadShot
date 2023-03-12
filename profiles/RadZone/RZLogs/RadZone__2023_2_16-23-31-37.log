@@ -1,0 +1,141 @@
+Creation Time: 2023_2_16-23-31-37
+23-31-37 | [INFO] RZRadZoneCore - Started ! => Loading config...
+23-31-37 | [INFO] Checking if old config...
+23-31-37 | [INFO] Current config loading...
+23-31-37 | [INFO] RadZoneJsonLoader::LoadFromFile Loaded file: $profile:RadZone\RZConfig\ClothesProtectionConfigV1.json
+23-31-37 | [INFO] RadZoneJsonLoader::LoadFromFile Loaded file: $profile:RadZone\RZConfig\CrateSystemConfigV1.json
+23-31-37 | [INFO] RadZoneJsonLoader::LoadFromFile Loaded file: $profile:RadZone\RZConfig\RadiationConfigV1.json
+23-31-37 | [INFO] CrateSystem - Started !
+23-31-37 | [INFO] RZRadZoneServer - Started
+23-32-20 | [INFO] LootSpawner - Started !
+23-32-20 | [INFO] CheckCreatureStatus Started !
+23-32-20 | [INFO] Object:Creature equal to 0!
+23-32-20 | [INFO] [LOOTSYSTEM]: [CrateCleaner] !
+23-32-20 | [INFO] [LOOTSYSTEM]: CrateList equal to 0!
+23-32-20 | [INFO] NumberOfCratePerTime: 1
+23-32-20 | [INFO] Crates count:7
+23-32-20 | [INFO] Crate pos:<4623.640137, 343.319000, 9557.330078>maxloot: 10
+23-32-20 | [INFO] [LOOTSYSTEM]: A previous case has been found at that location and got deleted!
+23-32-20 | [INFO] [LOOTSYSTEM]: Spawned CrateName: Army2- Position: X:4623.64 Y:343.319 Z:9557.33
+23-32-20 | [INFO] AmmoBox_545x39_20Rnd
+23-32-20 | [INFO] AK_RailHndgrd_Black
+23-32-20 | [INFO] AK74_WoodBttstck
+23-32-20 | [INFO] AK_Bayonet
+23-32-20 | [INFO] AK_FoldingBttstck_Black
+23-32-20 | [INFO] SVD + Mag_SVD_10Rnd
+23-32-20 | [INFO] AK74 + Mag_AK74_30Rnd
+23-32-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+23-32-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+23-32-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+23-32-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+23-32-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+23-32-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+23-32-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+23-32-20 | [INFO] [CREATURE SYSTEM] Animal_UrsusArctos has spawned !
+23-32-20 | [INFO] NumberOfCratePerTime: 1
+23-32-20 | [INFO] Crates count:7
+23-32-20 | [INFO] Crate pos:<11860.200195, 141.061005, 12423.500000>maxloot: 10
+23-32-20 | [INFO] [LOOTSYSTEM]: A previous case has been found at that location and got deleted!
+23-32-20 | [INFO] [LOOTSYSTEM]: Spawned CrateName: Army2- Position: X:11860.2 Y:141.061 Z:12423.5
+23-32-20 | [INFO] Fal_FoldingBttstck
+23-32-20 | [INFO] Fal_OeBttstck
+23-32-20 | [INFO] FAL + Mag_FAL_20Rnd
+23-32-20 | [INFO] AmmoBox_545x39_20Rnd
+23-32-20 | [INFO] AK74 + Mag_AK74_30Rnd
+23-32-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+23-32-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+23-32-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+23-32-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+23-32-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+23-32-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+23-32-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+23-32-20 | [INFO] [CREATURE SYSTEM] Animal_UrsusArctos has spawned !
+0-17-20 | [INFO] LootSpawner - Started !
+0-17-20 | [INFO] CheckCreatureStatus Started !
+0-17-20 | [INFO] Object:Creature deleted!
+0-17-20 | [INFO] Object:Creature deleted!
+0-17-20 | [INFO] Object:Creature deleted!
+0-17-20 | [INFO] Object:Creature deleted!
+0-17-20 | [INFO] Object:Creature deleted!
+0-17-20 | [INFO] Object:Creature deleted!
+0-17-20 | [INFO] Object:Creature deleted!
+0-17-20 | [INFO] Object:Creature deleted!
+0-17-20 | [INFO] Object:Creature deleted!
+0-17-20 | [INFO] Object:Creature deleted!
+0-17-20 | [INFO] [LOOTSYSTEM]: [CrateCleaner] !
+0-17-20 | [INFO] NumberOfCratePerTime: 1
+0-17-20 | [INFO] Crates count:7
+0-17-20 | [INFO] Crate pos:<4623.640137, 343.319000, 9557.330078>maxloot: 10
+0-17-20 | [INFO] [LOOTSYSTEM]: Spawned CrateName: Army2- Position: X:4623.64 Y:343.319 Z:9557.33
+0-17-20 | [INFO] Fal_FoldingBttstck
+0-17-20 | [INFO] Fal_OeBttstck
+0-17-20 | [INFO] FAL + Mag_FAL_20Rnd
+0-17-20 | [INFO] AmmoBox_556x45_20Rnd
+0-17-20 | [INFO] AK74 + Mag_AK74_30Rnd
+0-17-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+0-17-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+0-17-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+0-17-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+0-17-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+0-17-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+0-17-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+0-17-20 | [INFO] [CREATURE SYSTEM] Animal_UrsusArctos has spawned !
+0-17-20 | [INFO] NumberOfCratePerTime: 1
+0-17-20 | [INFO] Crates count:7
+0-17-20 | [INFO] Crate pos:<11860.200195, 141.061005, 12423.500000>maxloot: 10
+0-17-20 | [INFO] [LOOTSYSTEM]: Spawned CrateName: Army2- Position: X:11860.2 Y:141.061 Z:12423.5
+0-17-20 | [INFO] AmmoBox_545x39_20Rnd
+0-17-20 | [INFO] AmmoBox_556x45_20Rnd
+0-17-20 | [INFO] PSO1Optic
+0-17-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+0-17-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+0-17-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+0-17-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+0-17-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+0-17-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+0-17-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+0-17-20 | [INFO] [CREATURE SYSTEM] Animal_UrsusArctos has spawned !
+1-2-20 | [INFO] LootSpawner - Started !
+1-2-20 | [INFO] CheckCreatureStatus Started !
+1-2-20 | [INFO] Object:Creature deleted!
+1-2-20 | [INFO] Object:Creature deleted!
+1-2-20 | [INFO] Object:Creature deleted!
+1-2-20 | [INFO] Object:Creature deleted!
+1-2-20 | [INFO] Object:Creature deleted!
+1-2-20 | [INFO] Object:Creature deleted!
+1-2-20 | [INFO] Object:Creature deleted!
+1-2-20 | [INFO] Object:Creature deleted!
+1-2-20 | [INFO] Object:Creature deleted!
+1-2-20 | [INFO] Object:Creature deleted!
+1-2-20 | [INFO] [LOOTSYSTEM]: [CrateCleaner] !
+1-2-20 | [INFO] NumberOfCratePerTime: 1
+1-2-20 | [INFO] Crates count:7
+1-2-20 | [INFO] Crate pos:<4623.640137, 343.319000, 9557.330078>maxloot: 10
+1-2-20 | [INFO] [LOOTSYSTEM]: Spawned CrateName: Army2- Position: X:4623.64 Y:343.319 Z:9557.33
+1-2-20 | [INFO] AmmoBox_545x39_20Rnd
+1-2-20 | [INFO] AK74 + Mag_AK74_30Rnd
+1-2-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+1-2-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+1-2-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+1-2-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+1-2-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+1-2-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+1-2-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+1-2-20 | [INFO] [CREATURE SYSTEM] Animal_UrsusArctos has spawned !
+1-2-20 | [INFO] NumberOfCratePerTime: 1
+1-2-20 | [INFO] Crates count:7
+1-2-20 | [INFO] Crate pos:<11860.200195, 141.061005, 12423.500000>maxloot: 10
+1-2-20 | [INFO] [LOOTSYSTEM]: Spawned CrateName: Army2- Position: X:11860.2 Y:141.061 Z:12423.5
+1-2-20 | [INFO] AmmoBox_545x39_20Rnd
+1-2-20 | [INFO] AmmoBox_556x45_20Rnd
+1-2-20 | [INFO] AK74_WoodBttstck
+1-2-20 | [INFO] AK_Suppressor
+1-2-20 | [INFO] SVD + Mag_SVD_10Rnd
+1-2-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+1-2-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+1-2-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+1-2-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+1-2-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+1-2-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+1-2-20 | [INFO] [CREATURE SYSTEM] Animal_CanisLupus_Grey has spawned !
+1-2-20 | [INFO] [CREATURE SYSTEM] Animal_UrsusArctos has spawned !

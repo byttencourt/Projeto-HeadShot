@@ -1,0 +1,327 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-2-23_15-22-6
+====================================================================================
+15:22:6 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+15:22:6 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+15:22:6 | [PermissionManager] Perm (FreeCamera) has been registered!
+15:22:6 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuItemManager) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuServerManager) has been registered!
+15:22:6 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+15:22:6 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+15:22:6 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+15:22:6 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+15:22:6 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+15:22:6 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+15:22:6 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+15:22:6 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+15:22:6 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+15:22:6 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+15:22:6 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+15:22:6 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+15:22:6 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+15:22:6 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+15:22:6 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+15:22:6 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+15:22:6 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+15:22:6 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+15:22:6 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+15:22:6 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+15:22:6 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+15:22:6 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+15:22:6 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+15:22:6 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+15:22:6 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+15:22:6 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+15:22:6 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+15:22:6 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+15:22:6 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+15:22:6 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+15:22:6 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+15:22:6 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+15:22:6 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuBansManager) has been registered!
+15:22:6 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+15:22:6 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+15:22:6 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+15:22:6 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+15:22:6 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+15:22:6 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+15:22:6 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+15:22:6 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+15:22:6 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+15:22:6 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+15:22:6 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+15:22:6 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+15:22:6 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+15:22:6 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+15:22:6 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+15:22:6 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+15:22:6 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+15:22:6 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+15:22:6 | [PermissionManager] Adding Super Admin (76561197994877771)
+15:22:6 | [PermissionManager] Loaded UserGroups.json
+15:22:6 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+15:22:6 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+15:22:6 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+15:22:6 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+15:22:6 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+15:22:6 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+15:22:6 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+15:22:6 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+15:22:6 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+15:22:6 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+15:22:6 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+15:22:6 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+15:22:6 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+15:22:6 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+15:22:6 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+15:22:6 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+15:22:6 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+15:22:6 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+15:22:6 | Building Sets Loaded: 1
+15:22:6 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+15:22:6 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+15:23:42 | Player "Barba_Imersivo" (steamId=76561197994877771) connected to server!
+15:52:58 | "Barba_Imersivo" (steamid=76561197994877771) healed player (steamid=76561197994877771)
+15:56:23 | "Barba_Imersivo" (steamid=76561197994877771) healed player (steamid=76561197994877771)
+15:59:49 | "Barba_Imersivo" (steamid=76561197994877771) toggled godmode
+15:59:49 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+15:59:50 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+15:59:50 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+15:59:50 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+15:59:50 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+15:59:51 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+15:59:51 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+16:0:3 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+16:0:6 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+16:0:39 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+16:1:1 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7070.788086, 11.312866, 15107.893555>)
+16:1:5 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+16:1:11 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+16:2:5 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7138.084473, 9.639989, 15170.816406>)
+16:2:6 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7181.256836, 10.350778, 15178.652344>)
+16:2:6 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7181.255371, 10.333965, 15178.654297>)
+16:2:6 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7181.254395, 10.310786, 15178.654297>)
+16:2:6 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7181.254883, 10.287095, 15178.654297>)
+16:2:6 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7181.255371, 10.263132, 15178.653320>)
+16:2:6 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7181.255859, 10.239193, 15178.653320>)
+16:2:6 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7288.621582, 10.165097, 15198.118164>)
+16:2:6 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7288.621094, 10.162870, 15198.116211>)
+16:2:6 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7288.620117, 10.168068, 15198.086914>)
+16:2:6 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7288.620117, 10.168349, 15198.080078>)
+16:2:6 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7288.620117, 10.166739, 15198.079102>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7288.782227, 11.619594, 15198.098633>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.055176, 12.309658, 15198.156250>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.056152, 12.267404, 15198.156250>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.057129, 12.230439, 15198.155273>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.058105, 12.193460, 15198.154297>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.058594, 12.156487, 15198.152344>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.059570, 12.117412, 15198.151367>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.060547, 12.072582, 15198.150391>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.061523, 12.033363, 15198.148438>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.062988, 11.988527, 15198.147461>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.089844, 12.142627, 15198.152344>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.148438, 12.525248, 15198.162109>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.215332, 12.962525, 15198.173828>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.274414, 13.345153, 15198.185547>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.341797, 13.782436, 15198.196289>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.343262, 13.748513, 15198.196289>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.344238, 13.695140, 15198.194336>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.345215, 13.653621, 15198.192383>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.346191, 13.594332, 15198.190430>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.346680, 13.550778, 15198.188477>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.347656, 13.494583, 15198.186523>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.347656, 13.450878, 15198.185547>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.348633, 13.407162, 15198.183594>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.384766, 13.621833, 15198.186523>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.454590, 14.074780, 15198.194336>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.541016, 14.640960, 15198.203125>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.602051, 15.037282, 15198.207031>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.638184, 15.238991, 15198.210938>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.638184, 15.186731, 15198.209961>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.638184, 15.134468, 15198.208008>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.637695, 15.088737, 15198.207031>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.657227, 15.173460, 15198.206055>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.735352, 15.647248, 15198.208008>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.812012, 16.121035, 15198.208984>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.895020, 16.624022, 15198.211914>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.895508, 16.514023, 15198.208008>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.895508, 16.424644, 15198.205078>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.895508, 16.303194, 15198.200195>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7289.895996, 16.180725, 15198.195313>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7292.533203, 17.025206, 15197.592773>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7292.528320, 18.087765, 15197.456055>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7342.097656, 9.640023, 15180.261719>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7292.822754, 18.638041, 15197.555664>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7292.821777, 18.630810, 15197.549805>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7292.820313, 18.624411, 15197.545898>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7292.819336, 18.613255, 15197.540039>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.107910, 20.225029, 15197.498047>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.106934, 20.214125, 15197.495117>)
+16:2:7 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.106934, 20.202211, 15197.491211>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.105469, 20.188967, 15197.487305>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.104980, 20.167725, 15197.482422>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.109863, 20.180107, 15197.476563>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.270996, 21.102272, 15197.433594>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7344.823730, 9.639973, 15166.222656>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7344.812500, 9.640037, 15166.440430>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7344.799316, 9.639976, 15166.671875>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7345.135254, 9.640000, 15166.808594>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7345.479004, 9.640000, 15166.916992>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7345.824707, 9.640006, 15167.026367>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7349.423340, 9.639981, 15167.324219>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7349.286133, 9.639986, 15167.396484>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7349.124023, 9.639982, 15167.482422>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7349.717773, 9.640006, 15167.707031>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7350.666016, 9.640005, 15167.929688>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7351.486816, 9.639987, 15168.195313>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7351.703613, 9.639996, 15168.616211>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7352.006348, 9.640004, 15169.199219>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7352.640625, 9.640007, 15169.584961>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.393066, 21.182713, 15197.358398>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.393555, 21.133413, 15197.354492>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.394043, 21.085102, 15197.350586>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7357.684082, 9.639996, 15172.237305>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7358.928223, 9.640004, 15173.331055>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7359.588867, 9.639990, 15174.591797>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7360.340820, 9.640005, 15176.102539>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7360.275391, 9.640000, 15176.962891>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7359.632813, 9.639990, 15177.908203>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7358.990234, 9.639997, 15178.833984>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7358.547363, 9.640003, 15179.883789>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7358.136719, 9.639993, 15181.175781>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7357.800781, 9.639998, 15182.175781>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7356.720703, 9.639997, 15182.809570>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7355.638184, 9.639996, 15183.403320>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7354.708008, 9.639997, 15183.817383>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7354.325195, 9.639998, 15183.902344>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7354.006836, 9.639996, 15183.974609>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7353.243164, 9.639993, 15184.144531>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7352.201660, 9.640001, 15184.375977>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7351.455078, 9.640002, 15184.518555>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7350.177734, 9.639993, 15184.621094>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7348.935059, 9.639996, 15184.722656>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7347.504395, 9.640000, 15184.727539>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7346.453613, 9.640002, 15184.630859>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7345.508301, 9.640001, 15184.547852>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.414063, 19.517311, 15197.349609>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.415527, 19.434443, 15197.351563>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.417969, 19.344687, 15197.354492>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.419434, 19.272909, 15197.357422>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.421387, 19.186192, 15197.361328>)
+16:2:8 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.435059, 18.575661, 15197.395508>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.471191, 15.343891, 15197.401367>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.472168, 15.147653, 15197.391602>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.472656, 15.032043, 15197.386719>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.473145, 14.915337, 15197.380859>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.473633, 14.808210, 15197.375000>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.473633, 14.629653, 15197.366211>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.474121, 14.423904, 15197.356445>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7293.473145, 14.301631, 15197.350586>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7323.886719, 9.639978, 15185.425781>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7322.968262, 9.639997, 15185.779297>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7322.128418, 9.640015, 15186.103516>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7321.288574, 9.639999, 15186.427734>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7320.437988, 9.640002, 15186.755859>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7319.232910, 9.639984, 15187.221680>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7318.457520, 9.639988, 15187.521484>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7317.676270, 9.639992, 15187.824219>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7316.795410, 9.639994, 15188.166992>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7315.826172, 9.639997, 15188.541992>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7314.944824, 9.639980, 15188.885742>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7314.135254, 9.639986, 15189.201172>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7313.234863, 9.639996, 15189.552734>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7312.334961, 9.639999, 15189.902344>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7311.420410, 9.640000, 15190.258789>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7310.591309, 9.639998, 15190.583008>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7309.670410, 9.639982, 15190.942383>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7308.742676, 9.639985, 15191.303711>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7307.799316, 9.639990, 15191.672852>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7306.854980, 9.639994, 15192.041016>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7305.911133, 9.639997, 15192.410156>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7305.833008, 9.639997, 15192.439453>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7305.829590, 9.639997, 15192.441406>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7305.826172, 9.639997, 15192.441406>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7305.490723, 9.639998, 15192.493164>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.953125, 9.639980, 15192.565430>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.494141, 9.639983, 15192.622070>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.083984, 9.639985, 15192.666992>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.127930, 9.639985, 15192.650391>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.171875, 9.639985, 15192.633789>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.214844, 9.639984, 15192.618164>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.259277, 9.639984, 15192.603516>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.295410, 9.639983, 15192.591797>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.326172, 9.639984, 15192.583008>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.354980, 9.639983, 15192.575195>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.376465, 9.639985, 15192.570313>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.392090, 9.639984, 15192.568359>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.401367, 9.639984, 15192.569336>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.405273, 9.639983, 15192.571289>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.406250, 9.639983, 15192.574219>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.403809, 9.639983, 15192.580078>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.399902, 9.639985, 15192.584961>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.395996, 9.639983, 15192.587891>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.391113, 9.639982, 15192.591797>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.388672, 9.639982, 15192.594727>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.386719, 9.639982, 15192.595703>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.385254, 9.639984, 15192.594727>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.384277, 9.639984, 15192.595703>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.383301, 9.639983, 15192.596680>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.382324, 9.639984, 15192.597656>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.380859, 9.639983, 15192.597656>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.379883, 9.639983, 15192.597656>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.379395, 9.639983, 15192.597656>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.378906, 9.639983, 15192.598633>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.378418, 9.639983, 15192.598633>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.378906, 9.639984, 15192.598633>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.378906, 9.639984, 15192.598633>)
+16:2:9 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.379395, 9.639983, 15192.598633>)
+16:2:10 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.380371, 9.639983, 15192.598633>)
+16:2:10 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.380859, 9.639982, 15192.599609>)
+16:2:10 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.380859, 9.639984, 15192.599609>)
+16:2:10 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.381348, 9.639982, 15192.599609>)
+16:2:10 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.558105, 9.184910, 15192.067383>)
+16:2:10 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.560547, 9.182721, 15192.066406>)
+16:2:10 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.570801, 9.183043, 15192.061523>)
+16:2:10 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.671387, 9.087914, 15192.037109>)
+16:2:11 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7304.818848, 2.162687, 15191.912109>)
+16:2:11 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7305.122070, 3.238787, 15191.834961>)
+16:2:11 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7305.423340, 3.894113, 15191.686523>)
+16:2:11 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7305.720703, 5.009554, 15191.524414>)
+16:2:12 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7306.059570, 4.008763, 15191.457031>)
+16:2:12 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7306.417480, 4.856558, 15191.424805>)
+16:2:12 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7306.791504, 5.640144, 15191.378906>)
+16:2:12 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7307.177734, 5.663357, 15191.264648>)
+16:2:12 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7307.561035, 6.373699, 15191.120117>)
+16:2:12 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7307.946777, 6.569787, 15190.971680>)
+16:2:12 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7308.354980, 7.190341, 15190.880859>)
+16:2:12 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7308.781250, 7.591365, 15190.829102>)
+16:2:13 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7309.216309, 7.218337, 15190.774414>)
+16:2:13 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7309.665039, 7.189243, 15190.648438>)
+16:2:13 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7310.110840, 6.978754, 15190.483398>)
+16:2:13 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<7310.561523, 6.454952, 15190.329102>)
+16:3:30 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+16:4:2 | "Barba_Imersivo" (steamid=76561197994877771) teleported to crosshair (pos=<3909.081055, 15.422384, 5545.241211>)
+16:4:8 | "Barba_Imersivo" (steamid=76561197994877771) toggled freecam
+16:7:6 | Player "Barba_Imersivo" (steamId=76561197994877771) initiated disconnect process...
+16:7:7 | Player "Barba_Imersivo" (steamId=76561197994877771) initiated disconnect process...

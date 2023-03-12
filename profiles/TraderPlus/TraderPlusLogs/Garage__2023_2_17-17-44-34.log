@@ -1,0 +1,98 @@
+Creation Time: 2023_2_17-17-44-34
+17-44-34 | [INFO] GarageCore - Started !
+17-44-34 | [INFO] GarageServer - Started
+17-45-13 | [INFO] obj created: SurvivorM_Boris
+17-45-13 | [INFO] TraderPlayer created and added!: 
+17-45-13 | [INFO] obj created: SurvivorM_Boris
+17-45-13 | [INFO] TraderPlayer created and added!: 
+17-45-41 | [INFO] GarageRequestHandler
+17-45-41 | [INFO] loading time:14344
+17-45-41 | [INFO] send GarageResponse
+17-45-41 | [INFO] GarageRequest by player:Barba_Imersivo
+17-45-54 | [INFO] GarageRequestHandler
+17-45-54 | [INFO] loading time:16631
+17-45-54 | [INFO] send GarageResponse
+17-45-54 | [INFO] GarageRequest by player:Barba_Imersivo
+17-46-16 | [INFO] GarageRequestHandler
+17-46-16 | [INFO] loading time:9677
+17-46-16 | [INFO] send GarageResponse
+17-46-16 | [INFO] GarageRequest by player:Barba_Imersivo
+17-47-20 | [INFO] GarageRequestHandler
+17-47-20 | [INFO] loading time:9719
+17-47-20 | [INFO] send GarageResponse
+17-47-20 | [INFO] GarageRequest by player:Barba_Imersivo
+17-47-26 | [INFO] new VehiculeData
+17-47-33 | [INFO] GarageRequestHandler
+17-47-33 | [INFO] loading time:14960
+17-47-33 | [INFO] send GarageResponse
+17-47-33 | [INFO] GarageRequest by player:Barba_Imersivo
+17-47-58 | [INFO] GarageRequestHandler
+17-47-58 | [INFO] loading time:12542
+17-47-58 | [INFO] send GarageResponse
+17-47-58 | [INFO] GarageRequest by player:Barba_Imersivo
+17-48-1 | [INFO] ParkOutRequestHandler
+17-48-1 | [INFO] ParkOutRequestHandler data: 994877771 2 Interceptor <15132.700195, 6.680000, 3208.610107>
+17-48-1 | [INFO] distance: 0
+17-48-1 | [INFO] distance < 5
+17-48-1 | [INFO] distance: 6370.19
+17-48-1 | [INFO] garageData.Vehicles[listpos].VehicleName == carname
+17-48-1 | [INFO] CreateVehicle
+17-48-1 | [INFO] childrens.Count():12
+17-48-1 | [INFO] childrens[i]:SparkPlugi:0
+17-48-1 | [INFO] create att
+17-48-1 | [INFO] ent exist
+17-48-1 | [INFO] item exist
+17-48-1 | [INFO] childrens[i]:CarBatteryi:1
+17-48-1 | [INFO] create att
+17-48-1 | [INFO] ent exist
+17-48-1 | [INFO] item exist
+17-48-1 | [INFO] childrens[i]:CarRadiatori:2
+17-48-1 | [INFO] create att
+17-48-1 | [INFO] ent exist
+17-48-1 | [INFO] item exist
+17-48-1 | [INFO] childrens[i]:HeadlightH7i:3
+17-48-1 | [INFO] create att
+17-48-1 | [INFO] ent exist
+17-48-1 | [INFO] item exist
+17-48-1 | [INFO] childrens[i]:HeadlightH7i:4
+17-48-1 | [INFO] create att
+17-48-1 | [INFO] ent exist
+17-48-1 | [INFO] item exist
+17-48-1 | [INFO] childrens[i]:Interceptor_Doors_Driveri:5
+17-48-1 | [INFO] create att
+17-48-1 | [INFO] ent exist
+17-48-1 | [INFO] item exist
+17-48-1 | [INFO] childrens[i]:Interceptor_Doors_coDriveri:6
+17-48-1 | [INFO] create att
+17-48-1 | [INFO] ent exist
+17-48-1 | [INFO] item exist
+17-48-1 | [INFO] childrens[i]:Interceptor_Doors_hoodi:7
+17-48-1 | [INFO] create att
+17-48-1 | [INFO] ent exist
+17-48-1 | [INFO] item exist
+17-48-1 | [INFO] childrens[i]:Interceptor_Wheeli:8
+17-48-1 | [INFO] create att
+17-48-1 | [INFO] ent exist
+17-48-1 | [INFO] item exist
+17-48-1 | [INFO] childrens[i]:Interceptor_Wheeli:9
+17-48-1 | [INFO] create att
+17-48-1 | [INFO] ent exist
+17-48-1 | [INFO] item exist
+17-48-1 | [INFO] childrens[i]:Interceptor_Wheeli:10
+17-48-1 | [INFO] create att
+17-48-1 | [INFO] ent exist
+17-48-1 | [INFO] item exist
+17-48-1 | [INFO] childrens[i]:Interceptor_Wheeli:11
+17-48-1 | [INFO] create att
+17-48-1 | [INFO] ent exist
+17-48-1 | [INFO] item exist
+17-48-1 | [INFO] Set Health:10000
+17-48-1 | [INFO] Set Fuel:72
+17-48-1 | [INFO] Set Lock:-1
+17-48-1 | [INFO] vehicle orientation: 0x000000004b417508 {<-117.5,-0,0>}
+17-48-1 | [INFO] vehicle orientation: 0x000000004b417508 {<-117.5,-0,0>}
+17-48-1 | [INFO] ParkOutRequest by player:Barba_Imersivo
+17-48-55 | [INFO] GarageRequestHandler
+17-48-55 | [INFO] loading time:15622
+17-48-55 | [INFO] send GarageResponse
+17-48-55 | [INFO] GarageRequest by player:Barba_Imersivo

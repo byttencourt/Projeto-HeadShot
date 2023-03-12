@@ -1,0 +1,135 @@
+Creation Time: 2023_2_19-0-13-39
+0-13-39 | [INFO] GarageCore - Started !
+0-13-39 | [INFO] GarageServer - Started
+0-14-13 | [INFO] obj created: SurvivorM_Boris
+0-14-13 | [INFO] TraderPlayer created and added!: 
+0-14-13 | [INFO] obj created: SurvivorM_Boris
+0-14-13 | [INFO] TraderPlayer created and added!: 
+0-17-51 | [INFO] GarageRequestHandler
+0-17-51 | [INFO] loading time:85879
+0-17-51 | [INFO] send GarageResponse
+0-17-51 | [INFO] GarageRequest by player:Barba_Imersivo
+0-18-4 | [INFO] GarageRequestHandler
+0-18-4 | [INFO] loading time:14061
+0-18-4 | [INFO] send GarageResponse
+0-18-4 | [INFO] GarageRequest by player:Barba_Imersivo
+0-18-10 | [INFO] ParkOutRequestHandler
+0-18-10 | [INFO] ParkOutRequestHandler data: 994877771 0 EGER <15132.700195, 6.680000, 3208.610107>
+0-18-10 | [INFO] distance: 0
+0-18-10 | [INFO] distance < 5
+0-18-10 | [INFO] distance: 6370.19
+0-18-10 | [INFO] garageData.Vehicles[listpos].VehicleName == carname
+0-18-10 | [INFO] CreateVehicle
+0-18-10 | [INFO] childrens.Count():20
+0-18-10 | [INFO] childrens[i]:CarBatteryi:0
+0-18-10 | [INFO] create item in cargo
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:FALi:1
+0-18-10 | [INFO] create item in cargo
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens.Count():1
+0-18-10 | [INFO] childrens[i]:GCGN_Mag_FAL_50Rndi:0
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] childrens[i]:EngineOili:2
+0-18-10 | [INFO] create item in cargo
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:EGER_Tenti:3
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:EGER_Doors_Driveri:4
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:EGER_Doors_coDriveri:5
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:EGER_Doors_hoodi:6
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:EGER_Doors_trunki:7
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:EGER_Doors_cargo2i:8
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:EGER_Doors_cargo1i:9
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:EGER_Wheeli:10
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:EGER_Wheeli:11
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:EGER_Wheeli:12
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:EGER_Wheeli:13
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:SparkPlugi:14
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:CarRadiatori:15
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:HeadlightH7i:16
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:TruckBatteryi:17
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:HeadlightH7i:18
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens[i]:FAMASi:19
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] childrens.Count():1
+0-18-10 | [INFO] childrens[i]:Mag_FAMAS_25Rndi:0
+0-18-10 | [INFO] create att
+0-18-10 | [INFO] ent exist
+0-18-10 | [INFO] item exist
+0-18-10 | [INFO] Set Health:5000
+0-18-10 | [INFO] Set Fuel:104.977
+0-18-10 | [INFO] Set Lock:34660046
+0-18-10 | [INFO] vehicle orientation: 0x0000000086b9a558 {<-117.5,-0,0>}
+0-18-10 | [INFO] vehicle orientation: 0x0000000086b9a558 {<-117.5,-0,0>}
+0-18-10 | [INFO] ParkOutRequest by player:Barba_Imersivo
+0-18-17 | [INFO] GarageRequestHandler
+0-18-17 | [INFO] loading time:17289
+0-18-17 | [INFO] send GarageResponse
+0-18-17 | [INFO] GarageRequest by player:Barba_Imersivo
+0-18-19 | [INFO] ParkInRequestHandler
+0-18-19 | [INFO] MustHaveLock:1 - SaveLock:0
+0-18-19 | [INFO] Vehicle DataEGER 34660046 5000 104.977
+0-18-19 | [INFO] ADD VEHICULE
+0-18-19 | [INFO] new VehiculeData
+0-18-19 | [INFO] ParkInRequest by player:Barba_Imersivo
+0-18-46 | [INFO] GarageRequestHandler
+0-18-46 | [INFO] loading time:9167
+0-18-46 | [INFO] send GarageResponse
+0-18-46 | [INFO] GarageRequest by player:Barba_Imersivo
+0-34-0 | [INFO] GarageRequestHandler
+0-34-0 | [INFO] loading time:10411
+0-34-0 | [INFO] send GarageResponse
+0-34-0 | [INFO] GarageRequest by player:Barba_Imersivo

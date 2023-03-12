@@ -1,0 +1,43 @@
+12:20:17 [Party] Player "Barba_Imersivo" (id=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=) joinded the party "headshot" (id=0 ownerUID=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I= ownerName=Barba_Imersivo)
+12:21:12 [VehicleEnter] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] entered vehicle CH-47 Chinook Helicopter (id=9FE4916C1A4BCB0904898B858ACF2C1E pos=<13541.798828, 7.770240, 18668.761719>) as driver
+12:21:16 [VehicleEngine] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] started vehicle CH-47 Chinook Helicopter (id=9FE4916C1A4BCB0904898B858ACF2C1E pos=<13541.798828, 7.770201, 18668.761719>)
+12:21:19 [VehicleEngine] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] started vehicle CH-47 Chinook Helicopter (id=9FE4916C1A4BCB0904898B858ACF2C1E pos=<13541.798828, 7.770177, 18668.761719>)
+12:21:26 [VehicleEngine] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] started vehicle CH-47 Chinook Helicopter (id=9FE4916C1A4BCB0904898B858ACF2C1E pos=<13541.798828, 7.770241, 18668.761719>)
+12:21:30 [VehicleLeave] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] left vehicle CH-47 Chinook Helicopter (id=9FE4916C1A4BCB0904898B858ACF2C1E pos=<13541.798828, 7.770161, 18668.761719>)
+12:21:41 [VehicleDeleted] Helichinook_RF (id=9FE4916C1A4BCB0904898B858ACF2C1E pos=<13541.798828, 7.770170, 18668.761719>)
+12:22:01 [VehicleEnter] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] entered vehicle UH1D (id=12D151A8E5482B1C928BE59A19936643 pos=<13549.600586, 7.764229, 18678.041016>) as driver
+12:22:06 [VehicleEngine] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] started vehicle UH1D (id=12D151A8E5482B1C928BE59A19936643 pos=<13549.600586, 7.764513, 18678.041016>)
+12:22:09 [VehicleEngine] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] started vehicle UH1D (id=12D151A8E5482B1C928BE59A19936643 pos=<13549.600586, 7.764514, 18678.041016>)
+12:22:13 [VehicleEngine] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] started vehicle UH1D (id=12D151A8E5482B1C928BE59A19936643 pos=<13549.600586, 7.764513, 18678.041016>)
+12:22:20 [VehicleLeave] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] left vehicle UH1D (id=12D151A8E5482B1C928BE59A19936643 pos=<13549.600586, 7.764514, 18678.041016>)
+12:22:25 [VehicleDeleted] HeliSIB_UH1D (id=12D151A8E5482B1C928BE59A19936643 pos=<13549.600586, 7.764513, 18678.041016>)
+12:22:50 [VehicleEnter] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] entered vehicle Ônibus (id=C9D3693B0849F7FAD2B00BAA01F447C4 pos=<13543.585938, 7.882198, 18667.556641>) as driver
+12:22:51 [VehicleEngine] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] started vehicle Ônibus (id=C9D3693B0849F7FAD2B00BAA01F447C4 pos=<13543.585938, 7.882192, 18667.556641>)
+12:22:58 [VehicleEngine] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] stopped vehicle Ônibus (id=C9D3693B0849F7FAD2B00BAA01F447C4 pos=<13543.585938, 7.882198, 18667.556641>)
+12:23:03 [VehicleLeave] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] left vehicle Ônibus (id=C9D3693B0849F7FAD2B00BAA01F447C4 pos=<13543.585938, 7.882198, 18667.556641>)
+12:23:07 [VehicleDeleted] ExpansionBus_Weeb (id=C9D3693B0849F7FAD2B00BAA01F447C4 pos=<13543.585938, 7.882193, 18667.556641>)
+12:24:31 [Party] Player "Barba_Imersivo" (id=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=) left the party "headshot" (id=0 ownerUID=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I= ownerName=Barba_Imersivo)
+12:24:58 [Party] Player "Barba_Imersivo" (id=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=) joinded the party "headshot" (id=0 ownerUID=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I= ownerName=Barba_Imersivo)
+12:26:09 [VehicleEnter] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] entered vehicle Jeep_Wnagler (id=171E9B64DF415D3FB9092B977AAE9E8C pos=<13434.015625, 6.604443, 18499.167969>) as driver
+12:26:12 [VehicleEngine] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] started vehicle Jeep_Wnagler (id=171E9B64DF415D3FB9092B977AAE9E8C pos=<13434.015625, 6.604533, 18499.167969>)
+12:26:35 [AI Patrol] Spawning 1 Mercenaries bots at <13613.497070, 7.939560, 18576.458984>
+12:26:36 [AI Patrol] Spawning 1 Mercenaries bots at <13590.196289, 7.889415, 18610.888672>
+12:27:21 [VehicleLeave] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] left vehicle Jeep_Wnagler (id=171E9B64DF415D3FB9092B977AAE9E8C pos=<12780.826172, 7.126099, 18229.089844>)
+12:27:57 [VehicleAttachments] Player Barba_Imersivo (uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=) detached Radiador de carro (type=CarRadiator) from vehicle Jeep_Wnagler(id=171E9B64DF415D3FB9092B977AAE9E8C pos=<12780.826172, 7.126096, 18229.089844>)
+12:28:53 [VehicleEnter] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] entered vehicle Land Rover Defender 110 Green (id=850D3FC3954D82FFD91D7DA37C13914F pos=<12772.354492, 7.265686, 18229.214844>) as driver
+12:28:55 [VehicleEngine] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] started vehicle Land Rover Defender 110 Green (id=850D3FC3954D82FFD91D7DA37C13914F pos=<12772.354492, 7.265686, 18229.214844>)
+12:29:17 [VehicleLeave] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] left vehicle Land Rover Defender 110 Green (id=850D3FC3954D82FFD91D7DA37C13914F pos=<12790.508789, 7.135372, 18235.294922>)
+12:29:44 [VehicleDeleted] Jeep_Wnagler (id=171E9B64DF415D3FB9092B977AAE9E8C pos=<12780.525391, 7.131572, 18229.113281>)
+12:29:47 [VehicleDeleted] ExpansionUh1h (id=6932455F5548518B8C539CBF509429D7 pos=<12781.315430, 7.253146, 18233.859375>)
+12:30:02 [VehicleEnter] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] entered vehicle UH-1H (id=6FC89BFC9A4FB6B3E39FA0A4881A485C pos=<12767.545898, 7.382163, 18225.511719>) as pilot
+12:30:05 [VehicleEngine] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] started vehicle UH-1H (id=6FC89BFC9A4FB6B3E39FA0A4881A485C pos=<12767.545898, 7.382218, 18225.511719>)
+12:30:59 [VehicleDeleted] CrSk_Land_Rover_Defender_110_Green (id=850D3FC3954D82FFD91D7DA37C13914F pos=<12790.508789, 7.135370, 18235.294922>)
+12:33:12 [VehicleEngine] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] stopped vehicle UH-1H (id=6FC89BFC9A4FB6B3E39FA0A4881A485C pos=<14064.409180, 4.974823, 18413.578125>)
+12:33:16 [VehicleEngine] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] started vehicle UH-1H (id=6FC89BFC9A4FB6B3E39FA0A4881A485C pos=<14064.428711, 4.975689, 18413.576172>)
+12:33:34 [VehicleEngine] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] stopped vehicle UH-1H (id=6FC89BFC9A4FB6B3E39FA0A4881A485C pos=<14064.412109, 4.976303, 18413.587891>)
+12:33:52 [VehicleLeave] Player Barba_Imersivo [uid=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=] left vehicle UH-1H (id=6FC89BFC9A4FB6B3E39FA0A4881A485C pos=<14064.409180, 4.976641, 18413.591797>)
+12:33:58 [VehicleDeleted] ExpansionUh1h_Green (id=6FC89BFC9A4FB6B3E39FA0A4881A485C pos=<14064.416992, 4.978555, 18413.597656>)
+12:35:21 [Party] Player "Barba_Imersivo" (id=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=) joinded the party "headshot" (id=0 ownerUID=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I= ownerName=Barba_Imersivo)
+12:35:21 [AI Patrol] Spawning 1 Mercenaries bots at <15254.818359, 14.953306, 1765.923950>
+12:36:12 [Party] Player "Barba_Imersivo" (id=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=) joinded the party "headshot" (id=0 ownerUID=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I= ownerName=Barba_Imersivo)
+12:37:13 [Party] Player "Barba_Imersivo" (id=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I=) left the party "headshot" (id=0 ownerUID=y5tvJ1kpP-wFiLya9EcS0I27-rJqniJ-cSI1z7Lv22I= ownerName=Barba_Imersivo)
