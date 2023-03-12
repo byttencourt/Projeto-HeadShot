@@ -25,7 +25,7 @@ Recomendado uso do Omega Manager para gerenciamento dos mods e autalizações ev
 - Step 1: baixar Omega Manager: https://cdn.cftools.de/om/OmegaManager.exe.
 - Step 2: Inscrever-se nos mods abaixo e suas respectivas dependências, através da Oficina da Steam.
 
-### Mods dependentes e referencias Oficina
+### Mods dependentes e referências da Oficina
 | Mod | cód oficina |
 | ----------- | ----------- |
 | @Pripyat | 2929038098 |
