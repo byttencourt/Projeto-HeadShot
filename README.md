@@ -4,12 +4,12 @@
 
 
 # Descrição
-Com objetivo de desenvolver um Servidor de Sobrevivência na Plataforma Dayz StandAlone foi criado o Projeto HeadShot.
+Com o objetivo de desenvolver um Servidor de Sobrevivência na Plataforma Dayz foi criado o Projeto HeadShot.
 
 # Características
-Mais que apenas um servidor de sobrevivência o projeto foi ambientado no mapa de Pripyat (Chernobyl) recebeu com diversas melhorias e funções não disponíveis na versão do jogo base. Algumas das opções incluem o sobrevivente poder utilizar a economia para fazer micro-transações através de compras e vendas na trader-zone, itens, alimentos, armamentos, roupas e até veículos. Além de construir bases com sistema BaseBuildingPlus.  
+Mais que apenas um servidor de sobrevivência, o projeto foi ambientado no mapa de Pripyat (Chernobyl), onde recebeu diversas melhorias e funções não disponíveis na versão do jogo base. Algumas das opções incluem: utilizar a economia para fazer micro-transações como compras e vendas de itens, alimentos, armamentos, roupas e até veículos na trader-zone. Possibilidade de construir bases com sistema BaseBuildingPlus.  
 
-Diversas atualizações e melhorias foram aplicadas com a utilização de Soluções disponíveis pela Comunidade do Dayz através da Oficina.
+Diversas atualizações e melhorias foram aplicadas com a utilização de Soluções disponíveis através da Oficina.
 
 - Mapa Pripyat recriado em escala 1:1 da Zona de Exclusão de Chernobyl.
 - Edição Personalizada através do DayzEditor Adicionando locais e Construções no mapa.
